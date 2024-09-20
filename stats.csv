@@ -1,0 +1,82 @@
+#id,enabled / disabled,order in ui,operation type,measure postfix,group for ui header,name for human,"effects' list: changed value (percent to multiplier), value for 0, value for 100",,is good stat? (for ui),"custom params:
+hide - hide from ui",desctiption of stat,,
+@name,enabled,order,op,measure,group,nameUi,effect,#effectTodo,good,param,desc,#formula notes,#
+default,1,0,,,,,,,y,,,,
+##,,,,,,general,,,,,,,
+tower_main,,,sum,,Min Requirements,$Stats_name_tower_main,,,,hide,$LoadingScreens_Text_51,,
+tower_sec,,,sum,,Min Requirements,$Stats_name_tower_sec,,,,hide,$LoadingScreens_Text_52,,
+gun_main,,,auto,,Min Requirements,$Stats_name_gun_main,,,,hide,$Stats_desc_gun_main,,
+funnel,,,sum,,Min Requirements,$Stats_name_funnel,,,,hide,$Stats_desc_funnel,,
+torpedo,,,sum,,Min Requirements,$Stats_name_torpedo,,,,hide,$Stats_desc_torpedo,,
+hsize,,,sum,,Min Requirements,$Stats_name_hsize,,,,hide,$Stats_name_hsize,"Hull size, used only for distribution of hit chance between hull and parts",
+##,,,,,,Detection,,,,,,,
+vis,,,sum,m,Detection,$Stats_name_vis,,,n,,$Stats_desc_vis,,
+tspot,,,max,m,Detection,$Stats_name_tspot,,,,,$Stats_desc_tspot,,
+size,,,sum,,Detection,$Stats_name_size,"hit_size(0;+60), vis_mod(0;+55)",,n,,$Stats_desc_size,All Ship's Size modifiers add up and are multiplying ship's detectability size (e.g. Ship Size*= 1+ 25/100),
+torpedo_detect,,,sum,,Detection,$Stats_name_torpedo_detect,torpedo_detect(0;100),,,,$Stats_desc_torpedo_detect,,
+spot,,,sum,m,Detection,$Stats_name_spot,,,,hide,$Stats_desc_spot,,
+##,,,,,,Hull Performance,,,,,,,
+endurance,,,sum,,Hull,$Stats_name_endurance,"gun_damage(+35;-35),
+torpedo_damage(+30;-20),
+ ricochet_chance(-35;75), armor_max_mod(-0; 0)",,,,$Stats_desc_endurance,"Min/Max Value: 0 to 100
+HullEndurance_Min_Damage_Mod: +35%, HullEndurance_Max_Damage_Mod: 0% (Modifies ”damage” inflicted to ship)HullEndurance_Min_StructureSlowDown_Mod: +35%, HullEndurance_Max_StructureSlowDown _Mod: 0% (Modifies ”structure_slowdown”)
+HullEndurance_Min_RicochetChance_Mod: -30%, HullEndurance_Max_RicochetChance_Mod: +30% (Modifies ”ricochet_chance”)
+HullEndurance_Min_RicochetAngle_Mod: 35%, HullEndurance_Max_RicochetAngle_Mod: -35% (Modifies ”ricochet_ricochet_angle”)",
+hull_form,,,max,,Hull,$Stats_name_hull_form,"acceleration(-55;+55), rotation_speed(-85;+85), structure_slowdown(+35;0), engine_weight(+102;-25), turning_slowdown(-59; 5), rotation_speed_change(-35;20), operating_range(-35;15), cruise_speed_stat(-5;5)",,,,$Stats_desc_hull_form,"Min/Max Value: 0 to 100
+HullForm_Min_Acceleration_Mod: -80% HullForm_Max_Acceleration_Mod= +80%  (Modifies “acceleration”)
+HullForm_Min_RotationSpeed_Mod: -80%, HullForm_ RotationSpeed_Mod= 80%  (Modifies “rotation_speed”)
+HullForm_Min_EngineWeight_Mod: +35%, HullForm_ RotationSpeed_Mod= -35% (Modifies “engineWeightMod”)
+HullForm_Min_Maintainance_Mod: +35%, HullForm_Max_Maintainance_Mod: = -35%  (Modifies “ship_maintenance”)",
+stability,,,max,,Hull,$Stats_name_stability,"accuracy(-50;25), accuracy_waves(+75;-25), accuracy_cruise(-80;+30), acc_turning_self(35;-35)",,,,$Stats_desc_stability,"Min/Max Value: 0 to 100
+Stability_Min_Base_Accuracy_Mod: -25%, Stability_Max_Base_Accuracy_Mod: +25%
+Stability_Min_WeatherPenalty_Mod: +45%, Stability_Max_Weather_Mod: -45% (Stability will be negatively modified by bad weather and effect is filtered)
+Stability_Min_SpeedPenalty_Mod: +25%, Stability_SpeedPenalty _Mod: -25% (Stability will be negatively modified by speed curve, and effect is filtered)",
+floatability,,,max,,Hull,$Stats_name_floatability,"flooding_chance(+50;-50), flooding_stop(-50;+25), flooding_water(+45;-2.5), flooding_slowdown(+55;-35)",weather_damage(+65;-65),,,$Stats_desc_floatability,"Min/Max Value: 0 to 100
+Floatability_Min_Flooding_Chance_Mod = +50%, Floatability_Max_Flooding_Chance_Mod = -50% (Modifies “flooding_mod_chance_from_damage”)
+Floatability_Min_Flooding_Stop_Mod = -50%, Floatability_Max_Flooding_Stop_Mod = +50% (Modifies “Flooding_stop_chance”)
+Floatability_Min_Flooding_Water_Mod = +30%, Floatability_Max_Flooding_Water_Mod = -30% (Modifies “flooding_water”)
+Floatability_Min_Flooding_Slowdown_Mod = +35%, Floatability_Max_Flooding_Slowdown_Mod = -35% (Modifies “surv_flooding_slowdown_decrease”)
+Floatability_Min_WeatherDamage_Mod = +65%, Floatability_Max_WeatherDamage_Mod = -65% (Weather damage chance and mod is modified)",
+turn,,,sum,,Hull,$Stats_name_turn,"turning_slowdown(-75;15), deceleration(15;-15), operating_range(-15;15), rotation_speed(+75;-15)",,,,$Stats_desc_turn,,
+instability_z,,,auto,,Hull,$Stats_name_instability_z,"accuracy(0;-30), accuracy_waves(0;+25), accuracy_cruise(0;-25), acc_turning_self(0;+25), flooding_chance(0;+15), flooding_water(0;+10), acceleration(0;-35), rotation_speed(0;-30), turning_slowdown(0;-18), rotation_speed_change(0;-55), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-2.5)",,n,,$Stats_desc_instability_z,,
+instability_x,,,auto,,Hull,$Stats_name_instability_x,"accuracy(0;-40), accuracy_waves(0;+35), accuracy_cruise(0;-55), acc_turning_self(0;+70), flooding_chance(0;+25), flooding_water(0;+20), acceleration(0;-40), rotation_speed(0;-33), turning_slowdown(0;-10), rotation_speed_change(0;-55), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-2.5)",,n,,$Stats_desc_instability_x,,
+instability_zz,,,auto,,Hull,$Stats_name_instability_zz,"accuracy(0;-25), accuracy_waves(0;+25), accuracy_cruise(0;-55), acc_turning_self(0;+70), flooding_chance(0;+25),  flooding_water(0;+15), acceleration(0;-45), rotation_speed(0;-25), turning_slowdown(0;-10), rotation_speed_change(0;-48), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-5)",,n,,$Stats_desc_instability_zz,,
+instability_xx,,,auto,,Hull,$Stats_name_instability_xx,"accuracy(0;-25), accuracy_waves(0;+35), accuracy_cruise(0;-50), acc_turning_self(0;+70), flooding_chance(0;+35),  flooding_water(0;+25), acceleration(0;-30), rotation_speed(0;-27), turning_slowdown(0;-15), rotation_speed_change(0;-48), deceleration(0;50), operating_range(0;-15), cruise_speed_stat(0;-5)",,n,,$Stats_desc_instability_xx,,
+beam,,,sum,,Hull,$Stats_name_beam,"accuracy(-7.5;7.5), accuracy_waves(+15;-15), accuracy_cruise(-10;10), acc_turning_self(+15;-15), flooding_chance(+15;-15),  flooding_water(-25;+25), acceleration(25;-25), rotation_speed(-10;10), turning_slowdown(25;-25), rotation_speed_change(-15;15), deceleration(-25;25), operating_range(25;-25), gun_damage(+20;-20),
+torpedo_damage(+20;-20),
+ ricochet_chance(-15;15), engine_weight(-35;35), hit_size(-10;+10), vis_mod(-10;+10), flooding_slowdown(-25;25), cruise_speed_stat(5;-5)",,,,$Stats_desc_beam,,
+draught,,,sum,,Hull,$Stats_name_draught,"accuracy(7.5;-7.5), accuracy_waves(15;-15), accuracy_cruise(-15;15), acc_turning_self(-20;20), flooding_chance(-15;+15),  flooding_water(25;-25), acceleration(15;-15), rotation_speed(10;-10), turning_slowdown(15;-15), rotation_speed_change(15;-15), deceleration(-25;25), operating_range(-30;30), gun_damage(+15;-15),
+torpedo_damage(+20;-20),
+ ricochet_chance(10;-10), engine_weight(-20;20), hit_size(-25;+25), vis_mod(-20;+20), flooding_slowdown(15;-15), flooding_stop(-15;+15), cruise_speed_stat(-5;5)",,,,$Stats_desc_draught,,
+barbette,,,max,,Hull,$Stats_name_barbette,"flash_stat(0; -45), flash_spread_stat(0; -40)",,,,$Stats_desc_barbette,,
+barbette_sec,,,max,,Hull,$Stats_name_barbette,"flash_stat(0; -45), flash_spread_stat(0; -40)",,,,$Stats_desc_barbette,,
+barbette_ter,,,max,,Hull,$Stats_name_barbette,"flash_stat(0; -45), flash_spread_stat(0; -40)",,,,$Stats_desc_barbette,,
+##,,,,,,Tower,,,,,,,
+acc,,,sum,,Towers,$Ui_Constr_BaseAccuracy,accuracy(0;100),,,,$Stats_desc_acc,Increases Base Accuracy of main guns with a colorized % multiplicative modifier.,
+acc_long,,,sum,,Towers,$Stats_name_acc_long,accuracy_long(0;100),,,,$Stats_desc_acc_long,,
+aim,,,sum,,Towers,$Ui_Constr_AimingSpeed,aim(0;100),,,,$Stats_desc_aim,,
+night,,,max,,Towers,$Stats_name_night,,,,,$Stats_desc_night,"Night Vision: Decreases visibility penalties during night. Indication can be positive, for example +25% and this % will decrease the effect of visibility penalty on a night battle. PS. We can also enable spotlight effects later showing them to target enemy vessels.",
+radio,,,max,,Towers,$Stats_name_radio,flagman_range(0;+1000),,,,$Stats_desc_radio,"Increases the range of radio and is by default added to all towers. When Radio Ranges of ships are inside flagship’s radio, there is zero response time in commands. Otherwise there is a time delay between min/max values (e.g. 5 – 30 secs). Indication will be like this “Radio: 5 Km”. If we have two towers then the maximum radio range will be used, so that if one tower becomes destroyed, the other one is still able to communicate with radio.",
+radar,,,max,,Towers,$Ui_Constr_Radar,,,,hide,$Stats_desc_night,"It is available only to specific towers of the latest technology. Indication will be like this “Radar: 15 Km”. 
+
+During battle: The effect of Radar will be to spot all surface ships within this distance. Spotting will enable HUD for those objects and make them targetable no matter if they are inside visibility range and this radius will be unaffected from weather and night.
+In Campaign map: Sum of Radar Km will modify weights of missions so that they become more favourable for the side that has more radar equipped ships. For example we will add a modifier to Defender = -0.1 for Ambush Defense mission and if we have one ship with radar 15 km then weight will be modified by 
+-0.1*15= -0.015 or -15%. (To avoid issues we will set a max modification, lets say +-60%).",
+sonar,,,max,,Towers,$Stats_name_sonar,,,,hide,$Stats_desc_night,"This device becomes available from technology and it appears to towers statistics, simulating the equipment needed to read its data. Sonar will be only available to submarines, DD and CL and will be used on the same slot with Hydrophone (cannot add both). Indication will be like this “Sonar: 8 Km” and the effect will be similar to Hydrophone only that ranges and efficiency will be higher.
+
+During battle: Sonar detects underwater objects such as submarines, torpedoes, mines, making them targetable from small guns with increased accuracy. 
+In Campaign map: The max Sonar device setting for the ship increases ASW capacity with increased efficiency as opposed to Hydrophone. ",
+fire_ex,,,sum,,Towers,$Ui_Constr_details_DamageControl,"pump(0;175), fire_stop(0;300), module_repair(0;300)",,,,$Stats_desc_fire_ex,,
+smoke,,,sum,,Towers,$StatEffect_Name_smoke,"accuracy(0;-5), vis_mod(0;+10)",,n,,$Stats_desc_smoke,,
+##,,,,,,Engine & Funnels,,,,,,,
+smoke_exhaust,,,auto,%,Engine,$Stats_name_smoke_exhaust,"acceleration(-87.5;50), acceleration_top(-90;100), operating_range(-37.5;20), cruise_speed_stat(-5;2.5)","acceleration_old(-95;25), speed_max(-15;0)",,,$Stats_desc_smoke_exhaust,,
+fcap,,,sum, khp,Engine,$Stats_name_fcap,,,,,$Stats_desc_fcap,,
+##,,,,,,Special,,,,,,,
+overweight,,,sum,,Flaws,$Stats_name_overweight,"hullweight(0;15), accuracy_waves(0;10), accuracy_cruise(0;7.5), acc_turning_self(0;10), flooding_chance(0;+25),  flooding_water(0;+25), acceleration(0;-20), rotation_speed(0;-17.5), turning_slowdown(0;+20), rotation_speed_change(0;-20), deceleration(0;20), operating_range(0;-12.5), pump(0;-12.5), fire_stop(0;-10), module_repair(0;-12.5), acceleration_top(0;-25), gun_damage(0;-5),
+torpedo_damage(0;-5),
+ ricochet_chance(0;6), structure_slowdown(0;-15)",,n,,$Stats_desc_overweight,,
+underweight,,,sum,,Flaws,$Stats_name_underweight,"hullweight(0;-15), accuracy_waves(0;-15), accuracy_cruise(0;-12.5), acc_turning_self(0;-12.5), flooding_chance(0;-15),  flooding_water(0;-15), acceleration(0;15), rotation_speed(0;17.5), turning_slowdown(0;-20), rotation_speed_change(0;-20), deceleration(0;-20), operating_range(0;12.5), pump(0;7.5), fire_stop(0;5), module_repair(0;8), acceleration_top(0;12.5), gun_damage(0;5),
+torpedo_damage(0;5),
+ ricochet_chance(0;-6), structure_slowdown(0;15)",,n,,$Stats_desc_underweight,,
+hull_defects,,,sum,,Flaws,$Stats_name_hull_defects,tech_effect(0;-10),,n,"engine(-), boiler(-), fuel(-), fuel_eff(+), cruising_speed(+), turning(+), turning_change(+), pump(+), anti_fire(-), fire_stop(+), module_repair(+), module_repair_engine(+), flooding_stop(+), detonation(-), torpedo_anti_damage(-), torpedo_anti_flooding(-), antimine(-), armor_str(+)",$Stats_desc_hull_defects,,
+weapon_defects,,,sum,,Flaws,$Stats_name_weapon_defects,tech_effect(0;-15),,n,"accuracy(+), accuracy_long(+), accuracy_waves(+), reload(-), aim(+), gun_rotation(+), shell_velocity(+), torpedo_rotation(+), torpedo_accuracy(+), torpedo_reload(-),  flash(-), flash_explosion(-), flash_spread(-), ammo_amount(+)",$Stats_desc_weapon_defects,,

@@ -1,0 +1,30 @@
+#id,type's group,name for ui,params:,,,,
+"group_guns - group guns tech by caliber unlocked""",,ui tooltip,,Ai tech priorities (0-100),,,
+@name,group,nameUi,param,campaignEnabled,tooltip,#Comment,techPriority
+special,special,,,,,,0
+engine_engine,engine,$techType_name_engine_engine,,1,$techType_tooltip_engine_engine,ToEnable,100
+engine_boiler,engine,$compTypes_name_short_boilers,,1,$techType_tooltip_engine_boiler,ToEnable,100
+engine_special,engine,$techType_name_engine_special,,1,$techType_tooltip_engine_special,ToEnable,100
+hull_strength,hull,$techType_name_hull_strength,,1,$techType_tooltip_hull_strength,,100
+hull_construction,hull,$techType_name_hull_construction,,1,$techType_tooltip_hull_construction,ships,100
+hull_cruiser,hull,$techType_name_hull_cruiser,,1,$techType_tooltip_hull_cruiser,ships,100
+hull_destroyer,hull,$techType_name_hull_destroyer,,1,$techType_tooltip_hull_destroyer,ships,100
+armor_quality,armor,$Ui_Constr_ArmorQuality,,1,$techType_tooltip_armor_quality,ToEnable,100
+armor_forging,armor,$techType_name_armor_forging,,1,$techType_tooltip_armor_forging,ToEnable,100
+aim_control,aim,$techType_name_aim_control,,1,$techType_tooltip_aim_control,ToEnable,100
+aim_rangefinder,aim,$techType_name_aim_rangefinder,,1,$techType_tooltip_aim_rangefinder,ToEnable,100
+surv_hull,surv,$techType_name_surv_hull,,1,$techType_tooltip_surv_hull,ToEnable,100
+surv_internal,surv,$techType_name_surv_internal,,1,$techType_tooltip_surv_internal,ToEnable,100
+gun_layout,gun,$techType_name_gun_layout,,1,$techType_tooltip_gun_layout,,100
+gun_mech,gun,$techType_name_gun_mech,,1,$techType_tooltip_gun_mech,ToEnable,100
+gun_main,gun,$techType_name_gun_main,group_guns,1,$techType_tooltip_gun_main,Guns,100
+gun_sec,gun,$techType_name_gun_sec,group_guns,1,$techType_tooltip_gun_sec,Guns,100
+projectile_shell,projectile,$techType_name_projectile_shell,,1,$techType_tooltip_projectile_shell,ToEnable,100
+projectile_explosive,projectile,$techType_name_projectile_explosive,,1,$techType_tooltip_projectile_explosive,ToEnable,100
+torpedo_tubes,torpedo,$techEffect_desc_torp_mark,,1,$techType_tooltip_torpedo_tubes,Torpedo models,100
+torpedo_size,torpedo,$techType_name_torpedo_size,,1,$techType_tooltip_torpedo_size,ToEnable,100
+torpedo_prop,torpedo,$compTypes_name_torpedo_prop,,1,$techType_tooltip_torpedo_prop,ToEnable,100
+tactics_tactics,tactics,$techType_name_tactics_tactics,,1,$techType_tooltip_tactics_tactics,,100
+tactics_comm,tactics,$techType_name_tactics_comm,,1,$techType_tooltip_tactics_comm,ToEnable,100
+tactics_mines,tactics,$Ui_Constr_Mines,,1,$techType_tooltip_tactics_mines,,100
+tactics_asw,tactics,$techType_name_tactics_asw,,1,$techType_tooltip_tactics_asw,ToEnable,100

@@ -1,0 +1,17 @@
+#player name,default civil flag filename,default naval jack filename, per-government flags for civil,for naval
+# the government types used by the game are: Monarchy, Fascists, Communists, Democracy,
+# so for example:,,,,
+# britain,britain.png,britain.png,"Communists(britainCommunist.png), Democracy(britainRepublic.png)",
+# note that flags can be either PNG (no alpha channel) or JPG, and must be 256x128 pixels,,,
+@name,civilFlag,navalFlag,civilGovFlags,navalGovFlags
+portugal,portugalGov.png,portugalGov.png,"Monarchy(portugalMonarchy.png),Fascists(portugalFascist.png),Communists(portugalCommunist.png),Democracy(portugalGov.png)","Monarchy(portugalMonarchyNaval.png),Fascists(portugalGov.png),Communists(portugalGov.png),Democracy(portugalGov.png)"
+netherlands,dutch.png,dutchNaval.png,"Monarchy(dutch.png),Fascists(dutchFascist.png),Communists(dutchCommunist.png),Democracy(dutch.png)","Monarchy(dutchNaval.png),Fascists(dutchNaval.png),Communists(dutchNaval.png),Democracy(dutchNaval.png)"
+ottoman,ottoman.png,ottomanNaval.png,"Monarchy(ottoman.png),Democracy(ottoman.png),Communists(ottoman.png),Fascists(ottoman.png)","Monarchy(ottomanNaval.png), Democracy(ottomanNaval.png),Communists(ottomanNaval.png),Fascists(ottomanNaval.png)"
+brazil,brazil.png,brazilNaval.png,"Monarchy(brazilMonarchy.png),Fascists(brazilFascist.png),Communists(brazilCommunist.png),Democracy(brazil.png)","Monarchy(brazilNaval.png),Fascists(brazilNaval.png),Communists(brazilNaval.png),Democracy(brazilNaval.png)"
+argentina,argentina.png,argentina.png,"Monarchy(argentinaMonarchy.png),Fascists(argentinaFascist.png),Communists(argentinaCommunist.png),Democracy(argentina.png)","Monarchy(argentina.png),Fascists(argentina.png),Communists(argentina.png),Democracy(argentina.png)"
+chile,chile.png,chileNaval.png,"Monarchy(chileMonarchy.png),Fascists(chileFascist.png),Communists(chileCommunist.png),Democracy(chile.png)","Monarchy(chileNaval.png), Fascists(chileNaval.png),Communists(chileNaval.png),Democracy(chileNaval.png)"
+germany,germanyMonarchy.png,germanyMonarchyNaval.png,"Monarchy(germanyMonarchy.png),Fascists(germanyFascist.png),Communists(germanyCommunist.png),Democracy(germanyGov.png)","Monarchy(germanyMonarchyNaval.png),Fascists(germanyFascistNaval.png),Communists(germanyGovNaval.png),Democracy(germanyGovNaval.png)"
+spain,spainMonarchy.png,spainMonarchy.png,"Monarchy(spainMonarchy.png),Fascists(spainFascist.png),Communists(spainCommunist.png),Democracy(spanishGov.png)","Monarchy(spainMonarchy.png),Fascists(spainNavalJack.png),Communists(spanishGov.png),Democracy(spanishGov.png)"
+greece,greeceDemocracy.png,greeceNaval.png,"Monarchy(greeceMonarchy.png),Fascists(greeceFascist.png),Communists(greeceDemocracy.png),Democracy(greeceDemocracy.png)","Monarchy(greeceNaval.png),Fascists(greeceNaval.png),Communists(greeceNaval.png),Democracy(greeceNaval.png)"
+austria,austriaMonarchy.png,austriaMonarchy.png,"Monarchy(austriaMonarchy.png),Fascists(austriaFascist.png),Communists(austriaCommunist.png),Democracy(austriaFantasyDemocracy.png)","Monarchy(austriaMonarchyNaval.png),Fascists(austriaFantasyDemocracyNaval2.png),Communists(austriaFantasyDemocracyNaval2.png),Democracy(austriaFantasyDemocracyNaval2.png)"
+,,,,

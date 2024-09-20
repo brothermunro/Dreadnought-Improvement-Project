@@ -1,0 +1,12 @@
+#id,name for ui,tooltip's text for ui
+@name,nameUi,tooltip
+special,,
+engine,$techGroup_name_engine,$techGroup_tooltipengine
+hull,$techGroup_name_hull,$techGroup_tooltiphull
+armor,$techGroup_name_armor,$techGroup_tooltiparmor
+aim,$Ui_Battle_FireControl,$techGroup_tooltipaim
+surv,$Ui_Constr_details_DamageControl,$techGroup_tooltipsurv
+gun,$techGroup_name_gun,$techGroup_tooltipgun
+projectile,$techGroup_name_projectile,$techGroup_tooltipprojectile
+torpedo,$techGroup_name_torpedo,$techGroup_tooltiptorpedo
+tactics,$techGroup_name_tactics,$techGroup_tooltiptactics

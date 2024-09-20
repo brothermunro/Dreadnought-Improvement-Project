@@ -1,0 +1,8 @@
+name,NavalBudgetMod,GDPGrowthMod,RegionDevelopmentMod,MilitaryPowerMod,UnrestMod,nameUI,nameUIMod
+AbsoluteMonarchy,1.2,0.93,0.95,1.13,1.05,$Goverment_name_AbsoluteMonarchy,
+ConstitutionalMonarchy,1.15,0.95,0.99,1.1,0.9,$Goverment_name_ConstitutionalMonarchy,
+NationalistsParty,1.1,0.94,1.01,1.2,1.05,$Goverment_name_NationalistsParty,$Goverment_name_mod_NationalistsParty
+RightWingParty,1.05,1.06,1.02,1.01,0.95,$Goverment_name_RightWingParty,$Goverment_name_mod_RightWingParty
+CentreParty,1.105,1.03,1.05,0.98,0.9,$Goverment_name_CentreParty,$Goverment_name_mod_CentreParty
+LeftWingParty,0.98,0.95,1.15,0.95,0.85,$Goverment_name_LeftWingParty,$Goverment_name_mod_LeftWingParty
+CommunistsParty,0.95,0.91,1.11,1.05,1.05,$Goverment_name_CommunistsParty,$Ui_Event_Unrest

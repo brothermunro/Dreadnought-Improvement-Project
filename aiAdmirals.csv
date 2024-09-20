@@ -1,0 +1,323 @@
+name,Nation,AdmiralName,AdmiralSurname
+## GERMANY,,,
+germany_2,germany,Felix,von Bendemann
+germany_3,germany,Otto,von Diederichs
+germany_4,germany,Wilhelm,Büchsel
+germany_5,germany,Friedrich,von Baudissin
+germany_6,germany,Max,von Fischel 
+germany_7,germany,August,von Heeringen
+germany_8,germany,Hugo,von Pohl
+germany_9,germany,Gustav,Bachmann
+germany_10,germany,Reinhard,Scheer
+germany_11,germany,Alfred,von Waldersee
+germany_12,germany,Albrecht,von Stosch
+germany_13,germany,Leo,von Caprivi
+germany_14,germany,Alexander,von Monts
+germany_15,germany,Alfred,von Schlieffen
+germany_16,germany,Helmuth,von Moltke
+germany_17,germany,Max,von der Goltz
+germany_18,germany,Karl,Heusner
+germany_19,germany,Friedrich,von Hollmann
+germany_20,germany,Otto,von Bismarck
+## BRITAIN,,,
+britain_22,britain,George,Hamilton
+britain_23,britain,John,Spencer
+britain_24,britain,George,Goschen
+britain_25,britain,William,Palmer
+britain_26,britain,Frederick,Campbell
+britain_27,britain,Edward,Marjoribanks
+britain_28,britain,Reginald,McKenna
+britain_29,britain,Winston,Churchill
+britain_30,britain,Arthur,Balfour
+britain_31,britain,Edward,Carson
+britain_32,britain,Eric,Geddes
+britain_33,britain,Walter,Long
+britain_34,britain,Arthur, Lee
+britain_35,britain,Leo, Amery
+britain_36,britain,Frederic,Thesiger
+britain_37,britain,William,Bridgeman
+britain_38,britain,Albert,Alexander
+britain_39,britain,Austen,Chamberlain
+britain_40,britain,Bolton,Monsell
+britain_41,britain,Samuel,Hoare
+britain_42,britain,Duff,Cooper
+britain_43,britain,James,Stanhope
+britain_44,britain,Arthur,Wilson
+britain_45,britain,Francis,Bridgeman
+britain_46,britain,Louis,Mountbatten
+britain_47,britain,Henry,Jackson
+britain_48,britain,John,Jellicoe
+britain_49,britain,Rosslyn,Wemyss
+britain_50,britain,David,Beatty
+britain_51,britain,Charles,Madden
+britain_52,britain,Frederick,Field
+britain_53,britain,Ernle, Chatfield
+britain_54,britain,Roger,Backhouse
+britain_55,britain,Dudley,Pound
+britain_56,britain,Andrew,Cunningham
+britain_57,britain,John,Cunningham
+## FRANCE,,,
+france_59,france,Louis,Vignes
+france_60,france,Alfred,Gervais
+france_61,france,Edgar,Humann
+france_62,france,Charles,Chauvin
+france_63,france,Jules,de Cuverville
+france_64,france,Léonce,Caillard
+france_65,france,Amédée,Bienaimé
+france_66,france,Ernest,Marquer
+france_67,france,Paul,Campion
+france_68,france,Charles,Aubert
+france_69,france,Laurent,Darbel
+france_70,france,Paul,Auvert
+france_71,france,Charles,Aubert
+france_72,france,Pierre,Le Bris
+france_73,france,Louis-Joseph,Pivet
+france_74,france,Eugène,de Jonquières
+france_75,france,Ferdinand,De Bon
+france_76,france,Pierre-Alexis,Ronarc'h
+france_77,france,Maurice,Grasset
+france_78,france,Louis-Hippolyte,Violette
+france_79,france,Georges,Durand-Viel
+france_80,france,Gabriel,Auphan
+france_81,france,Maurice,Le Luc
+##AUSTRIA-HUNGARY,,,
+austria_83,austria,Anton,Haus
+austria_84,austria,Maximilian,Njegovan
+austria_85,austria,Ludwig,von Fautz
+austria_86,austria,Wilhelm,von Tegetthoff
+austria_87,austria,Karl Kailer,von Kaltenfels
+austria_88,austria,Franz,von Holub
+austria_89,austria,Josef,von Romako
+austria_90,austria,Siegfried Popper,Franz Pitzinger
+austria_91,austria,Franz,Ferdinand
+austria_92,austria,Ferdinand,Maximilian
+austria_93,austria,Karl,Weyprecht
+austria_94,austria,Bernhard,von Wüllerstorf
+austria_95,austria,Gottfried,von Banfield
+austria_96,austria,Georg Ludwig,von Trapp
+austria_97,austria,Ludwig,von Höhnel
+austria_98,austria,Julius,von Wagner
+##ITALY,,,
+italy_100,italy,Alfredo,Acton
+italy_101,italy,Ferdinando,Acton
+italy_102,italy,Guglielmo,Acton
+italy_103,italy,Pietro,Barone
+italy_104,italy,Romeo,Bernotti
+italy_105,italy,Luigi,Biancheri
+italy_106,italy,Umberto,Cagni
+italy_107,italy,Felice,Canevaro
+italy_108,italy,Alberto,da Zara
+italy_109,italy,Oscar,Di Giamberardino
+italy_110,italy,Luigi,Faravelli
+italy_111,italy,Vincenzo,de Feo
+italy_112,italy,Giuseppe,Fioravanzo
+italy_113,italy,Franco,Garofalo
+italy_114,italy,Azolino,Hazon
+italy_115,italy,Giuseppe,Lombardi
+italy_116,italy,Luigi,Mascherpa
+italy_117,italy,Riccardo,Paladini
+italy_118,italy,Vladimiro,Pini
+italy_119,italy,Giuseppe,Sirianni
+italy_120,italy,Luigi,Sansonetti
+italy_121,italy,Odoardo,Somigli
+italy_122,italy,Ettore,Sportiello
+italy_123,italy,Manlio,Tarantini
+italy_124,italy,Paolo Thaon,di Revel
+italy_125,italy,Antonino,Toscano
+##JAPAN,,,
+japan_127,japan,Saigō,Jūdō
+japan_128,japan,Itō,Sukeyuki
+japan_129,japan,Inoue,Yoshika
+japan_130,japan,Arisugawa,Takehito
+japan_131,japan,Ijuin,Gorō
+japan_132,japan,Higashifushimi,Yorihito
+japan_133,japan,Shimamura,Hayao
+japan_134,japan,Katō,Tomosaburō
+japan_135,japan,Fushimi,Hiroyasu
+japan_136,japan,Nagano,Osami
+japan_137,japan,Koga,Mineichi
+japan_138,japan,Kabayama,Sukenori
+japan_139,japan,Yamamoto,Gonnohyōe
+japan_140,japan,Kawamura,Sumiyoshi
+japan_141,japan,Samejima,Kazunori
+japan_142,japan,Shibayama,Yahachi
+japan_143,japan,Hidaka,Sōnojō
+japan_144,japan,Kataoka,Shichirō
+japan_145,japan,Kamimura,Hikonojō
+japan_146,japan,Dewa,Shigetō
+japan_147,japan,Uryū,Sotokichi
+japan_148,japan,Hidaka,Sōnojō
+japan_149,japan,Saitō,Makoto
+japan_150,japan,Misu,Sotarō
+japan_151,japan,Shigetarō,Yoshimatsu
+japan_152,japan,Fujii,Kōichi
+##RUSSIA,,,
+russia_154,russia,Nikolai,Nebogatov
+russia_155,russia,Oskar,Enqvist
+russia_156,russia,Mikhail,Bakhirev
+russia_157,russia,Ivan,Grigorovich
+russia_158,russia,Karl,Jessen
+russia_159,russia,Alexander,Kolchak
+russia_160,russia,Andrei,Popov
+russia_161,russia,Kazimierz,Porębski
+russia_162,russia,Robert,Nikolayevich
+russia_163,russia,Yevgeny,Berens
+russia_164,russia,Aleksandr,Nemits
+russia_165,russia,Eduard,Pantserzhansky
+russia_166,russia,Vyacheslav,Zof
+russia_167,russia,Vladimir,Orlov
+russia_168,russia,Lev,Galler
+russia_169,russia,Mikhail,Viktorov
+russia_170,russia,Pyotr,Smirnov
+russia_171,russia,Mikhail,Frinovsky
+russia_172,russia,Nikolai,Kuznetsov
+russia_173,russia,Boris,Stepanovich
+##USA,,,
+usa_175,usa,Cameron,Winslow
+usa_176,usa,Ernest,King
+usa_177,usa,Thomas,Howard
+usa_178,usa,Walter,Cowles
+usa_179,usa,Albert,Winterhalter
+usa_180,usa,Henry,Mayo
+usa_181,usa,William,Caperton
+usa_182,usa,William,Benson
+usa_183,usa,Austin,Knight
+usa_184,usa,William,Sims
+usa_185,usa,Hugh,Rodman
+usa_186,usa,Albert,Gleaves
+usa_187,usa,Robert,Coontz
+usa_188,usa,Joseph,Strauss
+usa_189,usa,Hilary,Jones
+usa_190,usa,Edward,Eberle
+usa_191,usa,Edwin,Anderson
+usa_192,usa,Samuel,Robison
+usa_193,usa,Thomas,Washington
+usa_194,usa,Charles,Hughes
+usa_195,usa,Clarence,Williams
+usa_196,usa,Richard,Jackson
+usa_197,usa,Henry,Wiley
+usa_198,usa,Mark,Bristol
+usa_199,usa,Louis, de Steiguer
+usa_200,usa,William ,Pratt
+usa_201,usa,Louis,Nulton
+usa_202,usa,Charles,McVay
+usa_203,usa,Frank,Schofield
+usa_204,usa,Jehu,Chase
+usa_205,usa,Montgomery,Taylor
+usa_206,usa,Richard,Leigh
+usa_207,usa,Luke,McNamee
+usa_208,usa,William,Standley
+usa_209,usa,David,Sellers
+usa_210,usa,Joseph,Reeves
+usa_211,usa,Frank,Upham
+usa_212,usa,Frank,Brumby
+usa_213,usa,Harris,Laning
+usa_214,usa,Orin,Murfin
+usa_215,usa,Arthur,Hepburn
+usa_216,usa,Harry,Yarnell
+usa_217,usa,Claude,Bloch
+usa_218,usa,Edward,Kalbfus
+usa_219,usa,James,Richardson
+usa_220,usa,Ernest,King
+usa_221,usa,Royal,Ingersoll
+usa_222,usa,William,Halsey
+##SPAIN,,,
+spain_224,spain,Segismundo,Bermejo
+spain_225,spain,Manuel,de la Cámara
+spain_226,spain,Fernando,Martínez
+spain_227,spain,Luis,González
+spain_228,spain,Zoilo,Sánchez
+spain_229,spain,Miguel,Fernández
+spain_230,spain,Eduardo,Sabau
+spain_231,spain,Antonio,Azarola
+spain_232,spain,Camilo,Carreras
+spain_233,spain,Fernando,Barreto
+spain_234,spain,Joaquín,de Eguía
+spain_235,spain,José,Barreiro
+spain_236,spain,Diego,Jordán
+spain_237,spain,Fernando,Navarro
+spain_238,spain,Luis,Núñez
+spain_239,spain,José,Rodríguez
+spain_240,spain,Manuel,Rodríguez
+spain_241,spain,Pedro,Mendizábal
+spain_242,spain,José María,Ferragut
+spain_243,spain,Juan,Sánchez
+spain_244,spain,Luis,Pinzón
+spain_245,spain,Carlos,Romero
+spain_246,spain,Antonio,Rendón
+spain_247,spain,Mariano,Mateu
+spain_248,spain,Francisco ,Cróquer
+spain_249,spain,Joaquín,Barreda
+spain_250,spain,Segismundo,Bermejo
+##CHINA,,,
+china_252,china,Deng,Shichang
+china_253,china,Liu,Buchan
+china_254,china,Du,Xigui
+china_255,china,Ji,Xingwen
+china_256,china,Sa,Zhenbing
+china_257,china,Wang,Jinghong
+china_258,china,Lin,Baoyi
+china_259,china,Chen,Lin
+##NETHERLANDS,,,
+netherlands_261,netherlands,De Vries,Bakker
+netherlands_262,netherlands,Van der Berg,Visser
+netherlands_263,netherlands,Van Dijk,Smits
+netherlands_264,netherlands,De Boer,Koning
+netherlands_265,netherlands,Mulder,Schouten
+netherlands_266,netherlands,De Groot,Smit
+netherlands_267,netherlands,Kuiper,Dekker
+netherlands_268,netherlands,Janssen,Meijer
+##GREECE,,,
+greece_270,greece,Georgiou,Evangelos
+greece_271,greece,Vasileiou,Athanasios
+greece_272,greece,Ioannidis,Petros
+greece_273,greece,Papagiannis,Andreas
+greece_274,greece,Kyriazis,Demetrios
+greece_275,greece,Stefanos,Konstantinos
+greece_276,greece,Christakis,Kostas
+greece_277,greece,Papadopoulos,Nikolaos
+##TURKEY,,,
+turkey_279,turkey,Arslan,Yildiz
+turkey_280,turkey,Ozdemir,Polat
+turkey_281,turkey,Sahin,Keskin
+turkey_282,turkey,Erdogan,Korkmaz
+turkey_283,turkey,Kilic,Dogan
+turkey_284,turkey,Yilmaz,Demir
+turkey_285,turkey,Kaya,Celik
+turkey_286,turkey,Aydin,Karaca
+##PORTUGAL,,,
+portugal_288,portugal,Cardoso,Neves
+portugal_289,portugal,Barros,Ferreira
+portugal_290,portugal,Costa,Rodrigues
+portugal_291,portugal,Reis,Almeida
+portugal_292,portugal,Santos,Silva
+portugal_293,portugal,Pereira,Oliveira
+portugal_294,portugal,Martins,Carvalho
+portugal_296,portugal,Rocha,Alves
+##CHILE,,,
+chile_298,chile,Fuentes,Rivera
+chile_299,chile,Soto,Flores
+chile_300,chile,Perez,Gonzalez
+chile_301,chile,Lopez,Hernandez
+chile_302,chile,Diaz,Torres
+chile_303,chile,Castillo,Reyes
+chile_304,chile,Rojas,Medina
+chile_305,chile,Morales,Vargas
+##ARGENTINA,,,
+argentina_307,argentina,Gonzalez,Romero
+argentina_308,argentina,Rodriguez,Diaz
+argentina_309,argentina,Martinez,Alvarez
+argentina_310,argentina,Gomez,Herrera
+argentina_311,argentina,Fernandez,Castro
+argentina_312,argentina,Perez,Mendez
+argentina_313,argentina,Ruiz,Ramos
+argentina_314,argentina,Acosta,Sosa
+##BRAZIL,,,
+brazil_316,brazil,Souza,Lima
+brazil_317,brazil,Oliveira,Santos
+brazil_318,brazil,Almeida,Ferreira
+brazil_319,brazil,Ribeiro,Gomes
+brazil_320,brazil,Barbosa,Rocha
+brazil_321,brazil,Castro,Pereira
+brazil_322,brazil,Moreira,Martins
+brazil_323,brazil,Cardoso,Silva

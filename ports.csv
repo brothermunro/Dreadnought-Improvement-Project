@@ -1,0 +1,366 @@
+@name,nameUi,province,portCapacity,seaControlDistanceMultiplier,inBeingDistanceMultiplier
+al_manama,Al Manama,bahrain,1050,1,1
+rangoon,Rangoon,burma,1050,1,1
+doha,Doha,qatar,1400,1,1
+colombo,Colombo,ceylon,2100,1,1
+port_blair,Port Blair,andaman_islands,3500,1,1
+trincomalee,Trincomalee,ceylon,1925,1,1
+djibouti,Djibouti,djibouti,2625,1,1
+massaua,Massaua,eritrea,2100,1,1
+bombay,Bombay,western_india,66500,1,1
+madras,Madras,eastern_india,56000,1,1
+karachi,Karachi,pakistan,78750,1,1
+chittagong,Chittagong,bangladesh,38500,1,1
+badar_abas,Badar Abas,persia,17500,1,1
+basra,Basra,iraq,9100,1,1
+kuwait_city,Kuwait City,kuwait,14000,1,1
+mombasa,Mombasa,british_east_africa,3500,1,1
+lamu,Lamu,british_east_africa,3500,1,1
+port-aux-français,Port-aux-Français,kerguelen_islands,1750,1,1
+malé,Malé,maldives,2800,1,1
+victoria,Victoria,seychelles,2100,1,1
+moroni,Moroni,comoros,2100,1,1
+port_louis,Port Louis,mauritius,3850,1,1
+port_mathurin,Port Mathurin,mauritius,3850,1,1
+saint-denis,Saint-Denis,reunion,3150,1,1
+diego_suarez,Diego Suarez,madagascar,3500,1,1
+maputo,Maputo,mozambique,1400,1,1
+mocambique,Mocambique,mozambique,1400,1,1
+muscat,Muscat,oman,1400,1,1
+genda,Genda,hejaz,14000,1,1
+damam,Damam,arabia,8400,1,1
+berbera,Berbera,british_somaliland,8400,1,1
+mogadishu,Mogadishu,italian_somaliland,1225,1,1
+durban,Durban,south_africa,5250,1,1
+port_elizabeth,Port Elizabeth,south_africa,8750,1,1
+cape_town,Cape Town,south_africa,12250,1,1
+port_sudan,Port Sudan,sudan,3500,1,1
+dar_es_salaam,Dar es Salaam,tanganyika,875,1,1
+tanga,Tanga,tanganyika,875,1,1
+dubai,Dubai,trucial_states,700,1,1
+aden,Aden,yemen,700,1,1
+zanzibar,Zanzibar,zanzibar,700,1,1
+avlona,Avlona,albania,1575,1,1
+durazzo,Durazzo,albania,1575,1,1
+mers_el_kebir,Mers el Kebir,northern_algeria,4150,1,1
+algiers,Algiers,northern_algeria,3150,1,1
+pula,Pula,croatia,76250,1,1
+spalato,Spalato,croatia,66250,1,1
+cattaro,Cattaro,croatia,39250,1,1
+burgas,Burgas,eastern_rumelia,6125,1,1
+varna,Varna,bulgaria,6475,1,1
+novorossiysk,Novorossiysk,southern_russia,43250,1,1
+poti,Poti,georgia,24250,1,1
+sevastopol,Sevastopol,crimaia,43250,1,1
+odessa,Odessa,ukraine,56750,1,1
+saint_florent,Saint Florent,corsica,2800,1,1
+bonifacio,Bonifacio,corsica,2800,1,1
+limassol,Limassol,cyprus,8750,1,1
+alexandria,Alexandria,north_egypt,63250,1,1
+port_said,Port Said,north_egypt,46250,1,1
+hurghada,Hurghada,south_egypt,21050,1,1
+gibraltar,Gibraltar,gibraltar,95500,1,1
+thessaloniki,Thessaloniki,northern_greece,12250,1,1
+piraeus,Piraeus,southern_greece,26250,1,1
+heraklion,Heraklion,crete,15250,1,1
+suda,Suda,crete,17250,1,1
+haifa,Haifa,palestine,14000,1,1
+la_spezia,La Spezia,northwest_italy,126250,1,1
+livorno,Livorno,northwest_italy,100500,1,1
+ancona,Ancona,northeast_italy,35000,1,1
+gaeta,Gaeta,central_italy,95750,1,1
+naples,Naples,central_italy,35750,1,1
+bari,Bari,southern_italy,45000,1,1
+taranto,Taranto,southern_italy,45000,1,1
+beirut,Beirut,lebanon,19250,1,1
+tripoli,Tripoli,tripolitania,8750,1,1
+benghazi,Benghazi,cyrenaica,6125,1,1
+tobruk,Tobruk,cyrenaica,7350,1,1
+valletta,Valletta,malta,82250,1,1
+bar,Bar,montenegro,7000,1,1
+rhodes,Rhodes,dodecanese,8750,1,1
+constanta,Constanta,romania,12250,1,1
+cagliari,Cagliari,sardinia,13125,1,1
+olbia,Olbia,sardinia,13125,1,1
+mallorca,Mallorca,balearic_islands,5000,1,1
+catania,Catania,eastern_sicily,35000,1,1
+messina,Messina,eastern_sicily,43750,1,1
+palermo,Palermo,western_sicily,31500,1,1
+cádiz,Cádiz,western_spain,70000,1,1
+huelva,Huelva,western_spain,43750,1,1
+malaga,Malaga,southern_spain,38500,1,1
+valencia,Valencia,southern_spain,52500,1,1
+barcelona,Barcelona,southern_spain,70000,1,1
+toulon,Toulon,southern_france,61250,1,1
+marseille,Marseille,southern_france,80500,1,1
+nice,Nice,southern_france,64750,1,1
+latakia,Latakia,syria,17500,1,1
+bizerte,Bizerte,tunisia,11550,1,1
+tunis,Tunis,tunisia,16625,1,1
+gallipoli,Gallipoli,dardanelles,24500,1,1
+constantinople,Constantinople,bosporus,115500,1,1
+heraclea,Heraclea,northern_turkey,43750,1,1
+samsunta,Samsunta,northern_turkey,29500,1,1
+atalia,Atalia,southern_turkey,26250,1,1
+smyrna,Smyrna,western_turkey,19250,1,1
+hamilton,Hamilton,bermuda,2625,1,1
+boston,Boston,eastern_usa,87500,1,1
+philadelphia,Philadelphia,eastern_usa,87500,1,1
+new_york,New York,eastern_usa,122500,1,1
+portland,Portland,maine,49000,1,1
+saint_john,Saint John,new_brunswick,17500,1,1
+st._john's,St. John's,new_foundland,12250,1,1
+halifax,Halifax,nova_scotia,13125,1,1
+norfolk,Norfolk,southeastern_seaboard,70000,1,1
+charleston,Charleston,southeastern_seaboard,64750,1,1
+wilmington,Wilmington,southeastern_seaboard,64750,1,1
+nome,Nome,northern_alaska,2250,1,1
+anchorage,Anchorage,southern_alaska,5250,1,1
+vancouver,Vancouver,british_columbia,26250,1,1
+esquimalt,Esquimalt,british_columbia,22750,1,1
+dutch_harbor,Dutch Harbor,eastern_aleutians,7000,1,1
+pearl_harbor,Pearl Harbor,hawaii,70000,1,1
+acapulco,Acapulco,southwest_mexico,15750,1,1
+quebec,Quebec,central_canada,29750,1,1
+iqaluit,Iqaluit,northern_canada,7000,1,1
+seattle,Seattle,western_usa,61250,1,1
+san_francisco,San Francisco,western_usa,73500,1,1
+san_diego,San Diego,western_usa,47250,1,1
+tallinn,Tallinn,esthonia,25000,1,1
+riga,Riga,latvia,35000,1,1
+klaipeda,Klaipeda,lithuania,26250,1,1
+antwerp,Antwerp,belgium,61250,1,1
+esbjerg,Esbjerg,western_denmark,23250,1,1
+copenhagen,Copenhagen,eastern_denmark,43750,1,1
+tórshavn,Tórshavn,faroe_islands,2000,1,1
+lerwick,Lerwick,shetland,1700,1,1
+danzig,Danzig,poland,129500,1,1
+pillau,Pillau,prussia,136500,1,1
+murmansk,Murmansk,northern_russia,21750,1,1
+arkhangelsk,Arkhangelsk,northern_russia,16250,1,1
+oulu,Oulu,northern_finland,15750,1,1
+hangö,Hangö,southern_finland,15750,1,1
+helsingfors,Helsingfors,southern_finland,17500,1,1
+wilhelmshaven,Wilhelmshaven,western_germany,68250,1,1
+emden,Emden,western_germany,96250,1,1
+bremen,Bremen,western_germany,43750,1,1
+hamburg,Hamburg,western_germany,61250,1,1
+kiel,Kiel,eastern_germany,105000,1,1
+amsterdam,Amsterdam,netherlands,91000,1,1
+la_corunia,La Corunia,northern_spain,70000,1,1
+bilbao,Bilbao,northern_spain,70000,1,1
+narvik,Narvik,northern_norway,8500,1,1
+tromso,Tromso,northern_norway,8500,1,1
+oslo,Oslo,southern_norway,29750,1,1
+bergen,Bergen,southern_norway,29750,1,1
+porto,Porto,portugal,70000,1,1
+lisbon,Lisbon,portugal,66500,1,1
+ponta_delgada,Ponta Delgada,azores,15750,1,1
+helgoland,Helgoland,heligoland,1750,1,1
+göteborg,Göteborg,western_sweden,26250,1,1
+malmö,Malmö,eastern_sweden,26250,1,1
+stockholm,Stockholm,eastern_sweden,36750,1,1
+lulea,Luleå,eastern_sweden,8750,1,1
+reykjavík,Reykjavík,iceland,8750,1,1
+nuuk,Nuuk,west_greenland,1450,1,1
+tasiilaq,Tasiilaq,east_greenland,2450,1,1
+rosyth,Rosyth,scotland,105000,1,1
+scapa_flow,Scapa Flow,scotland,145250,1,1
+sunderland,Sunderland,north_east_england,59500,1,1
+hull,Hull,north_east_england,30500,1,1
+liverpool,Liverpool,north_west_england,102250,1,1
+yarmouth,Yarmouth,eastern_england,50500,1,1
+plymouth,Plymouth,southern_england,133000,1,1
+portsmouth,Portsmouth,southern_england,108500,1,1
+newhaven,Newhaven,southern_england,14000,1,1
+dover,Dover,southern_england,26250,1,1
+barry,Barry,wales,50500,1,1
+dublin,Dublin,ireland,26250,1,1
+belfast,Belfast,northern_ireland,56250,1,1
+cork,Cork,ireland,22750,1,1
+le_havre,Le Havre,northern_france,91000,1,1
+brest,Brest,western_france,101500,1,1
+la_rochelle,La Rochelle,western_france,89250,1,1
+kronshtadt,Kronshtadt,central_russia,66500,1,1
+sasebo,Sasebo,kyushu,97500,1,1
+yokosuka,Yokosuka,south_honshu,60000,1,1
+tokio,Tokio,south_honshu,34000,1,1
+maizuru,Maizuru,north_honshu,61250,1,1
+naha,Naha,okinawa_islands,17500,1,1
+matsuyama,Matsuyama,shikoku,17500,1,1
+wakkanai,Wakkanai,north_hokkaido,50750,1,1
+muroran,Muroran,south_hokkaido,50750,1,1
+petropavlovsk,Petropavlovsk,kamchatka,29750,1,1
+magadan,Magadan,southern_siberia,7750,1,1
+provideniya,Provideniya,eastern_siberia,5750,1,1
+tsingtau,Tsingtau,kiautschou_bay,29750,1,1
+port_arthur,Port Arthur,liaodong_peninsula,43750,1,1
+dalian,Dalian,liaodong_peninsula,33250,1,1
+shanghai,Shanghai,eastern_china,70000,1,1
+hangzhou,Hangzhou,eastern_china,70000,1,1
+haichow,Haichow,northeast_china,70000,1,1
+tianjin,Tianjin,northeast_china,50000,1,1
+chinchew,Chinchew,southern_china,34000,1,1
+xiamen,Xiamen,southern_china,30000,1,1
+gensan,Gensan,northeast_korea,43750,1,1
+nampo,Nampo,northwest_korea,43750,1,1
+vladivostok,Vladivostok,russian_far_east,68250,1,1
+moskalvo,Moskalvo,north_sakhalin,18000,1,1
+korsakov,Korsakov,south_sakhalin,28000,1,1
+pusan,Pusan,southeast_korea,47250,1,1
+chemulpo,Chemulpo,southwest_korea,47250,1,1
+magong,Magong,penghu,19250,1,1
+weihaiwei,Weihaiwei,weihaiwei,15750,1,1
+buenos_aires,Buenos Aires,argentina,54250,1,1
+belem,Belem,north_brazil,38250,1,1
+natal,Natal,north_brazil,32250,1,1
+rio_de_janeiro,Rio de Janeiro,south_brazil,38250,1,1
+rio_grande,Rio Grande,south_brazil,24750,1,1
+santos,Santos,south_brazil,21250,1,1
+stanley,Stanley,falkland_islands,8750,1,1
+cayenne,Cayenne,french_guiana,14000,1,1
+king_edward_point,King Edward Point,sgssi,5250,1,1
+paramaribo,Paramaribo,suriname,700,1,1
+montevideo,Montevideo,uruguay,3500,1,1
+valparaíso,Valparaíso,chile,3500,1,1
+coronel,Coronel,chile,3500,1,1
+manta,Manta,ecuador,2100,1,1
+puerto_baquerizo_moreno,Puerto Baquerizo Moreno,galápagos_islands,700,1,1
+lima,Lima,peru,1925,1,1
+buenaventura,Buenaventura,southern_colombia,10500,1,1
+rarotonga,Rarotonga,cook_islands,5250,1,1
+pago_pago,Pago Pago,eastern__samoa,3500,1,1
+hakahau,Hakahau,marquesas_islands,2100,1,1
+pape'ete,Pape'ete,french_polynesia,2100,1,1
+hanga_roa,Hanga Roa,easter_island,1050,1,1
+adamstown,Adamstown,pitcairn_islands,1750,1,1
+cam_ranh_bay,Cam Ranh Bay,annam,18375,1,1
+darwin,Darwin,northern_australia,7000,1,1
+perth,Perth,western_australia,7000,1,1
+brisbane,Brisbane,eastern_australia,7000,1,1
+melbourne,Melbourne,eastern_australia,7000,1,1
+hobart,Hobart,tasmania,10500,1,1
+lorengau,Lorengau,bismarck_archipelago,875,1,1
+kavieng,Kavieng,bismarck_archipelago,875,1,1
+kudat,Kudat,north_borneo,875,1,1
+sandakan,Sandakan,north_borneo,875,1,1
+balikpapan,Balikpapan,borneo,875,1,1
+pontianak,Pontianak,borneo,875,1,1
+kuching,Kuching,sarawak,700,1,1
+bintulu,Bintulu,sarawak,700,1,1
+badar_seri_begavan,Badar Seri Begavan,brunei,875,1,1
+truk,Truk,caroline_islands,6750,1,1
+pelielu,Pelielu,caroline_islands,1750,1,1
+ponape,Ponape,caroline_islands,1750,1,1
+saigon,Saigon,cochinchina,13300,1,1
+hollandia,Hollandia,dutch_new_guinea,15750,1,1
+suva,Suva,fiji,8750,1,1
+keelung,Keelung,formosa,12250,1,1
+tainan,Tainan,formosa,12250,1,1
+herbertshöhe,Herbertshöhe,german_new_guinea,3500,1,1
+friedrich-wilhelmshafen,Friedrich-Wilhelmshafen,german_new_guinea,3500,1,1
+agana,Agana,guam,2800,1,1
+hong_kong,Hong Kong,hong_kong,19250,1,1
+makasar,Makasar,sulawesi,6125,1,1
+kendari,Kendari,sulawesi,6125,1,1
+ternate,Ternate,moluccas,5250,1,1
+labuha,Labuha,moluccas,5250,1,1
+soerabaja,Soerabaja,java,8750,1,1
+batavia,Batavia,java,8750,1,1
+tjilatjap,Tjilatjap,java,8750,1,1
+díli,Díli,timor,6750,1,1
+fort_bayard,Fort Bayard,kwang-chou-wan,21000,1,1
+penang,Penang,malaya,3500,1,1
+malacca,Malacca,malaya,3500,1,1
+nouméa,Nouméa,new_caledonia,4375,1,1
+wellington,Wellington,new_zealand,2625,1,1
+auckland,Auckland,new_zealand,2625,1,1
+christchurch,Christchurch,new_zealand,2625,1,1
+saipan,Saipan,northern_marianas,1750,1,1
+kwajalein,Kwajalein,marshall_islands,1750,1,1
+majuro,Majuro,marshall_islands,1750,1,1
+tarawa,Tarawa,western_gilbert_&_ellice_islands,700,1,1
+napari,Napari,eastern_gilbert_&_ellice_islands,700,1,1
+manila,Manila,west_phillipinnes,26250,1,1
+davao,Davao,east_phillipinnes,19250,1,1
+singapore,Singapore,singapore,83750,1,1
+honiara,Honiara,solomon_islands,12250,1,1
+belawan,Belawan,sumatra,2625,1,1
+patang,Patang,sumatra,2625,1,1
+port_moresby,Port Moresby,territory_of_papua,700,1,1
+bangkok,Bangkok,thailand,43750,1,1
+kompong_som,Kompong Som,cambodia,10500,1,1
+nuku'alofa,Nuku'alofa,tonga,2100,1,1
+haiphong,Haiphong,tonkin,2100,1,1
+port_villa,Port Villa,vanuatu,2100,1,1
+apia,Apia,western_samoa,2450,1,1
+willemstad,Willemstad,dutch_antilles,10500,1,1
+fort_de_france,Fort de France,french_antilles,15750,1,1
+point_a_pitre,Point a Pitre,french_antilles,15750,1,1
+belize,Belize,belize,6125,1,1
+champerico,Champerico,british_honduras,4125,1,1
+acajutla,Acajutla,el_salvador,2550,1,1
+george_town,George Town,cayman_islands,5250,1,1
+puerto_limon,Puerto Limon,costa_rica,15750,1,1
+santiago_de_cuba,Santiago de Cuba,cuba,19250,1,1
+habana,Habana,cuba,19250,1,1
+cockburn,Cockburn,turks_&_caicos_islands,8750,1,1
+santo_domingo,Santo Domingo,dominican_republic,7000,1,1
+puerto_plata,Puerto Plata,dominican_republic,7000,1,1
+freeport,Freeport,grand_bahama,10500,1,1
+guantanamo_bay,Guantanamo Bay,guantanamo,6125,1,1
+pensacola,Pensacola,gulf_coast,29750,1,1
+tampa,Tampa,gulf_coast,22750,1,1
+miami,Miami,gulf_coast,19250,1,1
+georgetown,Georgetown,british_guiana,15750,1,1
+port_au_prince,Port au Prince,haiti,5250,1,1
+port_de_paix,Port de Paix,haiti,4375,1,1
+la_ceiba,La Ceiba,honduras,3500,1,1
+kingston,Kingston,jamaica,19250,1,1
+nassau,Nassau,new_providence,12250,1,1
+bluefields,Bluefields,nicaragua,7000,1,1
+barranquilla,Barranquilla,northern_colombia,7000,1,1
+santa_marta,Santa Marta,northern_colombia,7000,1,1
+cartagena,Cartagena,northern_colombia,7000,1,1
+balboa,Balboa,panama,8750,1,1
+colón,Colón,panama,8750,1,1
+san_juan,San Juan,puerto_rico,13125,1,1
+st_george's,St George's,british_antilles,5250,1,1
+bridgetown,Bridgetown,british_antilles,5250,1,1
+port_of_spain,Port of Spain,trinidad,6125,1,1
+maracaibo,Maracaibo,venezuela,11550,1,1
+puerto_cabello,Puerto Cabello,venezuela,11550,1,1
+charlotte_amalie,Charlotte Amalie,virgin_islands,4375,1,1
+christiansted,Christiansted,virgin_islands,4375,1,1
+luanda,Luanda,angola,6650,1,1
+lobito,Lobito,angola,6650,1,1
+duala,Duala,cameroon,10500,1,1
+cabinda,Cabinda,portuguese_congo,7750,1,1
+boma,Boma,congo_free_state,8750,1,1
+porto-novo,Porto-Novo,dahomey,9625,1,1
+libreville,Libreville,gabon,8750,1,1
+banjul,Banjul,gambia,7875,1,1
+accra,Accra,gold_coast,10850,1,1
+bata,Bata,equatorial_guinea,7525,1,1
+bissau,Bissau,portuguese_guinea,8225,1,1
+conakry,Conakry,french_guinea,9625,1,1
+abidjan,Abidjan,ivory_coast,13650,1,1
+monrovia,Monrovia,liberia,9100,1,1
+nouakchott,Nouakchott,mauritania,6650,1,1
+pointe_noire,Pointe Noire,middle_congo,8925,1,1
+casablanca,Casablanca,morocco,21000,1,1
+rabat,Rabat,morocco,17500,1,1
+lagos,Lagos,nigeria,14000,1,1
+dakar,Dakar,senegal,10500,1,1
+freetown,Freetown,sierra_leone,8225,1,1
+lüderitz,Lüderitz,southwest_africa,7875,1,1
+lome,Lome,togoland,8575,1,1
+dakhla,Dakhla,western_sahara,5250,1,1
+boujdour,Boujdour,western_sahara,5250,1,1
+santa_cruz,Santa Cruz,canary_islands,13475,1,1
+praia,Praia,cape_verde,7000,1,1
+funchal,Funchal,madeira,7000,1,1
+tampico,Tampico,northeast_mexico,16000,1,1
+mazatlan,Mazatlan,western_mexico,15750,1,1
+veracruz,Veracruz,eastern_mexico,26250,1,1
+abu_dhabi,Abu Dhabi,trucial_states,700,1,1
