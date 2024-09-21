@@ -221,10 +221,10 @@ trucial_states,Trucial States,persian_gulf,britain,britain,britain,britain,brita
 yemen,Yemen,arabian_sea,ottoman,ottoman,ottoman,ottoman,yemen,yemen,yemen,yemen,0,colony,3,1000,-1,1930,4,400,100,2.5,0.0350000001,2,"arabia, oman, hejaz"
 zanzibar,Zanzibar,indian_west,britain,britain,britain,britain,britain,britain,britain,zanzibar,0,colony,1.5,1000,-1,1930,10,90,100,2.5,0.0125000002,2,
 kerguelen_islands,Kerguelen Islands,indian_south,france,france,france,france,france,france,france,taaf,0,colony,0.100000001,3000,-1,1930,4,200,100,2.5,0.0125000002,2,
-northeast_korea,Northeast Korea,japan_sea,korean_kingdom,korean_empire,japan,japan,japan,japan,japan,korean_empire,0,colony,5.5,35000,-1,-1,0,0,0,7,0.0350000001,2,"southeast_korea, northwest_korea, liaodong_peninsula, manchuria"
-northwest_korea,Northwest Korea,yellow_sea,korean_kingdom,korean_empire,japan,japan,japan,japan,japan,korean_empire,0,colony,4.5,35000,-1,-1,0,0,0,7,0.0350000001,2,"southwest_korea, southeast_korea, northeast_korea, liaodong_peninsula"
-southeast_korea,Southeast Korea,japan_sea,korean_kingdom,korean_empire,japan,japan,japan,japan,japan,korean_empire,0,colony,4.5,50000,-1,-1,0,0,0,7,0.0350000001,2,"northwest_korea, northeast_korea, southwest_korea"
-southwest_korea,Southwest Korea,yellow_sea,korean_kingdom,korean_empire,japan,japan,japan,japan,japan,korean_empire,0,colony,6.5,50000,-1,-1,0,0,0,7,0.0350000001,2,"northwest_korea, southeast_korea"
+northeast_korea,Northeast Korea,japan_sea,korea,korea,korea,korea,korea,korea,korea,korea,0,home,5.5,35000,-1,-1,0,0,0,7,0.0350000001,2,"southeast_korea, northwest_korea, liaodong_peninsula, manchuria"
+northwest_korea,Northwest Korea,yellow_sea,korea,korea,korea,korea,korea,korea,korea,korea,0,home,4.5,35000,-1,-1,0,0,0,7,0.0350000001,2,"southwest_korea, southeast_korea, northeast_korea, liaodong_peninsula"
+southeast_korea,Southeast Korea,japan_sea,korea,korea,korea,korea,korea,korea,korea,korea,0,home,4.5,50000,-1,-1,0,0,0,7,0.0350000001,2,"northwest_korea, northeast_korea, southwest_korea"
+southwest_korea,Southwest Korea,yellow_sea,korea,korea,korea,korea,korea,korea,korea,korea,0,home,6.5,50000,-1,-1,0,0,0,7,0.0350000001,2,"northwest_korea, southeast_korea"
 northern_australia,Northern Australia,indonesian_sea,britain,britain,britain,britain,britain,britain,britain,australia,1,colony,7,30000,-1,1920,1,525,250,2.5,0.0125000002,2,"eastern_australia, western_australia"
 western_australia,Western Australia,indian_east,britain,britain,britain,britain,britain,britain,britain,australia,1,colony,4,20000,-1,1920,5,525,250,2.5,0.0125000002,2,"eastern_australia, northern_australia"
 eastern_australia,Eastern Australia,oceania_south,britain,britain,britain,britain,britain,britain,britain,australia,1,colony,3,20000,-1,1920,5,525,250,2.5,0.0125000002,2,"western_australia, northern_australia"
