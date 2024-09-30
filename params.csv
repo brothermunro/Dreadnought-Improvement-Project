@@ -935,4 +935,4 @@ taf_shareddesign_okTechValue,0.75,"if there are no best ships any ships with gre
 taf_shareddesign_minTechValue,0.5,"if no better ships are available any ships with greater tech commonality than this will be the final selection group. If no ships make even this level of commonality no shared design is returned. Default 0.5. Lastly when 1890 is the selected year in the shared design constructor only actual starting techs will be enabled for the ship rather than any tech with 1890 as its year. This prevents 1890 shared designs being actually unavailable to the AI on campaign start.",,,,,,,
 taf_hot_reload,1,,,,,,,,
 taf_alliance_changes,1,,,,,,,,
-taf_versiontext,2,,,,,DIP 3a10,,,
+taf_versiontext,2,,,,,DIP 3a11,,,
