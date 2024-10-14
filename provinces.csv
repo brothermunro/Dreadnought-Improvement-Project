@@ -264,7 +264,7 @@ croatia,Croatia,adriatic,austria,austria,austria,austria,austria,austria,austria
 slovenia,Slovenia,adriatic,austria,austria,austria,austria,austria,austria,austria,slovenia,1,home,4.5,0,-1,-1,0,0,0,7,0.0500000007,2,"northeast_italy, austria, hungary, croatia"
 bosnia_&_herzegovina,Bosnia & Herzegovina,adriatic,austria,austria,austria,austria,austria,austria,austria,bosnia,1,home,5,0,-1,-1,0,0,0,7,0.0500000007,2,"croatia, serbia, montenegro"
 dardanelles,Dardanelles,aegean,ottoman,ottoman,ottoman,ottoman,ottoman,ottoman,ottoman,ottoman,1,home,2,80000,-1,-1,0,0,0,2.5,0.0299999993,2,"bosporus, western_turkey"
-western_turkey,Western Turkey,aegean,ottoman,ottoman,ottoman,ottoman,greece,ottoman,ottoman,ottoman,1,home,6,80000,-1,1930,1,150,100,6,0.119999997,2,"dardanelles, southern_turkey, northern_turkey"
+western_turkey,Western Turkey,aegean,ottoman,ottoman,ottoman,ottoman,ottoman,ottoman,ottoman,ottoman,1,home,6,80000,-1,1930,1,150,100,6,0.119999997,2,"dardanelles, southern_turkey, northern_turkey"
 northern_greece,Northern Greece,aegean,greece,greece,greece,greece,greece,greece,greece,greece,1,home,8.5,30000,-1,-1,0,0,0,33,0.0500000007,5,"bosporus, eastern_rumelia, central_balkans, albania, southern_greece"
 southern_greece,Southern Greece,aegean,greece,greece,greece,greece,greece,greece,greece,greece,1,home,10,35000,-1,1930,1,200,100,33,0.0610000007,5,northern_greece
 crete,Crete,aegean,greece,greece,greece,greece,greece,greece,greece,greece,1,home,3,35000,-1,1930,2,200,100,33,0.0599999987,8,
