@@ -50,4 +50,4 @@ $event_text_92;[ENEMY] has sent us a telegraph which clearly threatens us with w
 $Ui_NewGame_DesignUsage_Mixed;AI Design Usage: Hybrid
 $Ui_NewGame_DesignUsage_FullGenerated;AI Design Usage: Bespoke
 $Ui_NewGame_DesignUsage_FullPredefined;AI Design Usage: Pregenerated
-$tooltip_design_usage;<align=center><b><size=125%>AI Ship Generation</b></size></align>\n<b><size=110%>Hybrid</b></size>\nThe initial ships for the campaign are pregenerated but during the campaign the AI designs all of its new ships from scratch.\n\n<b><size=110%>Pregenerated</b></size>\nAll AI designs are pregenerated.\n\n<b><size=110%>Bespoke</b></size>\nAll the AI ships are generated randomly in each campaign at the start and the ongoing years.
+$tooltip_design_usage;<align=center><b><size=125%>AI Ship Generation</b></size></align>\n<b><size=110%>Hybrid</b></size>\nThe initial ships for the campaign are pregenerated but during the campaign the AI designs all of its new ships from scratch.\n\n<b><size=110%>Pregenerated</b></size>\nAll AI designs are pregenerated.\n\n<b><size=110%>Bespoke</b></size>\nAll the AI ships are generated from scratch.
