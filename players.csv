@@ -1,5 +1,8 @@
-#id,enabled / disabled,name for ui,type: major / minor,,,,color,color for highlight,color visualized,text visualized,text visualized on dark,starting shipyard size,,,,,,nearby-located countries,description for new game 1890 year,description for new game 1900 year,description for new game 1910 year,description for new game 1920 year,description for new game 1930 year,description for new game 1940 year,,,
-"Communists,Left Wing,Centre,Right Wing,Nationalists",,,,,,,,,,colors from nick,,
+#id,enabled / disabled,name for ui,type: major / minor,,,,color,color for highlight,color visualized,text visualized,text visualized on dark,starting shipyard size,,,,,,nearby-located countries,description for new game 1890 year,description for new game 1900 year,description for new game 1910 year,description for new game 1920 year,description for new game 1930 year,description for new game 1940 year,,,"Communists,
+Left Wing,
+Centre,
+Right Wing,
+Nationalists",,,,,,,,,,colors from nick,,
 @name,enabled,nameUi,type,liked,enemies,threatChance,color,highlightColor,#color,#color,#color,shipyardStart,aiPersonality,nation_base_income,startingyear_income_mod,startingyear_unrest_mod,startingyear_growth_mod,nearby,desc1890,desc1900,desc1910,desc1920,desc1930,desc1940,enabledForCampaign,id,percentParty,governmentTypeOnYear,yearForGovernmentType,nameUiMonarchy,nameUiFascism,nameUiCommunism,nameUiOtherDemocracy,#test,#comment,#darkColor,#newColors,#backup nick,#backup misha
 default,1,,minor,,,1,ffffff,ffffff,,Text,Text,13500,default_ai,3000000000,,,,,,,,,,,,0,,,,,,,,13500,756000000,,,ffffff,ffffff
 britain,,Britain,major,,,,c67d7d,ce7474,,Text,Text,13500,britain_ai,9500000000,,"0, 0, 0, 10, 2, 0","0.001, 0.002, 0.003, -0.002, -0.004, 0.001","germany, france, russia, netherlands",$Player_desc1890_britain,$Player_desc1890_britain,$Player_desc1890_britain,$Player_desc1920_britain,$Player_desc1930_britain,$Player_desc1940_britain,1,1,"0.5,4.5,45,49,1",ConstitutionalMonarchy,1890,British Empire,British Union of Fascists,British Federation,Britain,13500,3150000000,,c67d7d,ec1337,ff8888
