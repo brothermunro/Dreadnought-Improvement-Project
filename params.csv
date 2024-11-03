@@ -190,6 +190,7 @@ research_early_years_to_stall,5,"zero research speed, if tech is too early by th
 research_time_mod_min,0.4,lowest possible research multiplier from time difference,0.75,,,,,,
 research_time_mod_max,4,highest possible research multiplier from time difference,1.15,,,,,,
 research_budget_mod_min,0.67,highest possible research multiplier from budget difference to richest player,0.5,,,,,,
+research_budget_mod_max,1.125,Highest possible research multiplier from budget difference to richest player,,,,,,,
 research_priority_weight,3,increased weight for prioritized researches,2,,,,,,
 research_priority_penalty,3.5,weight penalty for non prioritized researches,8,,,,,,
 tech_mod_randomness,0,randomness for each player's hidden research mod for each tech type: one plus minus this value,0.3,,,,,,
