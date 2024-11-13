@@ -145,7 +145,7 @@ portuguese_guinea,Portuguese Guinea,c_atlantic,portugal,portugal,portugal,portug
 french_guinea,French Guinea,c_atlantic,france,france,france,france,france,france,france,cayenne,0,colony,5.9000001,14000,-1,-1,0,0,0,7,0.0125000002,2,"sierra_leone, french_sudan, upper_volta, ivory_coast"
 ivory_coast,Ivory Coast,w_africa,france,france,france,france,france,france,france,ivory_coast,0,colony,6,17000,-1,1930,4,175,75,7,0.0125000002,2,"gold_coast, liberia, french_guinea, french_sudan, upper_volta"
 liberia,Liberia,c_atlantic,usa,usa,usa,usa,usa,usa,usa,liberia,0,colony,4,3000,-1,1930,4,175,75,7,0.0125000002,2,"sierra_leone, french_guinea, ivory_coast"
-mauritania,Mauritania,c_atlantic,france,mauritania,france,france,france,france,france,mauritania,0,colony,2,15000,-1,-1,0,0,0,7,0.0125000002,2,"western_sahara, senegal, french_sudan, southern_algeria"
+mauritania,Mauritania,c_atlantic,france,france,france,france,france,france,france,mauritania,0,colony,2,15000,-1,-1,0,0,0,7,0.0125000002,2,"western_sahara, senegal, french_sudan, southern_algeria"
 middle_congo,Middle Congo,w_africa,france,france,france,france,france,france,france,congo,0,colony,4,12000,-1,-1,0,0,0,7,0.0125000002,2,"gabon, congo_free_state, portuguese_congo, cameroon, central_african_republic"
 nigeria,Nigeria,w_africa,britain,britain,britain,britain,britain,britain,britain,nigeria,0,colony,7,36000,-1,1927,5,1550,1500,7,0.0125000002,2,"dahomey, cameroon, chad, niger"
 senegal,Senegal,c_atlantic,france,france,france,france,france,france,france,senegal,0,colony,5,10000,-1,-1,0,0,0,7,0.0125000002,2,"gambia, mauritania, french_sudan"
@@ -291,7 +291,7 @@ tripolitania,Tripolitania,medit3,greece,greece,greece,greece,italy,italy,italy,l
 cyrenaica,Cyrenaica,medit3,greece,greece,greece,greece,italy,italy,italy,libya,0,colony,3.5,25000,-1,1925,10,1100,1000,15,0.0299999993,1.5,"north_egypt, south_egypt, sudan, chad"
 fezzan-ghadames,Fezzan-Ghadames,medit3,greece,greece,greece,greece,italy,italy,italy,libya,0,colony,2,25000,-1,1925,7,750,1000,15,0.0299999993,1.5,"tripolitania, cyrenaica, chad, niger, southern_algeria"
 northern_algeria,Northern Algeria,medit2,france,france,france,france,france,france,france,algeria,0,colony,4,4000,-1,1930,5,200,100,7,0.0125000002,2,"southern_algeria, tunisia, tripolitania, morocco"
-southern_algeria,Southern Algeria,medit2,neutral,neutral,neutral,france,france,france,france,algeria,0,colony,1.5,4000,-1,1930,2,300,100,7,0.0125000002,2,"northern_algeria, tunisia, tripolitania, niger, french_sudan, mauritania, western_sahara, morocco"
+southern_algeria,Southern Algeria,medit2,france,france,france,france,france,france,france,algeria,0,colony,1.5,4000,-1,1930,2,300,100,7,0.0125000002,2,"northern_algeria, tunisia, tripolitania, niger, french_sudan, mauritania, western_sahara, morocco"
 north_egypt,Northern Egypt,medit,britain,britain,britain,britain,britain,britain,britain,egypt,0,colony,12,45000,-1,1890,100,950,1000,15,0.0299999993,1.5,"palestine, cyrenaica"
 south_egypt,Southern Egypt,red_sea,britain,britain,britain,britain,britain,britain,britain,egypt,0,colony,8,25000,-1,1912,10,450,1000,15,0.0299999993,1.5,"cyrenaica, sudan"
 north_brazil,Northern Brazil,c_atlantic,portugal,portugal,portugal,portugal,portugal,portugal,portugal,brazil,1,colony,7.5,45000,-1,1930,5,800,300,7,0.0299999993,2,"french_guiana, suriname, british_guiana, venezuela, southern_colombia, peru, bolivia, south_brazil"
@@ -321,7 +321,7 @@ faroe_islands,Faroe Islands,n_sea,scandinavia,scandinavia,scandinavia,scandinavi
 shetland,Shetland,n_sea,britain,britain,britain,britain,britain,britain,britain,scotland,0,home,0.150000006,10000,-1,-1,0,0,0,0.00999999978,0.0299999993,4,
 balearic_islands,Balearic Islands,medit2,spain,spain,spain,spain,spain,spain,spain,spain,1,home,1,15000,-1,-1,0,0,0,2.5,0.0125000002,2,
 kosovo,Kosovo,adriatic,greece,greece,greece,greece,austria,austria,austria,serbia,0,colony,2,0,-1,-1,0,0,0,7,0.0199999996,2.5,"serbia, albania, montenegro, central_balkans"
-british_honduras,Guatemala,s_am_west,britain,britain,britain,britain,britain,britain,britain,british_honduras,0,colony,3.20000005,15000,-1,-1,0,0,0,7,0.0125000002,2,"eastern_mexico, southwest_mexico, honduras, belize, el_salvador"
+british_honduras,Guatemala,s_am_west,spain,spain,spain,spain,spain,spain,spain,british_honduras,0,colony,3.20000005,15000,-1,-1,0,0,0,7,0.0125000002,2,"eastern_mexico, southwest_mexico, honduras, belize, el_salvador"
 belize,Belize,caribbean,britain,britain,britain,britain,britain,britain,britain,belize,0,colony,1.60000002,15000,-1,-1,0,0,0,7,0.0125000002,2,"eastern_mexico, british_honduras"
 el_salvador,El Salvador,s_am_west,spain,spain,spain,spain,spain,spain,spain,salvador_c,0,colony,1.39999998,15000,-1,-1,0,0,0,7,0.0125000002,2,"british_honduras, honduras"
 poland,Western Poland,baltic,germany,germany,germany,germany,germany,germany,germany,poland,1,colony,14,0,-1,-1,0,0,0,2.5,0.0299999993,2,"eastern_germany, prussia, bohemia-moravia, eastern_poland, prussia"
