@@ -229,7 +229,7 @@ northern_australia,Northern Australia,indonesian_sea,britain,britain,britain,bri
 western_australia,Western Australia,indian_east,britain,britain,britain,britain,britain,britain,britain,australia,1,colony,5,20000,-1,1920,5,525,250,2.5,0.0125000002,2,"eastern_australia, northern_australia"
 eastern_australia,Eastern Australia,oceania_south,britain,britain,britain,britain,britain,britain,britain,australia,1,colony,10,20000,-1,1920,5,525,250,2.5,0.0125000002,2,"western_australia, northern_australia"
 tasmania,Tasmania,oceania_south,britain,britain,britain,britain,britain,britain,britain,australia,0,colony,5,15000,-1,1930,1,200,100,2.5,0.0125000002,2,
-bismarck_archipelago,Bismarck Archipelago,oceania_north,germany,germany,germany,germany,australia,australia,australia,bismarck_archipelago,0,colony,3,25000,-1,-1,0,0,0,2.5,0.0125000002,2,
+bismarck_archipelago,Bismarck Archipelago,oceania_north,germany,germany,germany,germany,britain,britain,australia,bismarck_archipelago,0,colony,3,25000,-1,-1,0,0,0,2.5,0.0125000002,2,
 caroline_islands,Caroline Islands,oceania_north,spain,spain,germany,germany,japan,japan,japan,caroline_islands,0,colony,2,15000,-1,1925,1,150,100,2.5,0.0125000002,2,
 dutch_new_guinea,Dutch New Guinea,oceania_north,netherlands,netherlands,netherlands,netherlands,netherlands,netherlands,netherlands,dutch_new_guinea,0,colony,5,3000,-1,1930,5,600,500,2.5,0.0125000002,2,territory_of_papua
 german_new_guinea,German New Guinea,oceania_north,germany,germany,germany,germany,britain,britain,australia,200,0,colony,5,15000,-1,1911,6,400,200,2.5,0.0125000002,2,
