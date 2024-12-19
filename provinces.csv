@@ -6,7 +6,7 @@ belarus,Belarus,b_sea,russia,russia,russia,russia,russia,russia,russia,belarus,1
 moldova,Moldova,b_sea,russia,russia,russia,russia,russia,russia,russia,moldova,1,home,2,90000,-1,1930,1,100,100,7,0.0125000002,2,"ukraine, romania"
 georgia,Georgia,b_sea,russia,russia,russia,russia,russia,russia,russia,georgia,1,home,3,90000,-1,1930,1,100,100,7,0.0125000002,2,"southern_russia, armenia, azerbaijan, northern_turkey, eastern_turkey"
 armenia,Armenia,b_sea,russia,russia,russia,russia,russia,russia,russia,armenia,1,home,2,90000,-1,1930,1,110,100,7,0.0125000002,2,"azerbaijan, eastern_turkey, georgia, persia"
-azerbaijan,Azerbaijan,b_sea,russia,russia,russia,russia,russia,russia,russia,azerbaijan,1,home,1.75,90000,-1,1890,100,200,1000,7,0.0125000002,2,"armenia, georgia, southern_russia, persia"
+azerbaijan,Azerbaijan,b_sea,russia,russia,russia,russia,russia,russia,russia,azerbaijan,1,colony,1.75,90000,-1,1890,100,200,1000,7,0.0125000002,2,"armenia, georgia, southern_russia, persia"
 romania,Romania,b_sea,austria,austria,austria,austria,austria,austria,austria,romania,0,colony,4.4000001,20000,-1,1930,1,100,100,7,0.0299999993,2,"ukraine, moldova, hungary, serbia, bulgaria"
 northern_turkey,Northern Turkey,b_sea,greece,greece,greece,greece,greece,greece,greece,greece,1,home,9,80000,-1,1930,1,150,100,6,0.119999997,2,"bosporus, western_turkey, southern_turkey, eastern_turkey, georgia"
 corsica,Corsica,medit2,france,france,france,france,france,france,france,corsica,0,colony,2,4000,-1,-1,0,0,0,2.5,0.0125000002,2,
