@@ -3473,6 +3473,6 @@ virginia_casemate_8,1,gun,Gun,,-1,-1,,4,virginia_gun_b_229_x1,0.93,,casemate,,"u
 virginia_gun_9_x1,1,gun,Gun,,-1,-1,,4,virginia_gun_b_229_x1,1,,"free, center, side, barbette",,"center, main_center, unique, need(ironclad_virginia), gun_data(ironclad_virginia_9)",size(4),229,9,1,,,,,,,,,,,,,,,,,,-1,
 virginia_gun_10_x1,1,gun,Gun,,-1,-1,,4,virginia_gun_b_229_x1,1.05,,"free, center, side, barbette",,"center, main_center, unique, need(ironclad_virginia), gun_data(ironclad_virginia_10)",size(5),254,10,1,,,,,,,,,,,,,,,,,,-1,
 ##,,END,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1,
-virginia_gun_9_x1,1,gun,Gun,,-1,,4,virginia_gun_b_229_x1,1,,"free, center, side, barbette",,"center, main_center, unique, need(ironclad_virginia), gun_data(ironclad_virginia_9)",-1,size(4),229,9,1,,,,,,,,,,,,,,,,,,-1,
-virginia_gun_10_x1,1,gun,Gun,,-1,,4,virginia_gun_b_229_x1,1.05,,"free, center, side, barbette",,"center, main_center, unique, need(ironclad_virginia), gun_data(ironclad_virginia_10)",-1,size(5),254,10,1,,,,,,,,,,,,,,,,,,-1,
+virginia_gun_9_x1,1,gun,Gun,,-1,-1,,4,virginia_gun_b_229_x1,1,,"free, center, side, barbette",,"center, main_center, unique, need(ironclad_virginia), gun_data(ironclad_virginia_9)",size(4),229,9,1,,,,,,,,,,,,,,,,,,-1,
+virginia_gun_10_x1,1,gun,Gun,,-1,-1,,4,virginia_gun_b_229_x1,1.05,,"free, center, side, barbette",,"center, main_center, unique, need(ironclad_virginia), gun_data(ironclad_virginia_10)",size(5),254,10,1,,,,,,,,,,,,,,,,,,-1,
 ##,,END,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
