@@ -768,7 +768,7 @@ friendlyShipsCollideDistanceModifier,0.7,Evasion Distance Modifier against Frien
 max_stop_distance,100,"The maximum distance between the ship and the destination point, which is considered that the ship has reached the destination point.",,,,,,,
 ship_movement_enemy_nodes_threshold,3,,,,,,,,
 #,,New gun caliber modifiers,,,,,,,
-max_gun_caliber_mod,0.9,,,,,,,,
+max_gun_caliber_mod,0.92,,,,,,,,
 min_gun_length_mod,-20,,,,,,,,
 max_gun_length_mod,20,,,,,,,,
 gun_length_weight_min,-0.8,,,,,,,,
