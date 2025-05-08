@@ -52,7 +52,7 @@ western_france,Western France,biscaic,france,france,france,france,france,france,
 ireland,Ireland,irish_sea,britain,britain,britain,britain,britain,britain,britain,ireland,1,colony,19,55000,-1,-1,0,0,0,15,0.0299999993,2,
 northern_spain,Northern Spain,biscaic,spain,spain,spain,spain,spain,spain,spain,spain,1,home,10,80000,-1,1930,5,400,300,7,0.0299999993,2,"portugal, western_spain, southern_spain"
 western_spain,Western Spain,n_atlantic,spain,spain,spain,spain,spain,spain,spain,spain,1,home,8,65000,-1,-1,0,0,0,7,0.0299999993,2,"northern_spain, portugal, southern_spain"
-portugal,Portugal,n_atlantic,portugal,portugal,portugal,portugal,portugal,portugal,portugal,portugal,1,home,5,95000,-1,-1,0,0,0,15,0.0350000001,3,"northern_spain, western_spain, southern_spain"
+portugal,Portugal,n_atlantic,portugal,portugal,portugal,portugal,portugal,portugal,portugal,portugal,1,home,5,95000,-1,-1,0,0,0,15,0.0350000001,5,"northern_spain, western_spain, southern_spain"
 azores,Azores,n_atlantic,portugal,portugal,portugal,portugal,portugal,portugal,portugal,azores,1,colony,1,20000,-1,-1,0,0,0,2.5,0.0125000002,2,
 madeira,Madeira,n_atlantic,portugal,portugal,portugal,portugal,portugal,portugal,portugal,madeira,1,home,1.25,7000,-1,-1,0,0,0,2.5,0.0125000002,2,
 morocco,Morocco,n_atlantic,spain,spain,spain,spain,france,france,france,morocco,0,country,5,20000,-1,1920,5,325,200,15,0.0125000002,2,"northern_algeria, southern_algeria, western_sahara"
