@@ -47,6 +47,48 @@ $Player_desc1920_korea; Tensions are high with Japan, marked by frequent skirmis
 $Player_desc1930_korea;Relations with Japan have deteriorated to a breaking point, with the threat of full-scale war looming. The navy has made significant strides in modernization, but it remains outmatched by Japan's powerful fleet. Tensions in the region are palpable, and the admiralty must prepare for imminent conflict while fostering national unity and resilience. Strategic planning for naval engagements becomes critical, as every decision could mean the difference between survival and subjugation.
 $Player_desc1940_korea;The navy, now more robust and experienced, faces the ultimate test as hostilities erupt. The years of preparation and modernization have equipped the fleet to challenge Japanese aggression, but the odds remain daunting. Strategic naval battles are underway, and maintaining morale among the ranks is essential as casualties mount. Your leadership will be pivotal in coordinating defences, executing offensive strategies, and rallying the nation. The struggle for independence is no longer a distant hope—it's a fierce reality, and the fate of Korea hangs in the balance.
 $event_text_92;[ENEMY] has sent us a telegraph which clearly threatens us with war, accusing us of fabricated incidents along our common border. How should we respond?
+$technology_desc_hull_strength_12_2;New Hulls
+$technology_desc_hull_strength_12_3;Fast Dreadnoughts are the last Development of the Dradnought Era
+$technology_name_hull_cruiser_2;4,000t Light Cruisers
+$technology_name_hull_cruiser_3;4,500t Light Cruisers
+$technology_name_hull_cruiser_4;5,000t Light Cruisers
+$technology_name_hull_cruiser_5;5,500t Light Cruisers
+$technology_name_hull_cruiser_6;6,000t Light Cruisers
+$technology_name_hull_cruiser_7;6,500t Light Cruisers
+$technology_name_hull_cruiser_8;7,000t Light Cruisers
+$technology_name_hull_cruiser_9;7,500t Light Cruisers
+$technology_name_hull_cruiser_10;8,000t Light Cruisers
+$technology_name_hull_cruiser_11;9,000t Light Cruisers
+$technology_name_hull_cruiser_12;10,000t Light Cruisers
+$technology_name_hull_cruiser_13;11,000t Light Cruisers
+$technology_name_hull_cruiser_14;12,000t Light Cruisers
+$technology_name_hull_cruiser_15;13,000t Light Cruisers
+$technology_name_hull_cruiser_16;14,000t Light Cruisers
+$technology_name_hull_cruiser_17;15,000t Light Cruisers
+$technology_name_hull_cruiser_18;16,000t Light Cruisers
+$technology_name_hull_cruiser_19;17,000t Light Cruisers
+$technology_name_hull_cruiser_20;18,000t Light Cruisers
+$technology_name_hull_strength_12_2;Unlock new Hulls
+$technology_name_hull_strength_12_3;Unlock Fast Dreadnoughts
+$technology_desc_hull_cruiser_2;Unlocks 4,000t Light Cruisers
+$technology_desc_hull_cruiser_3;Unlocks 4,500t Light Cruisers
+$technology_desc_hull_cruiser_4;Unlocks 5,000t Light Cruisers
+$technology_desc_hull_cruiser_5;Unlocks 5,500t Light Cruisers
+$technology_desc_hull_cruiser_6;Unlocks 6,000t Light Cruisers
+$technology_desc_hull_cruiser_7;Unlocks 6,500t Light Cruisers
+$technology_desc_hull_cruiser_8;Unlocks 7,000t Light Cruisers
+$technology_desc_hull_cruiser_9;Unlocks 7,500t Light Cruisers
+$technology_desc_hull_cruiser_10;Unlocks 8,000t Light Cruisers
+$technology_desc_hull_cruiser_11;Unlocks 9,000t Light Cruisers
+$technology_desc_hull_cruiser_12;Unlocks 10,000t Light Cruisers
+$technology_desc_hull_cruiser_13;Unlocks 11,000t Light Cruisers
+$technology_desc_hull_cruiser_14;Unlocks 12,000t Light Cruisers
+$technology_desc_hull_cruiser_15;Unlocks 13,000t Light Cruisers
+$technology_desc_hull_cruiser_16;Unlocks 14,000t Light Cruisers
+$technology_desc_hull_cruiser_17;Unlocks 15,000t Light Cruisers
+$technology_desc_hull_cruiser_18;Unlocks 16,000t Light Cruisers
+$technology_desc_hull_cruiser_19;Unlocks 17,000t Light Cruisers
+$technology_desc_hull_cruiser_20;Unlocks 18,000t Light Cruisers
 $Ui_NewGame_DesignUsage_Mixed;AI Design Usage: Hybrid
 $Ui_NewGame_DesignUsage_FullGenerated;AI Design Usage: Bespoke
 $Ui_NewGame_DesignUsage_FullPredefined;AI Design Usage: Pregenerated
