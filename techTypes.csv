@@ -15,8 +15,8 @@ aim_control,aim,$techType_name_aim_control,,1,$techType_tooltip_aim_control,ToEn
 aim_rangefinder,aim,$techType_name_aim_rangefinder,,1,$techType_tooltip_aim_rangefinder,ToEnable,100
 surv_hull,surv,$techType_name_surv_hull,,1,$techType_tooltip_surv_hull,ToEnable,100
 surv_internal,surv,$techType_name_surv_internal,,1,$techType_tooltip_surv_internal,ToEnable,100
-gun_layout,gun,$techType_name_gun_layout,,1,$techType_tooltip_gun_layout,,100
-gun_mech,gun,$techType_name_gun_mech,,1,$techType_tooltip_gun_mech,ToEnable,100
+gun_layout,gun2,$techType_name_gun_layout,,1,$techType_tooltip_gun_layout,,100
+gun_mech,gun2,$techType_name_gun_mech,,1,$techType_tooltip_gun_mech,ToEnable,100
 gun_xlarge,gun,$techType_name_gun_xlarge,group_guns,1,$techType_tooltip_gun_xlarge,Guns,100
 gun_verylarge,gun,$techType_name_gun_verylarge,group_guns,1,$techType_tooltip_gun_verylarge,Guns,100
 gun_large,gun,$techType_name_gun_large,group_guns,1,$techType_tooltip_gun_large,Guns,100
@@ -29,5 +29,5 @@ torpedo_size,torpedo,$techType_name_torpedo_size,,1,$techType_tooltip_torpedo_si
 torpedo_prop,torpedo,$compTypes_name_torpedo_prop,,1,$techType_tooltip_torpedo_prop,ToEnable,100
 tactics_tactics,tactics,$techType_name_tactics_tactics,,1,$techType_tooltip_tactics_tactics,,100
 tactics_comm,tactics,$techType_name_tactics_comm,,1,$techType_tooltip_tactics_comm,ToEnable,100
-tactics_mines,tactics,$Ui_Constr_Mines,,1,$techType_tooltip_tactics_mines,,100
-tactics_asw,tactics,$techType_name_tactics_asw,,1,$techType_tooltip_tactics_asw,ToEnable,100
+tactics_mines,tactics,$Ui_Constr_Mines,,1,$techType_tooltip_tactics_mines,,0
+tactics_asw,tactics,$techType_name_tactics_asw,,1,$techType_tooltip_tactics_asw,ToEnable,0
