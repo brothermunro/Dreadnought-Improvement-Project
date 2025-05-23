@@ -59,6 +59,8 @@ $techType_name_gun_verylarge;Very Large Guns
 $techType_tooltip_gun_verylarge;- Develops better very large guns (13-16 inch) for battlecruisers and battleships.
 $techType_name_gun_xlarge;Extremely Large Guns
 $techType_tooltip_gun_xlarge;- Develops better extremely large guns (17-20 inch) for battlecruisers and battleships.
+$techGroup_name_gun2;Gun Technologies
+$techGroup_tooltipgun2;By developing more advanced gun layouts and improved mechanisms for our gun turrets we can unlock new design options and superior rates of fire, faster turret traverse speeds, and more.
 $technology_name_hull_cruiser_2;4,000t Light Cruisers
 $technology_name_hull_cruiser_3;4,500t Light Cruisers
 $technology_name_hull_cruiser_4;5,000t Light Cruisers
