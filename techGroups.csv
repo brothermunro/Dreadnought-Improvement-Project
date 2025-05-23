@@ -7,6 +7,7 @@ armor,$techGroup_name_armor,$techGroup_tooltiparmor
 aim,$Ui_Battle_FireControl,$techGroup_tooltipaim
 surv,$Ui_Constr_details_DamageControl,$techGroup_tooltipsurv
 gun,$techGroup_name_gun,$techGroup_tooltipgun
+guns,$techGroup_name_guns,$techGroup_tooltipguns
 gun2,$techGroup_name_gun2,$techGroup_tooltipgun2
 projectile,$techGroup_name_projectile,$techGroup_tooltipprojectile
 torpedo,$techGroup_name_torpedo,$techGroup_tooltiptorpedo

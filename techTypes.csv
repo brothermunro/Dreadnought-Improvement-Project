@@ -20,8 +20,8 @@ gun_mech,gun2,$techType_name_gun_mech,,1,$techType_tooltip_gun_mech,ToEnable,100
 gun_xlarge,gun,$techType_name_gun_xlarge,group_guns,1,$techType_tooltip_gun_xlarge,Guns,100
 gun_verylarge,gun,$techType_name_gun_verylarge,group_guns,1,$techType_tooltip_gun_verylarge,Guns,100
 gun_large,gun,$techType_name_gun_large,group_guns,1,$techType_tooltip_gun_large,Guns,100
-gun_medium,gun,$techType_name_gun_medium,group_guns,1,$techType_tooltip_gun_medium,Guns,100
-gun_small,gun,$techType_name_gun_small,group_guns,1,$techType_tooltip_gun_small,Guns,100
+gun_medium,guns,$techType_name_gun_medium,group_guns,1,$techType_tooltip_gun_medium,Guns,100
+gun_small,guns,$techType_name_gun_small,group_guns,1,$techType_tooltip_gun_small,Guns,100
 projectile_shell,projectile,$techType_name_projectile_shell,,1,$techType_tooltip_projectile_shell,ToEnable,100
 projectile_explosive,projectile,$techType_name_projectile_explosive,,1,$techType_tooltip_projectile_explosive,ToEnable,100
 torpedo_tubes,torpedo,$techEffect_desc_torp_mark,,1,$techType_tooltip_torpedo_tubes,Torpedo models,100
