@@ -48,7 +48,17 @@ $Player_desc1930_korea;Relations with Japan have deteriorated to a breaking poin
 $Player_desc1940_korea;The navy, now more robust and experienced, faces the ultimate test as hostilities erupt. The years of preparation and modernization have equipped the fleet to challenge Japanese aggression, but the odds remain daunting. Strategic naval battles are underway, and maintaining morale among the ranks is essential as casualties mount. Your leadership will be pivotal in coordinating defences, executing offensive strategies, and rallying the nation. The struggle for independence is no longer a distant hope—it's a fierce reality, and the fate of Korea hangs in the balance.
 $event_text_92;[ENEMY] has sent us a telegraph which clearly threatens us with war, accusing us of fabricated incidents along our common border. How should we respond?
 $technology_desc_hull_strength_12_2;New Hulls
-$technology_desc_hull_strength_12_3;Fast Dreadnoughts are the last Development of the Dradnought Era
+$technology_desc_hull_strength_12_3;Fast Dreadnoughts are the last Development of the Dreadnought Era
+$techType_name_gun_small;Small Guns
+$techType_tooltip_gun_small;- Develops better small guns (2-5 inch) for destroyers and secondary guns for larger ships.
+$techType_name_gun_medium;Medium Guns
+$techType_tooltip_gun_medium;- Develops better medium guns (6-8 inch) for cruisers and heavy secondary guns for larger ships.
+$techType_name_gun_large;Large Guns
+$techType_tooltip_gun_large;- Develops better large guns (9-12 inch) for armoured/heavy cruisers, battlecruisers and battleships.
+$techType_name_gun_verylarge;Very Large Guns
+$techType_tooltip_gun_verylarge;- Develops better very large guns (13-16 inch) for battlecruisers and battleships.
+$techType_name_gun_xlarge;Extremely Large Guns
+$techType_tooltip_gun_xlarge;- Develops better extremely large guns (17-20 inch) for battlecruisers and battleships.
 $technology_name_hull_cruiser_2;4,000t Light Cruisers
 $technology_name_hull_cruiser_3;4,500t Light Cruisers
 $technology_name_hull_cruiser_4;5,000t Light Cruisers
