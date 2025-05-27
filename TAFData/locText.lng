@@ -24,7 +24,11 @@ $TAF_Ui_BatchShipGenerator_NumShips;Num Ships Per
 $TAF_Ui_War_WhitePeace;The War has been very quiet...\n{0} {1} asks you if we should ask for a white peace.
 $TAF_Ui_NavalInvasion_InsufficientTonnage;In order to launch a naval invasion, you require at least [{0}] tonnes of naval assets in the sea region of the province you want to invade.
 $TAF_Ui_NavalInvasion_SufficientTonnage;You have naval assets over [{0}] tonnes in a sea region containing enemy ports. Ensure you have enough tonnage to secure the province you invade!
-$TAF_Ui_NavalInvasion_WaitUntilNextTurn;Your invasion of {0} will begin next month.\nYou cannot begin another naval invasion right now.
+$TAF_Ui_NavalInvasion_ChangeNavalInvasionTarget;You have set [{0}] as your naval invasion target this month.\nWould you like to change your invasion target?
 $TAF_Ui_NavalInvasion_ConfirmInvasion;You have naval assets of over [{0}] tonnes in the sea region around [{1}]. \nDo you want to launch a naval invasion next month?
+$TAF_Ui_NavalInvasion_ProvinceListCatagories_New;New:
+$TAF_Ui_NavalInvasion_ProvinceListCatagories_Ongoing;Ongoing:
+$TAF_Ui_NavalInvasion_ProvinceListCatagories_Options;Options:
+$TAF_Ui_NavalInvasion_ProvinceListCatagories_Insufficient_Tonnage;Lacking Tonnage In Region:
 $TAF_Ui_Retirement_Header;Considering Retirement
 $TAF_Ui_Retirement_Body;After {0} long years of service to your country, perhaps its time to step down.\nWould you like to end the campaign here? If you decline, you will be asked again in {1} months.
