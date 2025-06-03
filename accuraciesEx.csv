@@ -8,8 +8,8 @@ Out of Range,,,,,,,,,,Forces accuracy to 0 when all guns are out of range.
 Flagship Communications,,,,,,,,,,Being close to the flagship improves coordination.
 Flooding Instability,,,,,,,,,,"Flooding will cause the ship to list at a variable rate, reducing accuracy."
 Damage Instability,,,,,,,,,,Instability from being hit.
-Gun Recoil,,,,,,,,,,Instability from our own guns firing.
-Engine Vibrations,,,,,,,,,,Vibrations from the ship’s engines.
+Gun Recoil,,,,,,0.5,,,,Instability from our own guns firing.
+Engine Vibrations,,,,,,0.5,,,,Vibrations from the ship’s engines.
 Guns of Different Barrels,,,,,,,,,,Number of gun calibers on our ship increases uncertainty when counting splashes.
 Thick Smoke from own Funnel,,,,,,,,,,Smoke generated from funnels. Tied to part data.
 Various Funnel Emissions,,,,,,,,,,Duplicated for some reason?
@@ -19,17 +19,17 @@ Own Guns' Splashes,,,,,,,,,,Splashes from our own guns degrade accuracy.
 Own Maneuver,,,,,,,,,,Acceleration/Deceleration from turning or changing speed will reduce the accuracy of our targeting.
 Own Cruise Speed,,,,,,,,,,"Increasing the ship’s speed beyond a certain threshold will introduce vibrations and cavitation that reduce accuracy,"
 Shooting through Smoke,,,,,,,,,,"When firing from within a smoke cloud, visual targeting is impaired."
-Range Found,,,,,,,,,,Firing ranging shots will drastically improve accuracy.
+Range Found,,,,,,0.15,,0,200,Firing ranging shots will drastically improve accuracy.
 Conning Tower damaged,,,,,,,,,,Damage to conning tower interferes with the ship’s command structure.
 Fire Control damaged,,,,,,,,,,Damage to the firing control system cripples the ship’s ability to track targets.
 Far from Flagship,,,,,,,,,,Distance from flagship reduces shared accuracy and impairs communications.
 ,,,,,,,,,,
-Guns Grade,1st,,,,,,,,,Variable bonus depending on the average gun mark being used… I think?
-Guns Grade,2nd,,,,,,,,,
-Guns Grade,3rd,,,,,,,,,
-Guns Grade,4th,,,,,,,,,
-Guns Grade,5th,,,,,,,,,
-Guns Grade,6th,,,,,,,,,
+Guns Grade,1st,,Guns,Mk 1,0,,,,,Variable bonus depending on the average gun mark being used… I think?
+Guns Grade,2nd,,Guns,Mk 2,10,,,,,
+Guns Grade,3rd,,Guns,Mk 3,20,,,,,
+Guns Grade,4th,,Guns,Mk 4,30,,,,,
+Guns Grade,5th,,Guns,Mk 5,40,,,,,
+Guns Grade,6th,,Guns,Mk 6,50,,,,,
 ,,,,,,,,,,
 Technologies,,,,,,,,,,Various tech bonuses to accuracy.
 Long-Range Techs & Tower,,,,,,,,,,Long range accuracy bonus from techs and tower parts.
