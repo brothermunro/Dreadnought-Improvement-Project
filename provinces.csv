@@ -113,7 +113,7 @@ galápagos_islands,Galápagos Islands,s_am_west,spain,spain,spain,spain,spain,sp
 galicia,Galicia,adriatic,austria,austria,austria,austria,austria,austria,austria,slovakia,1,home,17.5,180000,-1,1893,55,100,320,2.5,0.0125000002,3,"eastern_poland, bohemia-moravia, austria, hungary, ukraine"
 gambia,Gambia,c_atlantic,britain,britain,britain,britain,britain,britain,britain,gambia,0,colony,3,6000,-1,-1,0,0,0,7,0.0125000002,2,senegal
 georgia,Georgia,b_sea,russia,russia,russia,russia,russia,russia,russia,georgia,1,home,3,90000,-1,1930,1,100,100,7,0.0125000002,2,"southern_russia, armenia, azerbaijan, northern_turkey, eastern_turkey"
-german_new_guinea,German New Guinea,oceania_north,germany,germany,germany,germany,britain,britain,australia,200,0,colony,5,15000,-1,1911,6,400,200,2.5,0.0125000002,2,"territory_of_papua, dutch_new_guinea"
+german_new_guinea,German New Guinea,oceania_north,germany,germany,germany,germany,britain,britain,australia,australia,0,colony,5,15000,-1,1911,6,400,200,2.5,0.0125000002,2,"territory_of_papua, dutch_new_guinea"
 gibraltar,Gibraltar,medit2,britain,britain,britain,britain,britain,britain,britain,gibraltar,0,colony,0.400000006,35000,-1,-1,0,0,0,2.5,0.0125000002,2,southern_spain
 gold_coast,Gold Coast,w_africa,britain,britain,britain,britain,britain,britain,britain,ghana,0,colony,5.80000019,12000,-1,-1,0,0,0,7,0.0125000002,2,"upper_volta, ivory_coast, togoland"
 grand_bahama,Grand Bahama,caribbean,britain,britain,britain,britain,britain,britain,britain,grand_bahama,0,colony,5,15000,-1,-1,0,0,0,7,0.0125000002,2,
