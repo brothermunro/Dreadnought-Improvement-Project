@@ -1,0 +1,47 @@
+#Name,Sub-Name,Enabled / Disabled,Override UI Name,Sub-Name Override,Replacement,Flat multiplier,Flat bonus,Minimum,Maximum,Comments
+name,subname,enabled,name_override,subname_override,replace,multiplier,bonus,min,max,note
+default,,1,,,-101,1,0,-100,-101,"Replace, bonus, min, and max are percent values (-100, 100, etc). Set replace and/or max to -101 to ignore. Min and multiplier must be greater than or equal to -100. All other comments are rough guesses at what the devs were thinking… Not that I’m much more qualified than they were at quantizing the accuracy of WWII naval gunnery."
+,,,,,,,,,,
+Base,,,,,,,,,,The base accuracy by range.
+Out of Range,,,,,,,,,,Forces accuracy to 0 when all guns are out of range.
+,,,,,,,,,,
+Flagship Communications,,,,,,,,,,Being close to the flagship improves coordination.
+Flooding Instability,,,,,,,,,,"Flooding will cause the ship to list at a variable rate, reducing accuracy."
+Damage Instability,,,,,,,,,,Instability from being hit.
+Gun Recoil,,,,,,,,,,Instability from our own guns firing.
+Engine Vibrations,,,,,,,,,,Vibrations from the ship’s engines.
+Guns of Different Barrels,,,,,,,,,,Number of gun calibers on our ship increases uncertainty when counting splashes.
+Thick Smoke from own Funnel,,,,,,,,,,Smoke generated from funnels. Tied to part data.
+Various Funnel Emissions,,,,,,,,,,Duplicated for some reason?
+Range finding,,,,,,,,,,Rangefinder bonus. Tied to part data.
+Other Guns' Splashes,,,,,,,,,,Splashes from other guns degrade accuracy.
+Own Guns' Splashes,,,,,,,,,,Splashes from our own guns degrade accuracy.
+Own Maneuver,,,,,,,,,,Acceleration/Deceleration from turning or changing speed will reduce the accuracy of our targeting.
+Own Cruise Speed,,,,,,,,,,"Increasing the ship’s speed beyond a certain threshold will introduce vibrations and cavitation that reduce accuracy,"
+Shooting through Smoke,,,,,,,,,,"When firing from within a smoke cloud, visual targeting is impaired."
+Range Found,,,,,,,,,,Firing ranging shots will drastically improve accuracy.
+Conning Tower damaged,,,,,,,,,,Damage to conning tower interferes with the ship’s command structure.
+Fire Control damaged,,,,,,,,,,Damage to the firing control system cripples the ship’s ability to track targets.
+Far from Flagship,,,,,,,,,,Distance from flagship reduces shared accuracy and impairs communications.
+,,,,,,,,,,
+Guns Grade,1st,,,,,,,,,Variable bonus depending on the average gun mark being used… I think?
+Guns Grade,2nd,,,,,,,,,
+Guns Grade,3rd,,,,,,,,,
+Guns Grade,4th,,,,,,,,,
+Guns Grade,5th,,,,,,,,,
+Guns Grade,6th,,,,,,,,,
+,,,,,,,,,,
+Technologies,,,,,,,,,,Various tech bonuses to accuracy.
+Long-Range Techs & Tower,,,,,,,,,,Long range accuracy bonus from techs and tower parts.
+Hull Stability & Tower,,,,,,,,,,Stability bonus from hull and tower parts.
+1-barrels Turret Tech,,,,,,,,,,Tech bonuses for one-gun turrets.
+2-barrels Turret Tech,,,,,,,,,,Tech bonuses for two-gun turrets.
+3-barrels Turret Tech,,,,,,,,,,Tech bonuses for three-gun turrets.
+4-barrels Turret Tech,,,,,,,,,,Tech bonuses for four-gun turrets.
+Casemate Tech,,,,,,,,,,Tech bonuses for casemates.
+,,,,,,,,,,
+Target Ship Size,,,,,,,,,,Larger targets are easier to hit.
+Target's Maneuver,,,,,,,,,,Acceleration/Deceleration from the enemy turning or changing speed will reduce the accuracy of our targeting.
+Target's Slow Speed,,,,,,,,,,Accuracy buff for slow moving targets.
+Target's Fast Speed,,,,,,,,,,Accuracy buff for fast moving targets.
+Target behind Smoke,,,,,,,,,,"When firing at a target hidden by a smoke cloud, visual targeting is impaired."
