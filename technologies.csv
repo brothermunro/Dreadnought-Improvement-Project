@@ -736,7 +736,7 @@ gun_main_25,gun_verylarge,,$technology_name_gun_main_15,1917,,90,gun(13;3),,,$te
 gun_main_26,gun_verylarge,,$technology_name_gun_main_19,1918,,90,gun(14;3),,,$technology_desc_gun_main_19,,,
 gun_main_27,gun_verylarge,,$technology_name_gun_main_28,1919,,90,gun(15;3),,,$technology_desc_gun_main_28,,,
 gun_main_28,gun_verylarge,,$technology_name_gun_main_30,1920,,90,gun(16;3),,,$technology_desc_gun_main_30,,,
-gun_main_29,gun_xlarge,,$technology_name_gun_main_32,1921,,100,gun(17;2),,,$technology_desc_gun_main_32,,,
+gun_main_29,gun_xlarge,,$technology_name_gun_main_32,1921,,200,gun(17;2),,,$technology_desc_gun_main_32,,,
 gun_main_30,gun_xlarge,,$technology_name_gun_main_40,1922,,100,gun(18;2),,,$technology_desc_gun_main_40,,,
 gun_main_31,gun_xlarge,,$technology_name_gun_main_41,1922,,100,gun(19;2),,,$technology_desc_gun_main_41,,,
 gun_main_32,gun_xlarge,,$technology_name_gun_main_42,1923,,100,gun(20;2),,,$technology_desc_gun_main_42,,,
