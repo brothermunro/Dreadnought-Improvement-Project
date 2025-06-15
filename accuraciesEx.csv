@@ -11,6 +11,7 @@ Damage Instability,,,,,,,,,,Instability from being hit.
 Gun Recoil,,,,,,0.5,,,,Instability from our own guns firing.
 Engine Vibrations,,,,,,0.5,,,,Vibrations from the ship’s engines.
 Guns of Different Barrels,,,,,,,,,,Number of gun calibers on our ship increases uncertainty when counting splashes.
+Not Centerlined Guns ,,,,,,,,,,"Wing guns complicate the firing solution, as each side has different positions and rotations compared to each other and the center line"
 Thick Smoke from own Funnel,,,,,,,,,,Smoke generated from funnels. Tied to part data.
 Various Funnel Emissions,,,,,,,,,,Duplicated for some reason?
 Range finding,,,,,,,,,,Rangefinder bonus. Tied to part data.
