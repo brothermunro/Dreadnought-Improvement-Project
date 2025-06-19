@@ -64,6 +64,37 @@ $techGroup_tooltipgun2;By developing more advanced gun layouts and improved mech
 $techGroup_name_guns;Small & Medium Naval Guns
 $techGroup_tooltipguns;The development of small and medium naval guns is key to improving our destroyer and cruiser forces, as well as making our capital ship's secondary weapons more effective.
 $techGroup_name_gun;Large Naval Guns
+$component_name_short_main_engine_1_small;Compact Steam Engines
+$component_name_short_main_engine_2_small;Compact Steam 3-Exp
+$component_name_short_main_engine_3_small;Compact Steam M-Exp
+$component_name_short_main_engine_3_adv_small;Early Turbines
+$component_name_short_main_engine_4_small;Compact Turbines
+$component_name_short_main_engine_5_small;Compact G.Turbines I
+$component_name_short_main_engine_6_small;Compact G.Turbines II
+$component_name_short_main_engine_7_small;Compact Diesel I
+$component_name_short_main_engine_8_small;Compact Diesel II
+$component_name_short_main_engine_9_small;Compact Gas Turbines
+$component_name_short_main_engine_turbo_small;Compact Turbo-Electric
+$technology_name_engine_engine_2_small;Miniturisation of Steam 3-Exp Engines
+$technology_name_engine_engine_3_small;Miniturisation of Steam M-Exp Engines
+$technology_name_engine_engine_4_small;Early Turbine Engines
+$technology_name_engine_engine_5_small;Miniaturisation of Turbine Engines
+$technology_name_engine_engine_6_small;Miniaturisation of Geared Turbine I Engines
+$technology_name_engine_engine_7_small;Miniaturisation of Turbo-Electric Engines
+$technology_name_engine_engine_8_small;Miniaturisation of Geared Turbine II Engines
+$technology_name_engine_engine_9_small;Miniaturisation of Diesel I
+$technology_name_engine_engine_10_small;Miniaturisation of Diesel II
+$technology_desc_engine_engine_11_small;Miniaturisation of Gas Turbine Engines
+$technology_desc_engine_engine_2_small;Miniaturisation of Steam 3-Exp Engines
+$technology_desc_engine_engine_3_small;Miniaturisation of Steam M-Exp Engines
+$technology_desc_engine_engine_4_small;Early Turbine Engines
+$technology_desc_engine_engine_5_small;Miniaturisation of Turbine Engines
+$technology_desc_engine_engine_6_small;Miniaturisation of Geared Turbine I Engines
+$technology_desc_engine_engine_7_small;Miniaturisation of Turbo-Electric Engines
+$technology_desc_engine_engine_8_small;Miniaturisation of Geared Turbine II Engines
+$technology_desc_engine_engine_9_small;Miniaturisation of Diesel I
+$technology_desc_engine_engine_10_small;Miniaturisation of Diesel II
+$technology_desc_engine_engine_11_small;Miniaturisation of Gas Turbine Engines
 $technology_name_hull_cruiser_2;4,000t Light Cruisers
 $technology_name_hull_cruiser_3;4,500t Light Cruisers
 $technology_name_hull_cruiser_4;5,000t Light Cruisers
