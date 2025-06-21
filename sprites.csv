@@ -1,7 +1,8 @@
 #Icon to override, filename, image width, image height
-#Place image file in Sprites folder
-
+#Place image file in Sprites folder,,,
+#,,,
 @name,file,width,height
-
+#,,,
 TechGroups/guns,guns.png,256,256
 TechGroups/gun2,gun2.png,256,256
+Components/engine_small,engine.png,64,64
