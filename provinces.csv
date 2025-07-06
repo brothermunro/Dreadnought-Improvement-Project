@@ -216,7 +216,7 @@ nyasaland,Nyasaland,indian_west,britain,britain,britain,britain,britain,britain,
 okinawa_islands,Okinawa Islands,east_asia,japan,japan,japan,japan,japan,japan,japan,japan,1,home,1.5,45000,-1,-1,0,0,0,7,0.0125000002,3,
 oman,Oman,arabian_sea,greece,greece,greece,greece,greece,greece,greece,oman,0,colony,3,2000,-1,1935,2,800,1000,7,0.0125000002,2,"trucial_states, arabia, yemen"
 orange_free_state,Orange Free State,indian_west,britain,britain,britain,britain,britain,britain,britain,boer,0,colony,2.9000001,0,-1,-1,0,0,0,35,0.00499999989,2,"south_africa, basutoland, transvaal"
-pakistan,Pakistan,arabian_sea,britain,britain,britain,britain,pakistan,pakistan,pakistan,pakistan,0,colony,6.5,80000,-1,1930,5,400,30,2.5,0.0125000002,2,"western_india, northern_india, afghanistan, kashmir, persia"
+pakistan,Pakistan,arabian_sea,britain,britain,britain,britain,britain,britain,britain,pakistan,0,colony,6.5,80000,-1,1930,5,400,30,2.5,0.0125000002,2,"western_india, northern_india, afghanistan, kashmir, persia"
 palestine,Palestine,medit,greece,greece,greece,greece,britain,britain,britain,palestine,0,colony,4,40000,-1,-1,0,0,0,12,0.00999999978,3,"north_egypt, transjordania, lebanon, syria"
 panama,Panama,caribbean,usa,usa,usa,usa,usa,usa,usa,panama,0,colony,3,30000,-1,-1,0,0,0,2.5,0.0125000002,2,"costa_rica, southern_colombia"
 paraguay,Paraguay,s_am_west,spain,spain,spain,spain,spain,spain,spain,paraguay,0,colony,3,0,-1,-1,0,0,0,7,0.0125000002,2,"south_brazil, bolivia, argentina"
