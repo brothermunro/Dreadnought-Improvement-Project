@@ -2484,7 +2484,7 @@ default,1,,0,,any,barbette,0,0,0,0,check_all,0,0,,,Creating,"For creating new mo
 12,,spee_tower_main_b,180,"(0.0000, 0.0000, -26.3500)",,tower_sec,,,,,,,,,1,,
 13,,spee_tower_main_b,180,"(0.0000, 0.0000, -25.1000)",,tower_sec,,,,,,,,,1,,
 14,,spee_tower_main_b,180,"(0.0000, 0.0000, -23.8500)",,tower_sec,,,,,,,,,1,,
-20,,spee_tower_main_b,20,"(9.6911, 0.0000, 2.9028)",side,barbette,4,6,,,ignore_parent,,,,1,,
+20,,spee_tower_main_b,20,"9.6911, 0.0000, 2.9028)",side,barbette,4,6,,,ignore_parent,,,,1,,
 21,,spee_tower_main_b,340,"(-9.6918, 0.0000, 2.9028)",side,barbette,4,6,,,ignore_parent,,,,1,,
 22,,spee_tower_main_b,0,"(8.8552, 0.0000, 13.6164)",side,barbette,4,6,,,ignore_parent,,,,1,,
 23,,spee_tower_main_b,0,"(-8.8552, 0.0000, 13.6164)",side,barbette,4,6,,,ignore_parent,,,,1,,
