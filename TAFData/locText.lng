@@ -48,3 +48,5 @@ $TAF_Ui_Dockyard_TopBar_RotationIncrementControl;Increment | Key:  [G]\n{0}
 $TAF_Ui_Dockyard_TopBar_RotationValueControl;Rotation | Reset: [F]\n{0}
 $TAF_Ui_Dockyard_ArmorTab_UpdateArmorQualitySetting;Update Armor Preview Setting
 $TAF_Ui_Predef_Error_MalformedPredefFile;Malformed predefs. Check log: `..\\steamapps\\common\\Ultimate Admiral Dreadnoughts\\MelonLoader\\Latest.log`.
+$TAF_Ui_FleetWindow_Confirm_Action_Delete;Are you sure you want to delete this design?
+$TAF_Ui_FleetWindow_Confirm_Action_Scrap;Are you sure you want to scrap the selected ship(s)?
