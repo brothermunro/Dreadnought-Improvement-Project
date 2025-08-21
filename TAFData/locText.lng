@@ -7,6 +7,9 @@ $TAF_Ui_Constr_UpgradeTorpMark;Upgrade\nTorpedo\nMark
 $TAF_Ui_Convert_ConvertedToJSON;Designs to JSON
 $TAF_Ui_Convert_ConvertedToJSON_Title;Converted Designs to JSON
 $TAF_Ui_Convert_ConvertedToJSON_Text;Converted {0} designs
+$TAF_Ui_Convert_ConvertedToBin;Designs to Bin
+$TAF_Ui_Convert_ConvertedToBin_Title;Converted Designs to Bin
+$TAF_Ui_Convert_ConvertedToBin_Text;Converted {0} designs
 $TAF_Ui_Convert_Exported;Designs to Predefined
 $TAF_Ui_Convert_Exported_Title;Exported Predefined Designs
 $TAF_Ui_Convert_Exported_Text;Exported {0} Shared Design ships to {1}
@@ -32,3 +35,18 @@ $TAF_Ui_NavalInvasion_ProvinceListCatagories_Options;Options:
 $TAF_Ui_NavalInvasion_ProvinceListCatagories_Insufficient_Tonnage;Lacking Tonnage In Region:
 $TAF_Ui_Retirement_Header;Considering Retirement
 $TAF_Ui_Retirement_Body;After {0} long years of service to your country, perhaps its time to step down.\nWould you like to end the campaign here? If you decline, you will be asked again in {1} months.
+$TAF_Ui_Dockyard_Confirm_Action_Save;Are you sure you want to save this ship?
+$TAF_Ui_Dockyard_Confirm_Action_RandomShip;Are you sure you want to generate a random ship on this hull?
+$TAF_Ui_Dockyard_Confirm_Action_ClearShip;Are you sure you want to clear all parts?
+$TAF_Ui_Dockyard_Confirm_Action_DeleteShip;Are you sure you want to delete this ship permanantly?
+$TAF_Ui_Dockyard_Confirm_Action_CloneShip;Are you sure you want to clone this ship?
+$TAF_Ui_Dockyard_Confirm_Action_Exit;Are you sure you want to leave the Dockyard?
+$TAF_Ui_Dockyard_Confirm_Action_RandomShipSimpleRefit;Are you sure you want to refit ship components automatically?
+$TAF_Ui_Dockyard_Confirm_Action_RefitShip;Are you sure you want to enter Refit Mode?
+$TAF_Ui_Dockyard_Confirm_Action_SwitchPlayerType;Are you sure you want to switch player type?
+$TAF_Ui_Dockyard_TopBar_RotationIncrementControl;Increment | Key:  [G]\n{0}
+$TAF_Ui_Dockyard_TopBar_RotationValueControl;Rotation | Reset: [F]\n{0}
+$TAF_Ui_Dockyard_ArmorTab_UpdateArmorQualitySetting;Update Armor Preview Setting
+$TAF_Ui_Predef_Error_MalformedPredefFile;Malformed predefs. Check log: `..\\steamapps\\common\\Ultimate Admiral Dreadnoughts\\MelonLoader\\Latest.log`.
+$TAF_Ui_FleetWindow_Confirm_Action_Delete;Are you sure you want to delete this design?
+$TAF_Ui_FleetWindow_Confirm_Action_Scrap;Are you sure you want to scrap the selected ship(s)?
