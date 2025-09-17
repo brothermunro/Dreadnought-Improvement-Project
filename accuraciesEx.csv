@@ -41,7 +41,7 @@ Hull Stability & Tower,,,,,,,,,,Stability bonus from hull and tower parts.
 4-barrels Turret Tech,,,,,,,,,,Tech bonuses for four-gun turrets.
 Casemate Tech,,,,,,,,,,Tech bonuses for casemates.
 ,,,,,,,,,,
-Target Ship Size,,,,,,,,,,Larger targets are easier to hit.
+Target Ship Size,,,,,,0.25,,,,Larger targets are easier to hit.
 Target's Maneuver,,,,,,,,,,Acceleration/Deceleration from the enemy turning or changing speed will reduce the accuracy of our targeting.
 Target's Slow Speed,,,,,,,,,,Accuracy buff for slow moving targets.
 Target's Fast Speed,,,,,,,,,,Accuracy buff for fast moving targets.
