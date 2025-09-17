@@ -1,8 +1,8 @@
 #id,,shell penetrates this mm of armor vertical (side) / horizontal (top) after hit from this range in km,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 @name,caliberInch,vert_0,vert_1,vert_5,vert_10,vert_15,vert_20,vert_25,vert_30,vert_35,vert_40,vert_50,horiz_5,horiz_10,horiz_15,horiz_20,horiz_25,horiz_30,horiz_35,horiz_40,horiz_50,#comment,#,#,#,#,#,#,#,#
 default,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Thickness of effectively penetrated armor (in mm) at range (in km) for guns of last grade with basic shell,,,,,,,,
-1,1,50,37,1,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,,,,,,,,,
-2,2,116,85,24,12,0,0,0,0,0,0,0,2,8,9,0,0,0,0,0,0,,,,,,,,,
+1,1,75,60,35,15,6,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,,,,,,,,,
+2,2,125,100,50,25,12,0,0,0,0,0,0,2,8,9,0,0,0,0,0,0,,,,,,,,,
 3,3,143,125,68,35,18,0,0,0,0,0,0,2,7,17,18,0,0,0,0,0,,,,,,,,,
 4,4,201,172,84,44,21,1,0,0,0,0,0,3,11,23,24,0,0,0,0,0,,,,,,,,,
 5,5,238,203,95,51,24,2,3,0,0,0,0,3,14,24,25,0,0,0,0,0,,,,,,,,,
