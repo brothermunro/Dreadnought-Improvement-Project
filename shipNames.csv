@@ -6300,1219 +6300,1010 @@ default,1,,,,-1
 6274,,$-%,portugal,dd
 6275,,$-%,portugal,tb
 ###,,,###
-6278,,São Paulo,brazil,bb
-6279,,Minas Gerais,brazil,bb
-6280,,Rio de Janeiro,brazil,bb
-6281,,Pernambuco,brazil,bb
-6282,,Santa Catarina,brazil,bb
-6283,,Rio Grande do Sul,brazil,bb
-6284,,Paraná,brazil,bb
-6285,,Pernambuco,brazil,bb
-6286,,Mato Grosso,brazil,bb
-6287,,Mato Grosso do sul,brazil,bb
-6288,,Goiás,brazil,bb
-6289,,Pernambuco,brazil,bb
-6290,,Acre,brazil,bb
-6291,,Rondonia,brazil,bb
-6292,,Goiás,brazil,bb
-6293,,Pará,brazil,bb
-6294,,Amazona,brazil,bb
-6295,,Roraima,brazil,bb
-6296,,Rondonia,brazil,bb
-6297,,Amapá,brazil,bb
-6298,,Maranhão,brazil,bb
-6299,,Ceará,brazil,bb
-6300,,Piaui,brazil,bb
-6301,,Bahia,brazil,bb
-6302,,Paraiba,brazil,bb
-6303,,Alagoas,brazil,bb
-6304,,Rio Grande do Norte,brazil,bb
-6305,,Sergipe,brazil,bb
-6306,,Espirito Santo,brazil,bb
-6307,,Tocatins,brazil,bb
-6308,,São Paulo,brazil,bc
-6309,,Minas Gerais,brazil,bc
-6310,,Rio de Janeiro,brazil,bc
-6311,,Pernambuco,brazil,bc
-6312,,Santa Catarina,brazil,bc
-6313,,Rio Grande do Sul,brazil,bc
-6314,,Paraná,brazil,bc
-6315,,Pernambuco,brazil,bc
-6316,,Mato Grosso,brazil,bc
-6317,,Mato Grosso do sul,brazil,bc
-6318,,Goiás,brazil,bc
-6319,,Pernambuco,brazil,bc
-6320,,Acre,brazil,bc
-6321,,Rondonia,brazil,bc
-6322,,Goiás,brazil,bc
-6323,,Pará,brazil,bc
-6324,,Amazona,brazil,bc
-6325,,Roraima,brazil,bc
-6326,,Rondonia,brazil,bc
-6327,,Amapá,brazil,bc
-6328,,Maranhão,brazil,bc
-6329,,Ceará,brazil,bc
-6330,,Piaui,brazil,bc
-6331,,Bahia,brazil,bc
-6332,,Paraiba,brazil,bc
-6333,,Alagoas,brazil,bc
-6334,,Rio Grande do Norte,brazil,bc
-6335,,Sergipe,brazil,bc
-6336,,Espirito Santo,brazil,bc
-6337,,Tocatins,brazil,bc
-6338,,Atlantico,brazil,ca
-6339,,Tamandaré,brazil,ca
-6340,,Defensora,brazil,ca
-6341,,Constituição,brazil,ca
-6342,,Liberal,brazil,ca
-6343,,Independência,brazil,ca
-6344,,União,brazil,ca
-6345,,Julio de Noronha,brazil,ca
-6346,,Barroso,brazil,ca
-6347,,Tupi,brazil,ca
-6348,,Tikuna,brazil,ca
-6349,,Riachuelo,brazil,ca
-6350,,Humaitá,brazil,ca
-6351,,Marambaia,brazil,ca
-6352,,Piratini,brazil,ca
-6353,,Pirajá,brazil,ca
-6354,,Pampeiro,brazil,ca
-6355,,Penedo,brazil,ca
-6356,,Poti,brazil,ca
-6357,,Pedro Teixeira,brazil,ca
-6358,,Raposo Tavares,brazil,ca
-6359,,Grajaú,brazil,ca
-6360,,Guaíba,brazil,ca
-6361,,Graúna,brazil,ca
-6362,,Guajará,brazil,ca
-6363,,Guaporé,brazil,ca
-6364,,Gurupá,brazil,ca
-6365,,Gurupi,brazil,ca
-6366,,Guanabara,brazil,ca
-6367,,Guarujá,brazil,ca
-6368,,Guaratuba,brazil,ca
-6369,,Gravatai,brazil,ca
-6370,,Bracuí,brazil,ca
-6371,,Benevente,brazil,ca
-6372,,Bocaina,brazil,ca
-6373,,Babitonga,brazil,ca
-6374,,Macaé,brazil,ca
-6375,,Maracanã,brazil,ca
-6376,,Mangaratiba,brazil,ca
-6377,,Araguari,brazil,ca
-6378,,Marlim,brazil,ca
-6379,,Barracuda,brazil,ca
-6380,,Dourado,brazil,ca
-6381,,Albacora,brazil,ca
-6382,,Anequim,brazil,ca
-6383,,Mearim,brazil,ca
-6384,,Iguatemi,brazil,ca
-6385,,Aratu,brazil,ca
-6386,,Atalaia,brazil,ca
-6387,,Araçatuba,brazil,ca
-6388,,Albardão,brazil,ca
-6389,,Tritão,brazil,ca
-6390,,Triunfo,brazil,ca
-6391,,Caboclo,brazil,ca
-6392,,Paraguassú,brazil,ca
-6393,,Rio Tocatins,brazil,ca
-6394,,Rio Xingu,brazil,ca
-6395,,Rio Solimões,brazil,ca
-6396,,Rio Negro,brazil,ca
-6397,,Mangangá,brazil,ca
-6398,,Poraquê,brazil,ca
-6399,,Cruzeiro do Sul,brazil,ca
-6400,,Bauru,brazil,ca
-6401,,Atlantico,brazil,cl
-6402,,Tamandaré,brazil,cl
-6403,,Defensora,brazil,cl
-6404,,Constituição,brazil,cl
-6405,,Liberal,brazil,cl
-6406,,Independência,brazil,cl
-6407,,União,brazil,cl
-6408,,Julio de Noronha,brazil,cl
-6409,,Barroso,brazil,cl
-6410,,Tupi,brazil,cl
-6411,,Tikuna,brazil,cl
-6412,,Riachuelo,brazil,cl
-6413,,Humaitá,brazil,cl
-6414,,Marambaia,brazil,cl
-6415,,Piratini,brazil,cl
-6416,,Pirajá,brazil,cl
-6417,,Pampeiro,brazil,cl
-6418,,Penedo,brazil,cl
-6419,,Poti,brazil,cl
-6420,,Pedro Teixeira,brazil,cl
-6421,,Raposo Tavares,brazil,cl
-6422,,Grajaú,brazil,cl
-6423,,Guaíba,brazil,cl
-6424,,Graúna,brazil,cl
-6425,,Guajará,brazil,cl
-6426,,Guaporé,brazil,cl
-6427,,Gurupá,brazil,cl
-6428,,Gurupi,brazil,cl
-6429,,Guanabara,brazil,cl
-6430,,Guarujá,brazil,cl
-6431,,Guaratuba,brazil,cl
-6432,,Gravatai,brazil,cl
-6433,,Bracuí,brazil,cl
-6434,,Benevente,brazil,cl
-6435,,Bocaina,brazil,cl
-6436,,Babitonga,brazil,cl
-6437,,Macaé,brazil,cl
-6438,,Maracanã,brazil,cl
-6439,,Mangaratiba,brazil,cl
-6440,,Araguari,brazil,cl
-6441,,Marlim,brazil,cl
-6442,,Barracuda,brazil,cl
-6443,,Dourado,brazil,cl
-6444,,Albacora,brazil,cl
-6445,,Anequim,brazil,cl
-6446,,Mearim,brazil,cl
-6447,,Iguatemi,brazil,cl
-6448,,Aratu,brazil,cl
-6449,,Atalaia,brazil,cl
-6450,,Araçatuba,brazil,cl
-6451,,Albardão,brazil,cl
-6452,,Tritão,brazil,cl
-6453,,Triunfo,brazil,cl
-6454,,Caboclo,brazil,cl
-6455,,Paraguassú,brazil,cl
-6456,,Rio Tocatins,brazil,cl
-6457,,Rio Xingu,brazil,cl
-6458,,Rio Solimões,brazil,cl
-6459,,Rio Negro,brazil,cl
-6460,,Mangangá,brazil,cl
-6461,,Poraquê,brazil,cl
-6462,,Cruzeiro do Sul,brazil,cl
-6463,,Bauru,brazil,cl
-6464,,$-%,brazil,dd
-6465,,$-%,brazil,tb
+6277,,São Paulo,brazil,bb
+6278,,Minas Gerais,brazil,bb
+6279,,Rio de Janeiro,brazil,bb
+6280,,Pernambuco,brazil,bb
+6281,,Santa Catarina,brazil,bb
+6282,,Rio Grande do Sul,brazil,bb
+6283,,Paraná,brazil,bb
+6284,,Pernambuco,brazil,bb
+6285,,Mato Grosso,brazil,bb
+6286,,Mato Grosso do sul,brazil,bb
+6287,,Goiás,brazil,bb
+6288,,Pernambuco,brazil,bb
+6289,,Acre,brazil,bb
+6290,,Rondonia,brazil,bb
+6291,,Goiás,brazil,bb
+6292,,Pará,brazil,bb
+6293,,Amazona,brazil,bb
+6294,,Roraima,brazil,bb
+6295,,Rondonia,brazil,bb
+6296,,Amapá,brazil,bb
+6297,,Maranhão,brazil,bb
+6298,,Ceará,brazil,bb
+6299,,Piaui,brazil,bb
+6300,,Bahia,brazil,bb
+6301,,Paraiba,brazil,bb
+6302,,Alagoas,brazil,bb
+6303,,Rio Grande do Norte,brazil,bb
+6304,,Sergipe,brazil,bb
+6305,,Espirito Santo,brazil,bb
+6306,,Tocatins,brazil,bb
+6307,,São Paulo,brazil,bc
+6308,,Minas Gerais,brazil,bc
+6309,,Rio de Janeiro,brazil,bc
+6310,,Pernambuco,brazil,bc
+6311,,Santa Catarina,brazil,bc
+6312,,Rio Grande do Sul,brazil,bc
+6313,,Paraná,brazil,bc
+6314,,Pernambuco,brazil,bc
+6315,,Mato Grosso,brazil,bc
+6316,,Mato Grosso do sul,brazil,bc
+6317,,Goiás,brazil,bc
+6318,,Pernambuco,brazil,bc
+6319,,Acre,brazil,bc
+6320,,Rondonia,brazil,bc
+6321,,Goiás,brazil,bc
+6322,,Pará,brazil,bc
+6323,,Amazona,brazil,bc
+6324,,Roraima,brazil,bc
+6325,,Rondonia,brazil,bc
+6326,,Amapá,brazil,bc
+6327,,Maranhão,brazil,bc
+6328,,Ceará,brazil,bc
+6329,,Piaui,brazil,bc
+6330,,Bahia,brazil,bc
+6331,,Paraiba,brazil,bc
+6332,,Alagoas,brazil,bc
+6333,,Rio Grande do Norte,brazil,bc
+6334,,Sergipe,brazil,bc
+6335,,Espirito Santo,brazil,bc
+6336,,Tocatins,brazil,bc
+6337,,Atlantico,brazil,ca
+6338,,Tamandaré,brazil,ca
+6339,,Defensora,brazil,ca
+6340,,Constituição,brazil,ca
+6341,,Liberal,brazil,ca
+6342,,Independência,brazil,ca
+6343,,União,brazil,ca
+6344,,Julio de Noronha,brazil,ca
+6345,,Barroso,brazil,ca
+6346,,Tupi,brazil,ca
+6347,,Tikuna,brazil,ca
+6348,,Riachuelo,brazil,ca
+6349,,Humaitá,brazil,ca
+6350,,Marambaia,brazil,ca
+6351,,Piratini,brazil,ca
+6352,,Pirajá,brazil,ca
+6353,,Pampeiro,brazil,ca
+6354,,Penedo,brazil,ca
+6355,,Poti,brazil,ca
+6356,,Pedro Teixeira,brazil,ca
+6357,,Raposo Tavares,brazil,ca
+6358,,Grajaú,brazil,ca
+6359,,Guaíba,brazil,ca
+6360,,Graúna,brazil,ca
+6361,,Guajará,brazil,ca
+6362,,Guaporé,brazil,ca
+6363,,Gurupá,brazil,ca
+6364,,Gurupi,brazil,ca
+6365,,Guanabara,brazil,ca
+6366,,Guarujá,brazil,ca
+6367,,Guaratuba,brazil,ca
+6368,,Gravatai,brazil,ca
+6369,,Bracuí,brazil,ca
+6370,,Benevente,brazil,ca
+6371,,Bocaina,brazil,ca
+6372,,Babitonga,brazil,ca
+6373,,Macaé,brazil,ca
+6374,,Maracanã,brazil,ca
+6375,,Mangaratiba,brazil,ca
+6376,,Araguari,brazil,ca
+6377,,Marlim,brazil,ca
+6378,,Barracuda,brazil,ca
+6379,,Dourado,brazil,ca
+6380,,Albacora,brazil,ca
+6381,,Anequim,brazil,ca
+6382,,Mearim,brazil,ca
+6383,,Iguatemi,brazil,ca
+6384,,Aratu,brazil,ca
+6385,,Atalaia,brazil,ca
+6386,,Araçatuba,brazil,ca
+6387,,Albardão,brazil,ca
+6388,,Tritão,brazil,ca
+6389,,Triunfo,brazil,ca
+6390,,Caboclo,brazil,ca
+6391,,Paraguassú,brazil,ca
+6392,,Rio Tocatins,brazil,ca
+6393,,Rio Xingu,brazil,ca
+6394,,Rio Solimões,brazil,ca
+6395,,Rio Negro,brazil,ca
+6396,,Mangangá,brazil,ca
+6397,,Poraquê,brazil,ca
+6398,,Cruzeiro do Sul,brazil,ca
+6399,,Bauru,brazil,ca
+6400,,Atlantico,brazil,cl
+6401,,Tamandaré,brazil,cl
+6402,,Defensora,brazil,cl
+6403,,Constituição,brazil,cl
+6404,,Liberal,brazil,cl
+6405,,Independência,brazil,cl
+6406,,União,brazil,cl
+6407,,Julio de Noronha,brazil,cl
+6408,,Barroso,brazil,cl
+6409,,Tupi,brazil,cl
+6410,,Tikuna,brazil,cl
+6411,,Riachuelo,brazil,cl
+6412,,Humaitá,brazil,cl
+6413,,Marambaia,brazil,cl
+6414,,Piratini,brazil,cl
+6415,,Pirajá,brazil,cl
+6416,,Pampeiro,brazil,cl
+6417,,Penedo,brazil,cl
+6418,,Poti,brazil,cl
+6419,,Pedro Teixeira,brazil,cl
+6420,,Raposo Tavares,brazil,cl
+6421,,Grajaú,brazil,cl
+6422,,Guaíba,brazil,cl
+6423,,Graúna,brazil,cl
+6424,,Guajará,brazil,cl
+6425,,Guaporé,brazil,cl
+6426,,Gurupá,brazil,cl
+6427,,Gurupi,brazil,cl
+6428,,Guanabara,brazil,cl
+6429,,Guarujá,brazil,cl
+6430,,Guaratuba,brazil,cl
+6431,,Gravatai,brazil,cl
+6432,,Bracuí,brazil,cl
+6433,,Benevente,brazil,cl
+6434,,Bocaina,brazil,cl
+6435,,Babitonga,brazil,cl
+6436,,Macaé,brazil,cl
+6437,,Maracanã,brazil,cl
+6438,,Mangaratiba,brazil,cl
+6439,,Araguari,brazil,cl
+6440,,Marlim,brazil,cl
+6441,,Barracuda,brazil,cl
+6442,,Dourado,brazil,cl
+6443,,Albacora,brazil,cl
+6444,,Anequim,brazil,cl
+6445,,Mearim,brazil,cl
+6446,,Iguatemi,brazil,cl
+6447,,Aratu,brazil,cl
+6448,,Atalaia,brazil,cl
+6449,,Araçatuba,brazil,cl
+6450,,Albardão,brazil,cl
+6451,,Tritão,brazil,cl
+6452,,Triunfo,brazil,cl
+6453,,Caboclo,brazil,cl
+6454,,Paraguassú,brazil,cl
+6455,,Rio Tocatins,brazil,cl
+6456,,Rio Xingu,brazil,cl
+6457,,Rio Solimões,brazil,cl
+6458,,Rio Negro,brazil,cl
+6459,,Mangangá,brazil,cl
+6460,,Poraquê,brazil,cl
+6461,,Cruzeiro do Sul,brazil,cl
+6462,,Bauru,brazil,cl
+6463,,$-%,brazil,dd
+6464,,$-%,brazil,tb
 ###,,,###
-6468,,De Zeven Provinciën,netherlands,bb
-6469,,Admiraal Tjerk Hiddes De Vries,netherlands,bb
-6470,,Aemilia,netherlands,bb
-6471,,Batavier,netherlands,bb
-6472,,Beschermer,netherlands,bb
-6473,,Brederode,netherlands,bb
-6474,,Delft,netherlands,bb
-6475,,Eendracht,netherlands,bb
-6476,,Gelijkheid,netherlands,bb
-6477,,Gouden Leeuw,netherlands,bb
-6478,,Hercules,netherlands,bb
-6479,,Staaten Generaal,netherlands,bb
-6480,,Vrijheid,netherlands,bb
-6481,,Wassenaar,netherlands,bb
-6482,,Willem de Eerste,netherlands,bb
-6483,,Zwanenburg,netherlands,bb
-6484,,Oudshoorn,netherlands,bb
-6485,,Luipaard,netherlands,bb
-6486,,Nairana,netherlands,bb
-6487,,Karel Doorman,netherlands,bb
-6488,,De Zeven Provinciën,netherlands,bc
-6489,,Admiraal Tjerk Hiddes De Vries,netherlands,bc
-6490,,Aemilia,netherlands,bc
-6491,,Batavier,netherlands,bc
-6492,,Beschermer,netherlands,bc
-6493,,Brederode,netherlands,bc
-6494,,Delft,netherlands,bc
-6495,,Eendracht,netherlands,bc
-6496,,Gelijkheid,netherlands,bc
-6497,,Gouden Leeuw,netherlands,bc
-6498,,Hercules,netherlands,bc
-6499,,Staaten Generaal,netherlands,bc
-6500,,Vrijheid,netherlands,bc
-6501,,Wassenaar,netherlands,bc
-6502,,Willem de Eerste,netherlands,bc
-6503,,Zwanenburg,netherlands,bc
-6504,,Oudshoorn,netherlands,bc
-6505,,Luipaard,netherlands,bc
-6506,,Nairana,netherlands,bc
-6507,,Karel Doorman,netherlands,bc
-6508,,Holland,netherlands,ca
-6509,,Rotterdam,netherlands,ca
-6510,,Alkmaar,netherlands,ca
-6511,,Noordzee,netherlands,ca
-6512,,Noorderhaaks,netherlands,ca
-6513,,Linge,netherlands,ca
-6514,,Breezand,netherlands,ca
-6515,,Pontianak,netherlands,ca
-6516,,Riouw,netherlands,ca
-6517,,Batavia ,netherlands,ca
-6518,,Samarang,netherlands,ca
-6519,,Makassar,netherlands,ca
-6520,,Haarlemmermeer,netherlands,ca
-6521,,Hector,netherlands,ca
-6522,,Soembing,netherlands,ca
-6523,,Soestdijk,netherlands,ca
-6524,,Vulkaan,netherlands,ca
-6525,,Van Amstel,netherlands,ca
-6526,,Van Ewijk,netherlands,ca
-6527,,Van Zijll,netherlands,ca
-6528,,De Zeeuw,netherlands,ca
-6529,,De Bitter,netherlands,ca
-6530,,Soemba ,netherlands,ca
-6531,,Lynx,netherlands,ca
-6532,,Sperwer,netherlands,ca
-6533,,Thor,netherlands,ca
-6534,,Schorpioen,netherlands,ca
-6535,,Stier,netherlands,ca
-6536,,Holland,netherlands,cl
-6537,,Rotterdam,netherlands,cl
-6538,,Alkmaar,netherlands,cl
-6539,,Noordzee,netherlands,cl
-6540,,Noorderhaaks,netherlands,cl
-6541,,Linge,netherlands,cl
-6542,,Breezand,netherlands,cl
-6543,,Pontianak,netherlands,cl
-6544,,Riouw,netherlands,cl
-6545,,Batavia ,netherlands,cl
-6546,,Samarang,netherlands,cl
-6547,,Makassar,netherlands,cl
-6548,,Haarlemmermeer,netherlands,cl
-6549,,Hector,netherlands,cl
-6550,,Soembing,netherlands,cl
-6551,,Soestdijk,netherlands,cl
-6552,,Vulkaan,netherlands,cl
-6553,,Van Amstel,netherlands,cl
-6554,,Van Ewijk,netherlands,cl
-6555,,Van Zijll,netherlands,cl
-6556,,De Zeeuw,netherlands,cl
-6557,,De Bitter,netherlands,cl
-6558,,Soemba ,netherlands,cl
-6559,,Lynx,netherlands,cl
-6560,,Sperwer,netherlands,cl
-6561,,Thor,netherlands,cl
-6562,,Schorpioen,netherlands,cl
-6563,,Stier,netherlands,cl
-6564,,N-%,netherlands,dd
-6565,,Z-%,netherlands,tb
+6466,,De Zeven Provinciën,netherlands,bb
+6467,,Admiraal Tjerk Hiddes De Vries,netherlands,bb
+6469,,Aemilia,netherlands,bb
+6469,,Batavier,netherlands,bb
+6470,,Beschermer,netherlands,bb
+6471,,Brederode,netherlands,bb
+6472,,Delft,netherlands,bb
+6473,,Eendracht,netherlands,bb
+6474,,Gelijkheid,netherlands,bb
+6475,,Gouden Leeuw,netherlands,bb
+6476,,Hercules,netherlands,bb
+6477,,Staaten Generaal,netherlands,bb
+6478,,Vrijheid,netherlands,bb
+6479,,Wassenaar,netherlands,bb
+6480,,Willem de Eerste,netherlands,bb
+6481,,Zwanenburg,netherlands,bb
+6482,,Oudshoorn,netherlands,bb
+6483,,Luipaard,netherlands,bb
+6484,,Nairana,netherlands,bb
+6485,,Karel Doorman,netherlands,bb
+6486,,De Zeven Provinciën,netherlands,bc
+6487,,Admiraal Tjerk Hiddes De Vries,netherlands,bc
+6488,,Aemilia,netherlands,bc
+6489,,Batavier,netherlands,bc
+6490,,Beschermer,netherlands,bc
+6491,,Brederode,netherlands,bc
+6492,,Delft,netherlands,bc
+6493,,Eendracht,netherlands,bc
+6494,,Gelijkheid,netherlands,bc
+6495,,Gouden Leeuw,netherlands,bc
+6496,,Hercules,netherlands,bc
+6497,,Staaten Generaal,netherlands,bc
+6498,,Vrijheid,netherlands,bc
+6499,,Wassenaar,netherlands,bc
+6500,,Willem de Eerste,netherlands,bc
+6501,,Zwanenburg,netherlands,bc
+6502,,Oudshoorn,netherlands,bc
+6503,,Luipaard,netherlands,bc
+6504,,Nairana,netherlands,bc
+6505,,Karel Doorman,netherlands,bc
+6506,,Holland,netherlands,ca
+6507,,Rotterdam,netherlands,ca
+6508,,Alkmaar,netherlands,ca
+6509,,Noordzee,netherlands,ca
+6510,,Noorderhaaks,netherlands,ca
+6511,,Linge,netherlands,ca
+6512,,Breezand,netherlands,ca
+6513,,Pontianak,netherlands,ca
+6514,,Riouw,netherlands,ca
+6515,,Batavia ,netherlands,ca
+6516,,Samarang,netherlands,ca
+6517,,Makassar,netherlands,ca
+6518,,Haarlemmermeer,netherlands,ca
+6519,,Hector,netherlands,ca
+6520,,Soembing,netherlands,ca
+6521,,Soestdijk,netherlands,ca
+6522,,Vulkaan,netherlands,ca
+6523,,Van Amstel,netherlands,ca
+6524,,Van Ewijk,netherlands,ca
+6525,,Van Zijll,netherlands,ca
+6526,,De Zeeuw,netherlands,ca
+6527,,De Bitter,netherlands,ca
+6528,,Soemba ,netherlands,ca
+6529,,Lynx,netherlands,ca
+6530,,Sperwer,netherlands,ca
+6531,,Thor,netherlands,ca
+6532,,Schorpioen,netherlands,ca
+6533,,Stier,netherlands,ca
+6534,,Holland,netherlands,cl
+6535,,Rotterdam,netherlands,cl
+6536,,Alkmaar,netherlands,cl
+6537,,Noordzee,netherlands,cl
+6538,,Noorderhaaks,netherlands,cl
+6539,,Linge,netherlands,cl
+6540,,Breezand,netherlands,cl
+6541,,Pontianak,netherlands,cl
+6542,,Riouw,netherlands,cl
+6543,,Batavia ,netherlands,cl
+6544,,Samarang,netherlands,cl
+6545,,Makassar,netherlands,cl
+6546,,Haarlemmermeer,netherlands,cl
+6547,,Hector,netherlands,cl
+6548,,Soembing,netherlands,cl
+6549,,Soestdijk,netherlands,cl
+6550,,Vulkaan,netherlands,cl
+6551,,Van Amstel,netherlands,cl
+6552,,Van Ewijk,netherlands,cl
+6553,,Van Zijll,netherlands,cl
+6554,,De Zeeuw,netherlands,cl
+6555,,De Bitter,netherlands,cl
+6556,,Soemba ,netherlands,cl
+6557,,Lynx,netherlands,cl
+6558,,Sperwer,netherlands,cl
+6559,,Thor,netherlands,cl
+6560,,Schorpioen,netherlands,cl
+6561,,Stier,netherlands,cl
+6562,,N-%,netherlands,dd
+6563,,Z-%,netherlands,tb
 ###,,,###
-6568,,Mahmudiye,ottoman,bb
-6569,,Abdül Kadir,ottoman,bb
-6570,,Turgut Reis,ottoman,bb
-6571,,Hayreddin Barbarossa,ottoman,bb
-6572,,Reşadiye,ottoman,bb
-6573,,Fatih Sultan Mehmed,ottoman,bb
-6574,,Sultan Osman-i Evvel,ottoman,bb
-6575,,Peyk-i Zafer,ottoman,bb
-6576,,Kosova,ottoman,bb
-6577,,Fethiye,ottoman,bb
-6578,,Şadiye,ottoman,bb
-6579,,Fâtih,ottoman,bb
-6580,,Fettâh,ottoman,bb
-6581,,Mesûdiye,ottoman,bb
-6582,,Mahmûdiye,ottoman,bb
-6583,,Hamidiye,ottoman,bb
-6584,,Peyk-i Şeref,ottoman,bb
-6585,,Burc-ı Zafer,ottoman,bb
-6586,,Osmaniye,ottoman,bb
-6587,,Aziziye,ottoman,bb
-6588,,Orhaniye,ottoman,bb
-6589,,Mahmudiye,ottoman,bc
-6590,,Abdül Kadir,ottoman,bc
-6591,,Turgut Reis,ottoman,bc
-6592,,Hayreddin Barbarossa,ottoman,bc
-6593,,Reşadiye,ottoman,bc
-6594,,Fatih Sultan Mehmed,ottoman,bc
-6595,,Sultan Osman-i Evvel,ottoman,bc
-6596,,Peyk-i Zafer,ottoman,bc
-6597,,Kosova,ottoman,bc
-6598,,Fethiye,ottoman,bc
-6599,,Şadiye,ottoman,bc
-6600,,Fâtih,ottoman,bc
-6601,,Fettâh,ottoman,bc
-6602,,Mesûdiye,ottoman,bc
-6603,,Mahmûdiye,ottoman,bc
-6604,,Hamidiye,ottoman,bc
-6605,,Peyk-i Şeref,ottoman,bc
-6606,,Burc-ı Zafer,ottoman,bc
-6607,,Osmaniye,ottoman,bc
-6608,,Aziziye,ottoman,bc
-6609,,Orhaniye,ottoman,bc
-6610,,Mecidiye,ottoman,ca
-6611,,Taif,ottoman,ca
-6612,,Saik-i Şadi,ottoman,ca
-6613,,Feyzâ-i Bahrî,ottoman,ca
-6614,,Muhbir-i Sürûr,ottoman,ca
-6615,,Kervan-i Bahri,ottoman,ca
-6616,,Ertuğrul,ottoman,ca
-6617,,Hüdâvendigâr,ottoman,ca
-6618,,Nâsr-ül Azîz,ottoman,ca
-6619,,Selimiye,ottoman,ca
-6620,,Peyk-i Meserret,ottoman,ca
-6621,,Peyk-i Nusret,ottoman,ca
-6622,,Mukaddeme-i Şeref,ottoman,ca
-6623,,Rehber-i Tevfik,ottoman,ca
-6624,,Mehmed Selîm,ottoman,ca
-6625,,Sinop,ottoman,ca
-6626,,İzmir,ottoman,ca
-6627,,Bursa,ottoman,ca
-6628,,Edirne,ottoman,ca
-6629,,Beyrût,ottoman,ca
-6630,,Sedd-ül Bahir,ottoman,ca
-6631,,İskenderiye,ottoman,ca
-6632,,Zuhâf,ottoman,ca
-6633,,Utarit,ottoman,ca
-6634,,Meriç,ottoman,ca
-6635,,Mansûre,ottoman,ca
-6636,,Lübnan,ottoman,ca
-6637,,Muzaffer,ottoman,ca
-6638,,Heybet Nümâ,ottoman,ca
-6639,,Zuhâf,ottoman,ca
-6640,,Kilid Bahir,ottoman,ca
-6641,,Bursa,ottoman,ca
-6642,,Edirne,ottoman,ca
-6643,,Mecidiye,ottoman,cl
-6644,,Taif,ottoman,cl
-6645,,Saik-i Şadi,ottoman,cl
-6646,,Feyzâ-i Bahrî,ottoman,cl
-6647,,Muhbir-i Sürûr,ottoman,cl
-6648,,Kervan-i Bahri,ottoman,cl
-6649,,Ertuğrul,ottoman,cl
-6650,,Hüdâvendigâr,ottoman,cl
-6651,,Nâsr-ül Azîz,ottoman,cl
-6652,,Selimiye,ottoman,cl
-6653,,Peyk-i Meserret,ottoman,cl
-6654,,Peyk-i Nusret,ottoman,cl
-6655,,Mukaddeme-i Şeref,ottoman,cl
-6656,,Rehber-i Tevfik,ottoman,cl
-6657,,Mehmed Selîm,ottoman,cl
-6658,,Sinop,ottoman,cl
-6659,,İzmir,ottoman,cl
-6660,,Bursa,ottoman,cl
-6661,,Edirne,ottoman,cl
-6662,,Beyrût,ottoman,cl
-6663,,Sedd-ül Bahir,ottoman,cl
-6664,,İskenderiye,ottoman,cl
-6665,,Zuhâf,ottoman,cl
-6666,,Utarit,ottoman,cl
-6667,,Meriç,ottoman,cl
-6668,,Mansûre,ottoman,cl
-6669,,Lübnan,ottoman,cl
-6670,,Muzaffer,ottoman,cl
-6671,,Heybet Nümâ,ottoman,cl
-6672,,Zuhâf,ottoman,cl
-6673,,Kilid Bahir,ottoman,cl
-6674,,Bursa,ottoman,cl
-6675,,Edirne,ottoman,cl
-6676,,Gayret-i Vataniye,ottoman,cl
-6677,,Muavenet-i Milliye,ottoman,cl
-6678,,Yarhisar ,ottoman,cl
-6679,,Samsun,ottoman,cl
-6680,,Taşoz,ottoman,cl
-6681,,Basra,ottoman,cl
-6682,,Muavenet-i Milliye,ottoman,cl
-6683,,Yadigar-i Millet,ottoman,cl
-6684,,Nümune-i Hamiyet,ottoman,cl
-6685,,Gayret-i Vataniye,ottoman,cl
-6686,,Burhâneddîn,ottoman,cl
-6687,,Tevfik,ottoman,cl
-6688,,Mecidiye,ottoman,cl
-6689,,Eser-i Terakki,ottoman,cl
-6690,,Nimet,ottoman,cl
-6691,,Şanaver,ottoman,cl
-6692,,Timsah,ottoman,cl
-6693,,Şemşir-i Hücûm,ottoman,cl
-6694,,Mahabbet,ottoman,cl
-6695,,Satvet,ottoman,cl
-6696,,Sâikı,ottoman,cl
-6697,,Tîr-i Zafer,ottoman,cl
-6698,,Seyf-i Bahrî,ottoman,cl
-6699,,$-%,ottoman,dd
-6700,,$-%,ottoman,tb
+6565,,Mahmudiye,ottoman,bb
+6566,,Abdül Kadir,ottoman,bb
+6567,,Turgut Reis,ottoman,bb
+6568,,Hayreddin Barbarossa,ottoman,bb
+6569,,Reşadiye,ottoman,bb
+6570,,Fatih Sultan Mehmed,ottoman,bb
+6571,,Sultan Osman-i Evvel,ottoman,bb
+6572,,Peyk-i Zafer,ottoman,bb
+6573,,Kosova,ottoman,bb
+6574,,Fethiye,ottoman,bb
+6575,,Şadiye,ottoman,bb
+6576,,Fâtih,ottoman,bb
+6577,,Fettâh,ottoman,bb
+6578,,Mesûdiye,ottoman,bb
+6579,,Mahmûdiye,ottoman,bb
+6580,,Hamidiye,ottoman,bb
+6581,,Peyk-i Şeref,ottoman,bb
+6582,,Burc-ı Zafer,ottoman,bb
+6583,,Osmaniye,ottoman,bb
+6584,,Aziziye,ottoman,bb
+6585,,Orhaniye,ottoman,bb
+6586,,Mahmudiye,ottoman,bc
+6587,,Abdül Kadir,ottoman,bc
+6588,,Turgut Reis,ottoman,bc
+6589,,Hayreddin Barbarossa,ottoman,bc
+6590,,Reşadiye,ottoman,bc
+6591,,Fatih Sultan Mehmed,ottoman,bc
+6592,,Sultan Osman-i Evvel,ottoman,bc
+6593,,Peyk-i Zafer,ottoman,bc
+6594,,Kosova,ottoman,bc
+6595,,Fethiye,ottoman,bc
+6596,,Şadiye,ottoman,bc
+6597,,Fâtih,ottoman,bc
+6598,,Fettâh,ottoman,bc
+6599,,Mesûdiye,ottoman,bc
+6600,,Mahmûdiye,ottoman,bc
+6601,,Hamidiye,ottoman,bc
+6602,,Peyk-i Şeref,ottoman,bc
+6603,,Burc-ı Zafer,ottoman,bc
+6604,,Osmaniye,ottoman,bc
+6605,,Aziziye,ottoman,bc
+6606,,Orhaniye,ottoman,bc
+6607,,Mecidiye,ottoman,ca
+6608,,Taif,ottoman,ca
+6609,,Saik-i Şadi,ottoman,ca
+6610,,Feyzâ-i Bahrî,ottoman,ca
+6611,,Muhbir-i Sürûr,ottoman,ca
+6612,,Kervan-i Bahri,ottoman,ca
+6613,,Ertuğrul,ottoman,ca
+6614,,Hüdâvendigâr,ottoman,ca
+6615,,Nâsr-ül Azîz,ottoman,ca
+6616,,Selimiye,ottoman,ca
+6617,,Peyk-i Meserret,ottoman,ca
+6618,,Peyk-i Nusret,ottoman,ca
+6619,,Mukaddeme-i Şeref,ottoman,ca
+6620,,Rehber-i Tevfik,ottoman,ca
+6621,,Mehmed Selîm,ottoman,ca
+6622,,Sinop,ottoman,ca
+6623,,İzmir,ottoman,ca
+6624,,Bursa,ottoman,ca
+6625,,Edirne,ottoman,ca
+6626,,Beyrût,ottoman,ca
+6627,,Sedd-ül Bahir,ottoman,ca
+6628,,İskenderiye,ottoman,ca
+6629,,Zuhâf,ottoman,ca
+6630,,Utarit,ottoman,ca
+6631,,Meriç,ottoman,ca
+6632,,Mansûre,ottoman,ca
+6633,,Lübnan,ottoman,ca
+6634,,Muzaffer,ottoman,ca
+6635,,Heybet Nümâ,ottoman,ca
+6636,,Zuhâf,ottoman,ca
+6637,,Kilid Bahir,ottoman,ca
+6638,,Bursa,ottoman,ca
+6639,,Edirne,ottoman,ca
+6640,,Mecidiye,ottoman,cl
+6641,,Taif,ottoman,cl
+6642,,Saik-i Şadi,ottoman,cl
+6643,,Feyzâ-i Bahrî,ottoman,cl
+6644,,Muhbir-i Sürûr,ottoman,cl
+6645,,Kervan-i Bahri,ottoman,cl
+6646,,Ertuğrul,ottoman,cl
+6647,,Hüdâvendigâr,ottoman,cl
+6648,,Nâsr-ül Azîz,ottoman,cl
+6649,,Selimiye,ottoman,cl
+6650,,Peyk-i Meserret,ottoman,cl
+6651,,Peyk-i Nusret,ottoman,cl
+6652,,Mukaddeme-i Şeref,ottoman,cl
+6653,,Rehber-i Tevfik,ottoman,cl
+6654,,Mehmed Selîm,ottoman,cl
+6655,,Sinop,ottoman,cl
+6656,,İzmir,ottoman,cl
+6657,,Bursa,ottoman,cl
+6658,,Edirne,ottoman,cl
+6659,,Beyrût,ottoman,cl
+6660,,Sedd-ül Bahir,ottoman,cl
+6661,,İskenderiye,ottoman,cl
+6662,,Zuhâf,ottoman,cl
+6663,,Utarit,ottoman,cl
+6664,,Meriç,ottoman,cl
+6665,,Mansûre,ottoman,cl
+6666,,Lübnan,ottoman,cl
+6667,,Muzaffer,ottoman,cl
+6668,,Heybet Nümâ,ottoman,cl
+6669,,Zuhâf,ottoman,cl
+6670,,Kilid Bahir,ottoman,cl
+6671,,Bursa,ottoman,cl
+6672,,Edirne,ottoman,cl
+6673,,Gayret-i Vataniye,ottoman,cl
+6674,,Muavenet-i Milliye,ottoman,cl
+6675,,Yarhisar ,ottoman,cl
+6676,,Samsun,ottoman,cl
+6677,,Taşoz,ottoman,cl
+6678,,Basra,ottoman,cl
+6679,,Muavenet-i Milliye,ottoman,cl
+6680,,Yadigar-i Millet,ottoman,cl
+6681,,Nümune-i Hamiyet,ottoman,cl
+6682,,Gayret-i Vataniye,ottoman,cl
+6683,,Burhâneddîn,ottoman,cl
+6684,,Tevfik,ottoman,cl
+6685,,Mecidiye,ottoman,cl
+6686,,Eser-i Terakki,ottoman,cl
+6687,,Nimet,ottoman,cl
+6688,,Şanaver,ottoman,cl
+6689,,Timsah,ottoman,cl
+6690,,Şemşir-i Hücûm,ottoman,cl
+6691,,Mahabbet,ottoman,cl
+6692,,Satvet,ottoman,cl
+6693,,Sâikı,ottoman,cl
+6694,,Tîr-i Zafer,ottoman,cl
+6695,,Seyf-i Bahrî,ottoman,cl
+6696,,$-%,ottoman,dd
+6697,,$-%,ottoman,tb
 ###,,,###
-6703,,Buenos Aires,argentina,bb
-6704,,Catamarca,argentina,bb
-6705,,Chaco,argentina,bb
-6706,,Chubut,argentina,bb
-6707,,Córdova,argentina,bb
-6708,,Corrientes,argentina,bb
-6709,,Entre Ríos,argentina,bb
-6710,,Formosa,argentina,bb
-6711,,Jujuy,argentina,bb
-6712,,La Pampa,argentina,bb
-6713,,La Rioja,argentina,bb
-6714,,Mendoza,argentina,bb
-6715,,Misiones,argentina,bb
-6716,,Neuquén,argentina,bb
-6717,,Río Negro,argentina,bb
-6718,,Salta,argentina,bb
-6719,,San Juan,argentina,bb
-6720,,San Luis,argentina,bb
-6721,,Santa Cruz,argentina,bb
-6722,,Santa Fé,argentina,bb
-6723,,Santiago del Estero,argentina,bb
-6724,,Tierra del Fuego,argentina,bb
-6725,,Tucumán,argentina,bb
-6726,,Mariano Moreno,argentina,bb
-6727,,Independencia,argentina,bb
-6728,,Rivadavia,argentina,bb
-6729,,Libertad,argentina,bb
-6730,,Rio de la Plata,argentina,bb
-6731,,Santísima Trinidad,argentina,bb
-6732,,Buenos Aires,argentina,bc
-6733,,Catamarca,argentina,bc
-6734,,Chaco,argentina,bc
-6735,,Chubut,argentina,bc
-6736,,Córdova,argentina,bc
-6737,,Corrientes,argentina,bc
-6738,,Entre Ríos,argentina,bc
-6739,,Formosa,argentina,bc
-6740,,Jujuy,argentina,bc
-6741,,La Pampa,argentina,bc
-6742,,La Rioja,argentina,bc
-6743,,Mendoza,argentina,bc
-6744,,Misiones,argentina,bc
-6745,,Neuquén,argentina,bc
-6746,,Río Negro,argentina,bc
-6747,,Salta,argentina,bc
-6748,,San Juan,argentina,bc
-6749,,San Luis,argentina,bc
-6750,,Santa Cruz,argentina,bc
-6751,,Santa Fé,argentina,bc
-6752,,Santiago del Estero,argentina,bc
-6753,,Tierra del Fuego,argentina,bc
-6754,,Tucumán,argentina,bc
-6755,,Mariano Moreno,argentina,bc
-6756,,Independencia,argentina,bc
-6757,,Rivadavia,argentina,bc
-6758,,Libertad,argentina,bc
-6759,,Rio de la Plata,argentina,bc
-6760,,Santísima Trinidad,argentina,bc
-6761,,General Brown,argentina,ca
-6762,,Almirante Brown,argentina,ca
-6763,,Veinticinco de Mayo,argentina,ca
-6764,,Almirante Storni,argentina,ca
-6765,,Azopardo,argentina,ca
-6766,,Independencia,argentina,ca
-6767,,Piedrabuena,argentina,ca
-6768,,Espora,argentina,ca
-6769,,Rosales,argentina,ca
-6770,,Spiro,argentina,ca
-6771,,Gómez Roca,argentina,ca
-6772,,Carlos Robinson,argentina,ca
-6773,,Enrique Guillermo Parker,argentina,ca
-6774,,Puerto Deseado,argentina,ca
-6775,,Buenos Aires,argentina,ca
-6776,,Rivadavia,argentina,ca
-6777,,Francis Drummond,argentina,ca
-6778,,General Belgrano,argentina,ca
-6779,,Guillermo Enrique Granville,argentina,ca
-6780,,Hércules,argentina,ca
-6781,,Heroína,argentina,ca
-6782,,Independencia,argentina,ca
-6783,,Libertad,argentina,ca
-6784,,La Argentina,argentina,ca
-6785,,Murature,argentina,ca
-6786,,Nueve de Julio,argentina,ca
-6787,,Paraná,argentina,ca
-6788,,Patagonia,argentina,ca
-6789,,República,argentina,ca
-6790,,Santiago del Estero,argentina,ca
-6791,,Santísima Trinidad,argentina,ca
-6792,,Sarandí,argentina,ca
-6793,,Segui,argentina,ca
-6794,,Spiro,argentina,ca
-6795,,Tucumán,argentina,ca
-6796,,General Brown,argentina,cl
-6797,,Almirante Brown,argentina,cl
-6798,,Veinticinco de Mayo,argentina,cl
-6799,,Almirante Storni,argentina,cl
-6800,,Azopardo,argentina,cl
-6801,,Independencia,argentina,cl
-6802,,Piedrabuena,argentina,cl
-6803,,Espora,argentina,cl
-6804,,Rosales,argentina,cl
-6805,,Spiro,argentina,cl
-6806,,Gómez Roca,argentina,cl
-6807,,Carlos Robinson,argentina,cl
-6808,,Enrique Guillermo Parker,argentina,cl
-6809,,Puerto Deseado,argentina,cl
-6810,,Buenos Aires,argentina,cl
-6811,,Rivadavia,argentina,cl
-6812,,Francis Drummond,argentina,cl
-6813,,General Belgrano,argentina,cl
-6814,,Guillermo Enrique Granville,argentina,cl
-6815,,Hércules,argentina,cl
-6816,,Heroína,argentina,cl
-6817,,Independencia,argentina,cl
-6818,,Libertad,argentina,cl
-6819,,La Argentina,argentina,cl
-6820,,Murature,argentina,cl
-6821,,Nueve de Julio,argentina,cl
-6822,,Paraná,argentina,cl
-6823,,Patagonia,argentina,cl
-6824,,República,argentina,cl
-6825,,Santiago del Estero,argentina,cl
-6826,,Santísima Trinidad,argentina,cl
-6827,,Sarandí,argentina,cl
-6828,,Segui,argentina,cl
-6829,,Spiro,argentina,cl
-6830,,Tucumán,argentina,cl
-6831,,$-%,argentina,dd
-6832,,$-%,argentina,tb
+6699,,Buenos Aires,argentina,bb
+6700,,Catamarca,argentina,bb
+6701,,Chaco,argentina,bb
+6702,,Chubut,argentina,bb
+6703,,Córdova,argentina,bb
+6704,,Corrientes,argentina,bb
+6705,,Entre Ríos,argentina,bb
+6706,,Formosa,argentina,bb
+6707,,Jujuy,argentina,bb
+6708,,La Pampa,argentina,bb
+6709,,La Rioja,argentina,bb
+6710,,Mendoza,argentina,bb
+6711,,Misiones,argentina,bb
+6712,,Neuquén,argentina,bb
+6713,,Río Negro,argentina,bb
+6714,,Salta,argentina,bb
+6715,,San Juan,argentina,bb
+6716,,San Luis,argentina,bb
+6717,,Santa Cruz,argentina,bb
+6718,,Santa Fé,argentina,bb
+6719,,Santiago del Estero,argentina,bb
+6720,,Tierra del Fuego,argentina,bb
+6721,,Tucumán,argentina,bb
+6722,,Mariano Moreno,argentina,bb
+6723,,Independencia,argentina,bb
+6724,,Rivadavia,argentina,bb
+6725,,Libertad,argentina,bb
+6726,,Rio de la Plata,argentina,bb
+6727,,Santísima Trinidad,argentina,bb
+6728,,Buenos Aires,argentina,bc
+6729,,Catamarca,argentina,bc
+6730,,Chaco,argentina,bc
+6731,,Chubut,argentina,bc
+6732,,Córdova,argentina,bc
+6733,,Corrientes,argentina,bc
+6734,,Entre Ríos,argentina,bc
+6735,,Formosa,argentina,bc
+6736,,Jujuy,argentina,bc
+6737,,La Pampa,argentina,bc
+6738,,La Rioja,argentina,bc
+6739,,Mendoza,argentina,bc
+6740,,Misiones,argentina,bc
+6741,,Neuquén,argentina,bc
+6742,,Río Negro,argentina,bc
+6743,,Salta,argentina,bc
+6744,,San Juan,argentina,bc
+6745,,San Luis,argentina,bc
+6746,,Santa Cruz,argentina,bc
+6747,,Santa Fé,argentina,bc
+6748,,Santiago del Estero,argentina,bc
+6749,,Tierra del Fuego,argentina,bc
+6750,,Tucumán,argentina,bc
+6751,,Mariano Moreno,argentina,bc
+6752,,Independencia,argentina,bc
+6753,,Rivadavia,argentina,bc
+6754,,Libertad,argentina,bc
+6755,,Rio de la Plata,argentina,bc
+6756,,Santísima Trinidad,argentina,bc
+6757,,General Brown,argentina,ca
+6758,,Almirante Brown,argentina,ca
+6759,,Veinticinco de Mayo,argentina,ca
+6760,,Almirante Storni,argentina,ca
+6761,,Azopardo,argentina,ca
+6762,,Independencia,argentina,ca
+6763,,Piedrabuena,argentina,ca
+6764,,Espora,argentina,ca
+6765,,Rosales,argentina,ca
+6766,,Spiro,argentina,ca
+6767,,Gómez Roca,argentina,ca
+6768,,Carlos Robinson,argentina,ca
+6769,,Enrique Guillermo Parker,argentina,ca
+6770,,Puerto Deseado,argentina,ca
+6771,,Buenos Aires,argentina,ca
+6772,,Rivadavia,argentina,ca
+6773,,Francis Drummond,argentina,ca
+6774,,General Belgrano,argentina,ca
+6775,,Guillermo Enrique Granville,argentina,ca
+6776,,Hércules,argentina,ca
+6777,,Heroína,argentina,ca
+6778,,Independencia,argentina,ca
+6779,,Libertad,argentina,ca
+6780,,La Argentina,argentina,ca
+6781,,Murature,argentina,ca
+6782,,Nueve de Julio,argentina,ca
+6783,,Paraná,argentina,ca
+6784,,Patagonia,argentina,ca
+6785,,República,argentina,ca
+6786,,Santiago del Estero,argentina,ca
+6787,,Santísima Trinidad,argentina,ca
+6788,,Sarandí,argentina,ca
+6789,,Segui,argentina,ca
+6790,,Spiro,argentina,ca
+6791,,Tucumán,argentina,ca
+6792,,General Brown,argentina,cl
+6793,,Almirante Brown,argentina,cl
+6794,,Veinticinco de Mayo,argentina,cl
+6795,,Almirante Storni,argentina,cl
+6796,,Azopardo,argentina,cl
+6797,,Independencia,argentina,cl
+6798,,Piedrabuena,argentina,cl
+6799,,Espora,argentina,cl
+6800,,Rosales,argentina,cl
+6801,,Spiro,argentina,cl
+6802,,Gómez Roca,argentina,cl
+6803,,Carlos Robinson,argentina,cl
+6804,,Enrique Guillermo Parker,argentina,cl
+6805,,Puerto Deseado,argentina,cl
+6806,,Buenos Aires,argentina,cl
+6807,,Rivadavia,argentina,cl
+6808,,Francis Drummond,argentina,cl
+6809,,General Belgrano,argentina,cl
+6810,,Guillermo Enrique Granville,argentina,cl
+6811,,Hércules,argentina,cl
+6812,,Heroína,argentina,cl
+6813,,Independencia,argentina,cl
+6814,,Libertad,argentina,cl
+6815,,La Argentina,argentina,cl
+6816,,Murature,argentina,cl
+6817,,Nueve de Julio,argentina,cl
+6818,,Paraná,argentina,cl
+6819,,Patagonia,argentina,cl
+6820,,República,argentina,cl
+6821,,Santiago del Estero,argentina,cl
+6822,,Santísima Trinidad,argentina,cl
+6823,,Sarandí,argentina,cl
+6824,,Segui,argentina,cl
+6825,,Spiro,argentina,cl
+6826,,Tucumán,argentina,cl
+6827,,$-%,argentina,dd
+6828,,$-%,argentina,tb
 ###,,,###
-6835,,Arica,chile,bb
-6836,,Tarapacá,chile,bb
-6837,,Antofagasta,chile,bb
-6838,,Atacama,chile,bb
-6839,,Coquimbo,chile,bb
-6840,,La Serena,chile,bb
-6841,,Santiago,chile,bb
-6842,,Concepción,chile,bb
-6843,,Los Ríos,chile,bb
-6844,,Valdivia,chile,bb
-6845,,Los Lagos,chile,bb
-6846,,Punta Arenas,chile,bb
-6847,,Arica,chile,bc
-6848,,Tarapacá,chile,bc
-6849,,Antofagasta,chile,bc
-6850,,Atacama,chile,bc
-6851,,Coquimbo,chile,bc
-6852,,La Serena,chile,bc
-6853,,Santiago,chile,bc
-6854,,Concepción,chile,bc
-6855,,Los Ríos,chile,bc
-6856,,Valdivia,chile,bc
-6857,,Los Lagos,chile,bc
-6858,,Punta Arenas,chile,bc
-6859,,Almirante Latorre,chile,ca
-6860,,Blanco Encalada,chile,ca
-6861,,Valparaiso,chile,ca
-6862,,Capitán Prat,chile,ca
-6863,,Chacabuco,chile,ca
-6864,,Cochrane,chile,ca
-6865,,Colo Colo,chile,ca
-6866,,Janequeo,chile,ca
-6867,,Lautaro,chile,ca
-6868,,O'Higgins,chile,ca
-6869,,Valdivia,chile,ca
-6870,,Esmeralda,chile,ca
-6871,,Almirante Riveros,chile,ca
-6872,,Aquiles,chile,ca
-6873,,Esmeralda,chile,ca
-6874,,Almirante Riveros,chile,ca
+6830,,Arica,chile,bb
+6831,,Tarapacá,chile,bb
+6832,,Antofagasta,chile,bb
+6833,,Atacama,chile,bb
+6834,,Coquimbo,chile,bb
+6835,,La Serena,chile,bb
+6836,,Santiago,chile,bb
+6837,,Concepción,chile,bb
+6838,,Los Ríos,chile,bb
+6839,,Valdivia,chile,bb
+6840,,Los Lagos,chile,bb
+6841,,Punta Arenas,chile,bb
+6842,,Arica,chile,bc
+6843,,Tarapacá,chile,bc
+6844,,Antofagasta,chile,bc
+6845,,Atacama,chile,bc
+6846,,Coquimbo,chile,bc
+6847,,La Serena,chile,bc
+6848,,Santiago,chile,bc
+6849,,Concepción,chile,bc
+6850,,Los Ríos,chile,bc
+6851,,Valdivia,chile,bc
+6852,,Los Lagos,chile,bc
+6853,,Punta Arenas,chile,bc
+6854,,Almirante Latorre,chile,ca
+6855,,Blanco Encalada,chile,ca
+6856,,Valparaiso,chile,ca
+6857,,Capitán Prat,chile,ca
+6858,,Chacabuco,chile,ca
+6859,,Cochrane,chile,ca
+6860,,Colo Colo,chile,ca
+6861,,Janequeo,chile,ca
+6862,,Lautaro,chile,ca
+6863,,O'Higgins,chile,ca
+6864,,Valdivia,chile,ca
+6865,,Esmeralda,chile,ca
+6866,,Almirante Riveros,chile,ca
+6867,,Aquiles,chile,ca
+6868,,Esmeralda,chile,ca
+6869,,Almirante Riveros,chile,ca
+6870,,Aquiles,chile,ca
+6871,,Almirante Condell,chile,ca
+6872,,Almirante Lynch,chile,ca
+6873,,Almirante Simpson,chile,ca
+6874,,Almirante Williams,chile,ca
 6875,,Aquiles,chile,ca
-6876,,Almirante Condell,chile,ca
-6877,,Almirante Lynch,chile,ca
-6878,,Almirante Simpson,chile,ca
-6879,,Almirante Williams,chile,ca
-6880,,Aquiles,chile,ca
-6881,,$-%,chile,cl
-6882,,$-%,chile,dd
-6883,,$-%,chile,tb
+6876,,$-%,chile,cl
+6877,,$-%,chile,dd
+6878,,$-%,chile,tb
 ###,,,###
-6886,,Adrias,greece,bb
-6887,,Aetos,greece,bb
-6888,,Aigaion,greece,bb
-6889,,Aliakmon,greece,bb
-6890,,Apostolis,greece,bb
-6891,,Aspis,greece,bb
-6892,,Chios,greece,bb
-6893,,Doxa,greece,bb
-6894,,Elli,greece,bb
-6895,,Hydra,greece,bb
-6896,,Ierax,greece,bb
-6897,,Kanaris,greece,bb
-6898,,Katsonis,greece,bb
-6899,,Kimon,greece,bb
-6900,,Kos,greece,bb
-6901,,Kountouriotis,greece,bb
-6902,,Kriezis,greece,bb
-6903,,Kriti,greece,bb
-6904,,Lemnos,greece,bb
-6905,,Leon,greece,bb
-6906,,Lonchi,greece,bb
-6907,,Lesvos,greece,bb
-6908,,Miaoulis,greece,bb
-6909,,Nafkratousa,greece,bb
-6910,,Navarinon,greece,bb
-6911,,Nearchos,greece,bb
-6912,,Niki,greece,bb
-6913,,Panthir,greece,bb
-6914,,Papanikolis,greece,bb
-6915,,Pineios,greece,bb
-6916,,Poseidon,greece,bb
-6917,,Psara,greece,bb
-6918,,Rodos,greece,bb
-6919,,Sachtouris,greece,bb
-6920,,Salamis,greece,bb
-6921,,Samos,greece,bb
-6922,,Sfendoni,greece,bb
-6923,,Spetsai,greece,bb
-6924,,Themistoklis,greece,bb
-6925,,Thyella,greece,bb
-6926,,Tombazis,greece,bb
-6927,,Vasilefs Georgios,greece,bb
-6928,,Vasilissa Olga,greece,bb
-6929,,Velos,greece,bb
-6930,,Xifias,greece,bb
-6931,,$-%,greece,bc
-6932,,$-%,greece,ca
-6933,,$-%,greece,cl
-6934,,$-%,greece,dd
-6935,,$-%,greece,tb
+6880,,Adrias,greece,bb
+6881,,Aetos,greece,bb
+6882,,Aigaion,greece,bb
+6883,,Aliakmon,greece,bb
+6884,,Apostolis,greece,bb
+6885,,Aspis,greece,bb
+6886,,Chios,greece,bb
+6887,,Doxa,greece,bb
+6888,,Elli,greece,bb
+6889,,Hydra,greece,bb
+6890,,Ierax,greece,bb
+6891,,Kanaris,greece,bb
+6892,,Katsonis,greece,bb
+6893,,Kimon,greece,bb
+6894,,Kos,greece,bb
+6895,,Kountouriotis,greece,bb
+6896,,Kriezis,greece,bb
+6897,,Kriti,greece,bb
+6898,,Lemnos,greece,bb
+6899,,Leon,greece,bb
+6900,,Lonchi,greece,bb
+6901,,Lesvos,greece,bb
+6902,,Miaoulis,greece,bb
+6903,,Nafkratousa,greece,bb
+6904,,Navarinon,greece,bb
+6905,,Nearchos,greece,bb
+6906,,Niki,greece,bb
+6907,,Panthir,greece,bb
+6908,,Papanikolis,greece,bb
+6909,,Pineios,greece,bb
+6910,,Poseidon,greece,bb
+6911,,Psara,greece,bb
+6912,,Rodos,greece,bb
+6913,,Sachtouris,greece,bb
+6914,,Salamis,greece,bb
+6915,,Samos,greece,bb
+6916,,Sfendoni,greece,bb
+6917,,Spetsai,greece,bb
+6918,,Themistoklis,greece,bb
+6919,,Thyella,greece,bb
+6920,,Tombazis,greece,bb
+6921,,Vasilefs Georgios,greece,bb
+6922,,Vasilissa Olga,greece,bb
+6923,,Velos,greece,bb
+6924,,Xifias,greece,bb
+6925,,$-%,greece,bc
+6926,,$-%,greece,ca
+6927,,$-%,greece,cl
+6928,,$-%,greece,dd
+6929,,$-%,greece,tb
 ###,,,###
-6938,,Seoul,korea,bb
-6939,,Incheon,korea,bb
-6940,,Busan,korea,bb
-6941,,Pyongyang,korea,bb
-6942,,Daegu,korea,bb
-6943,,Daejeon,korea,bb
-6944,,Gwangju,korea,bb
-6945,,Jeju,korea,bb
-6946,,Gangneung,korea,bb
-6947,,Gyeongju,korea,bb
-6948,,Ulsan,korea,bb
-6949,,Sokcho,korea,bb
-6950,,Seoul,korea,bc
-6951,,Incheon,korea,bc
-6952,,Busan,korea,bc
-6953,,Pyongyang,korea,bc
-6954,,Daegu,korea,bc
-6955,,Daejeon,korea,bc
-6956,,Gwangju,korea,bc
-6957,,Jeju,korea,bc
-6958,,Gangneung,korea,bc
-6959,,Gyeongju,korea,bc
-6960,,Ulsan,korea,bc
-6961,,Sokcho,korea,bc
-6962,,Yi Sun-sin,korea,ca
-6963,,King Sejong,korea,ca
-6964,,Heungseon Daewongun,korea,ca
-6965,,Kim Jong-seo,korea,ca
-6966,,Gangwon,korea,ca
-6967,,Jeolla,korea,ca
-6968,,Hamhung,korea,ca
-6969,,Chuncheon,korea,ca
-6970,,Hwaseong,korea,ca
-6971,,Hanyang,korea,ca
-6972,,Haeju,korea,ca
-6973,,Jinju,korea,ca
-6974,,Nampo,korea,ca
-6975,,Nampo,korea,cl
-6976,,Samcheok,korea,cl
-6977,,Yeosu,korea,cl
-6978,,Pohang,korea,cl
-6979,,Tongyeong,korea,cl
-6980,,Gunsan,korea,cl
-6981,,Mokpo,korea,cl
-6982,,Sacheon,korea,cl
-6983,,Uijeongbu,korea,cl
-6984,,Gimcheon,korea,cl
-6985,,Gimhae,korea,cl
-6986,,Yangyang,korea,cl
-6987,,Uljin,korea,dd
-6988,,Cheonan,korea,dd
-6989,,Paju,korea,dd
-6990,,Boryeong,korea,dd
-6991,,Chungju,korea,dd
-6992,,Iksan,korea,dd
-6993,,Buan,korea,dd
-6994,,Andong,korea,dd
-6995,,Miryang,korea,dd
-6996,,Donghae,korea,dd
+6931,,Seoul,korea,bb
+6932,,Incheon,korea,bb
+6933,,Busan,korea,bb
+6934,,Pyongyang,korea,bb
+6935,,Daegu,korea,bb
+6936,,Daejeon,korea,bb
+6937,,Gwangju,korea,bb
+6938,,Jeju,korea,bb
+6939,,Gangneung,korea,bb
+6940,,Gyeongju,korea,bb
+6941,,Ulsan,korea,bb
+6942,,Sokcho,korea,bb
+6943,,Seoul,korea,bc
+6944,,Incheon,korea,bc
+6945,,Busan,korea,bc
+6946,,Pyongyang,korea,bc
+6947,,Daegu,korea,bc
+6948,,Daejeon,korea,bc
+6949,,Gwangju,korea,bc
+6950,,Jeju,korea,bc
+6951,,Gangneung,korea,bc
+6952,,Gyeongju,korea,bc
+6953,,Ulsan,korea,bc
+6954,,Sokcho,korea,bc
+6955,,Yi Sun-sin,korea,ca
+6956,,King Sejong,korea,ca
+6957,,Heungseon Daewongun,korea,ca
+6958,,Kim Jong-seo,korea,ca
+6959,,Gangwon,korea,ca
+6960,,Jeolla,korea,ca
+6961,,Hamhung,korea,ca
+6962,,Chuncheon,korea,ca
+6963,,Hwaseong,korea,ca
+6964,,Hanyang,korea,ca
+6965,,Haeju,korea,ca
+6966,,Jinju,korea,ca
+6967,,Nampo,korea,ca
+6968,,Nampo,korea,cl
+6969,,Samcheok,korea,cl
+6970,,Yeosu,korea,cl
+6971,,Pohang,korea,cl
+6972,,Tongyeong,korea,cl
+6973,,Gunsan,korea,cl
+6974,,Mokpo,korea,cl
+6975,,Sacheon,korea,cl
+6976,,Uijeongbu,korea,cl
+6977,,Gimcheon,korea,cl
+6978,,Gimhae,korea,cl
+6979,,Yangyang,korea,cl
+6980,,Uljin,korea,dd
+6981,,Cheonan,korea,dd
+6982,,Paju,korea,dd
+6983,,Boryeong,korea,dd
+6984,,Chungju,korea,dd
+6985,,Iksan,korea,dd
+6986,,Buan,korea,dd
+6987,,Andong,korea,dd
+6988,,Miryang,korea,dd
+6989,,Donghae,korea,dd
 ###,,,###
-6999,,Svea,sweden,bb
-7000,,Valdemar,sweden,bb
-7001,,Thor,sweden,bb
-7002,,Erik Segersäll,sweden,bb
-7003,,Margrete,sweden,bb
-7004,,Gustav Vasa,sweden,bb
-7005,,Sten Sture,sweden,bb
-7006,,Odin,sweden,bb
-7007,,Daneborg,sweden,bb
-7008,,Harald Fairhair,sweden,bb
-7009,,Sigurd,sweden,bb
-7010,,Magnus Barefoot,sweden,bb
-7011,,Ragnhild,sweden,bb
-7012,,Knut the Great,sweden,bb
-7013,,Astrid,sweden,bb
-7014,,Ingrid,sweden,bb
-7015,,Håkon the Good,sweden,bb
-7016,,Gudrun,sweden,bb
-7017,,Tyr,sweden,bb
-7018,,Njord,sweden,bb
-7019,,Hel,sweden,bb
-7020,,Svea,sweden,bc
-7021,,Valdemar,sweden,bc
-7022,,Thor,sweden,bc
-7023,,Erik Segersäll,sweden,bc
-7024,,Margrete,sweden,bc
-7025,,Gustav Vasa,sweden,bc
-7026,,Sten Sture,sweden,bc
-7027,,Odin,sweden,bc
-7028,,Daneborg,sweden,bc
-7029,,Harald Fairhair,sweden,bc
-7030,,Sigurd,sweden,bc
-7031,,Magnus Barefoot,sweden,bc
-7032,,Ragnhild,sweden,bc
-7033,,Knut the Great,sweden,bc
-7034,,Astrid,sweden,bc
-7035,,Ingrid,sweden,bc
-7036,,Håkon the Good,sweden,bc
-7037,,Gudrun,sweden,bc
-7038,,Tyr,sweden,bc
-7039,,Njord,sweden,bc
-7040,,Hel,sweden,bc
-7041,,Jormungand,sweden,ca
-7042,,Skadi,sweden,ca
-7043,,Hervor,sweden,ca
-7044,,Frigg,sweden,ca
-7045,,Brynhild,sweden,ca
-7046,,Geirskogul,sweden,ca
-7047,,Surt,sweden,ca
-7048,,Loki,sweden,ca
-7049,,Freya,sweden,ca
-7050,,Eir,sweden,ca
-7051,,Alfheim,sweden,ca
-7052,,Valhalla,sweden,ca
-7053,,Baldur,sweden,ca
-7054,,Mimir,sweden,ca
-7055,,Yggdrasil,sweden,ca
-7056,,Mjolnir,sweden,ca
-7057,,Frey,sweden,ca
-7058,,Midgard,sweden,ca
-7059,,Skirnir,sweden,ca
-7060,,Huginn,sweden,ca
-7061,,Muninn,sweden,ca
-7062,,Valkyrie,sweden,ca
-7063,,Garm,sweden,ca
-7064,,Berserker,sweden,ca
-7065,,Hrym,sweden,ca
-7066,,Fenrir,sweden,ca
-7067,,Thrud,sweden,ca
-7068,,Sif,sweden,ca
-7069,,Einherjar,sweden,ca
-7070,,Vidar,sweden,ca
-7071,,Ullr,sweden,ca
-7072,,Heimdall,sweden,ca
-7073,,Aegir,sweden,ca
-7074,,Ran,sweden,cl
-7075,,Ymer,sweden,cl
-7076,,Embla,sweden,cl
-7077,,Hod,sweden,cl
-7078,,Forseti,sweden,cl
-7079,,Snotra,sweden,cl
-7080,,Dag,sweden,cl
-7081,,Dis,sweden,cl
-7082,,Elli,sweden,cl
-7083,,Sif,sweden,cl
-7084,,Modi,sweden,cl
-7085,,Delling,sweden,cl
-7086,,Jord,sweden,cl
-7087,,Forseti,sweden,cl
-7088,,Vili,sweden,cl
-7089,,Ve,sweden,cl
-7090,,Embla,sweden,cl
-7091,,Ymer,sweden,cl
-7092,,Sol,sweden,cl
-7093,,Mani,sweden,cl
-7094,,Hati,sweden,cl
-7095,,Skoll,sweden,cl
-7096,,Tanngrisnir,sweden,cl
-7097,,Tanngnjostr,sweden,cl
-7098,,Ragnar,sweden,cl
-7099,,Sigurd,sweden,cl
-7100,,Leif,sweden,cl
-7101,,Erik,sweden,cl
-7102,,Kari,sweden,cl
-7103,,Vidblain,sweden,cl
-7104,,Gjallarhorn,sweden,cl
-7105,,Nott,sweden,cl
-7106,,Andvari,sweden,cl
-7107,,Hrungnir,sweden,cl
-7108,,Egil,sweden,cl
-7109,,Svein,sweden,cl
-7110,,Bork,sweden,cl
-7111,,Gunnar,sweden,cl
-7112,,Freydis,sweden,cl
-7113,,Sigurd Ring,sweden,cl
-7114,,Bjorn,sweden,cl
-7115,,Halfdan,sweden,cl
-7116,,Skule,sweden,cl
-7117,,Gisli,sweden,cl
-7118,,Helga,sweden,cl
-7119,,Starkad,sweden,cl
-7120,,Alv,sweden,cl
-7121,,Vegeir,sweden,cl
-7122,,Jofur,sweden,cl
-7123,,Ketil,sweden,cl
-7124,,Torstein,sweden,cl
-7125,,Ulf,sweden,cl
-7126,,Ivar,sweden,cl
-7127,,Orm,sweden,cl
-7128,,Bragi,sweden,cl
-7129,,Thorkell,sweden,cl
-7130,,Viking,sweden,dd
-7131,,Raider,sweden,tb
+6991,,Karl XIV Johan,sweden,bb
+6992,,Stockholm,sweden,bb
+6993,,Thordön,sweden,bb
+6994,,Tirfing,sweden,bb
+6995,,Loke,sweden,bb
+6996,,Garmer,sweden,bb
+6997,,Sköld,sweden,bb
+6998,,Fenris,sweden,bb
+6999,,Hildur,sweden,bb
+7000,,Gerda,sweden,bb
+7001,,Ulf,sweden,bb
+7002,,Berserk,sweden,bb
+7003,,Björn,sweden,bb
+7004,,Sölve,sweden,bb
+7005,,Folke,sweden,bb
+7006,,Gotland,sweden,bc
+7007,,Halland,sweden,bc
+7008,,Uppland,sweden,bc
+7009,,Östergötland,sweden,bc
+7010,,Västergötland,sweden,bc
+7011,,Södermanland,sweden,bc
+7012,,Hälsingland,sweden,bc
+7013,,Najad,sweden,bc
+7014,,Neptun,sweden,bc
+7015,,Näcken,sweden,bc
+7016,,Sjöormen,sweden,bc
+7017,,Sjölejonet,sweden,bc
+7018,,Sjöhunden,sweden,bc
+7019,,Sjöbjörnen,sweden,bc
+7020,,Sjöhästen,sweden,bc
+7021,,Delfinen,sweden,bc
+7022,,Draken,sweden,bc
+7023,,Gripen,sweden,bc
+7024,,Nordkaparen,sweden,bc
+7025,,Springaren,sweden,bc
+7026,,Vargen,sweden,bc
+7027,,Hajen,sweden,bc
+7028,,Illern,sweden,bc
+7029,,Uttern,sweden,bc
+7030,,Valen,sweden,bc
+7031,,Bävern,sweden,bc
+7032,,Sälen,sweden,bc
+7033,,Svea,sweden,ca
+7034,,Göta,sweden,ca
+7035,,Thule,sweden,ca
+7036,,Oden,sweden,ca
+7037,,Thor,sweden,ca
+7038,,Niord,sweden,ca
+7039,,Dristigheten,sweden,ca
+7040,,Äran,sweden,ca
+7041,,Wasa,sweden,ca
+7042,,Tapperheten,sweden,ca
+7043,,Manligheten,sweden,ca
+7044,,Oscar II,sweden,ca
+7045,,Sverige,sweden,ca
+7046,,Drottning Victoria,sweden,ca
+7047,,Gustav V,sweden,ca
+7048,,Örnen,sweden,ca
+7049,,Claes Horn,sweden,ca
+7050,,Jacob Bagge,sweden,ca
+7051,,Psilander,sweden,ca
+7052,,Claes Uggla,sweden,ca
+7053,,Tre Kronor,sweden,ca
+7054,,Göta Lejon,sweden,ca
+7055,,Fylgia,sweden,ca
+7056,,Clas Fleming,sweden,ca
+7057,,Gotland,sweden,ca
+7058,,Visby,sweden,cl
+7059,,Helsingborg,sweden,cl
+7060,,Härnösand,sweden,cl
+7061,,Nyköping,sweden,cl
+7062,,Karlstad,sweden,cl
+7063,,Göteborg,sweden,cl
+7064,,Gävle,sweden,cl
+7065,,Kalmar,sweden,cl
+7066,,Sundsvall,sweden,cl
+7067,,Malmö,sweden,cl
+7068,,Jarramas,sweden,cl
+7069,,Najaden,sweden,cl
+7070,,Carlskrona,sweden,cl
+7071,,Lagerbielke,sweden,cl
+7072,,Svalan,sweden,cl
+7073,,Freja,sweden,cl
+7074,,Gefle,sweden,cl
+7075,,Orädd,sweden,cl
+7076,,Balder,sweden,cl
+7077,,Saga,sweden,cl
+7078,,Valkyrian,sweden,cl
+7079,,Ehrensköld,sweden,dd
+7080,,Nordenskjöld,sweden,dd
+7081,,Psilander,sweden,dd
+7082,,Puke,sweden,dd
+7083,,Klas Horn,sweden,dd
+7084,,Klas Uggla,sweden,dd
+7085,,Romulus,sweden,dd
+7086,,Remus,sweden,dd
+7087,,Småland,sweden,dd
+7088,,Öland,sweden,dd
+7089,,Norrköping,sweden,dd
+7090,,Wrangel,sweden,dd
+7091,,Wachtmeister,sweden,dd
+7092,,Mode,sweden,dd
+7093,,Magne,sweden,dd
+7094,,Munin,sweden,dd
+7095,,Mjölner,sweden,dd
+7096,,Wale,sweden,dd
+7097,,Vidar,sweden,dd
+7098,,Ragnar,sweden,dd
+7099,,Sigurd,sweden,dd
+7100,,Hugin,sweden,dd
+7101,,Munin,sweden,dd
+7102,,Vanadis,sweden,dd
+7103,,Landsort,sweden,dd
+7104,,Arholma,sweden,dd
+7105,,Koster,sweden,dd
+7106,,Kullen,sweden,dd
+7107,,Vinga,sweden,dd
+7108,,Ven,sweden,dd
+7109,,Ulvön,sweden,dd
+7110,,Styrsö,sweden,dd
+7111,,Spårö,sweden,dd
+7112,,Skaftö,sweden,dd
+7113,,Sturkö,sweden,dd
+7114,,Koster,sweden,dd
+7115,,Kullen,sweden,dd
+7116,,Vinga,sweden,dd
+7117,,Ulvön,sweden,dd
+7118,,Ivar,sweden,dd
+7119,,Orm,sweden,dd
+7120,,Bragi,sweden,dd
+7121,,Thorkell,sweden,dd
+7122,,Viking,sweden,dd
+7123,,D-%,sweden,dd
+7124,,T-%,sweden,tb
 ###,,,###
-7134,,Svea,norway,bb
-7135,,Valdemar,norway,bb
-7136,,Thor,norway,bb
-7137,,Erik Segersäll,norway,bb
-7138,,Margrete,norway,bb
-7139,,Gustav Vasa,norway,bb
-7140,,Sten Sture,norway,bb
-7141,,Odin,norway,bb
-7142,,Daneborg,norway,bb
-7143,,Harald Fairhair,norway,bb
-7144,,Sigurd,norway,bb
-7145,,Magnus Barefoot,norway,bb
-7146,,Ragnhild,norway,bb
-7147,,Knut the Great,norway,bb
-7148,,Astrid,norway,bb
-7149,,Ingrid,norway,bb
-7150,,Håkon the Good,norway,bb
-7151,,Gudrun,norway,bb
-7152,,Tyr,norway,bb
-7153,,Njord,norway,bb
-7154,,Hel,norway,bb
-7155,,Svea,norway,bc
-7156,,Valdemar,norway,bc
-7157,,Thor,norway,bc
-7158,,Erik Segersäll,norway,bc
-7159,,Margrete,norway,bc
-7160,,Gustav Vasa,norway,bc
-7161,,Sten Sture,norway,bc
-7162,,Odin,norway,bc
-7163,,Daneborg,norway,bc
-7164,,Harald Fairhair,norway,bc
-7165,,Sigurd,norway,bc
-7166,,Magnus Barefoot,norway,bc
-7167,,Ragnhild,norway,bc
-7168,,Knut the Great,norway,bc
-7169,,Astrid,norway,bc
-7170,,Ingrid,norway,bc
-7171,,Håkon the Good,norway,bc
-7172,,Gudrun,norway,bc
-7173,,Tyr,norway,bc
-7174,,Njord,norway,bc
-7175,,Hel,norway,bc
-7176,,Jormungand,norway,ca
-7177,,Skadi,norway,ca
-7178,,Hervor,norway,ca
-7179,,Frigg,norway,ca
-7180,,Brynhild,norway,ca
-7181,,Geirskogul,norway,ca
-7182,,Surt,norway,ca
-7183,,Loki,norway,ca
-7184,,Freya,norway,ca
-7185,,Eir,norway,ca
-7186,,Alfheim,norway,ca
-7187,,Valhalla,norway,ca
-7188,,Baldur,norway,ca
-7189,,Mimir,norway,ca
-7190,,Yggdrasil,norway,ca
-7191,,Mjolnir,norway,ca
-7192,,Frey,norway,ca
-7193,,Midgard,norway,ca
-7194,,Skirnir,norway,ca
-7195,,Huginn,norway,ca
-7196,,Muninn,norway,ca
-7197,,Valkyrie,norway,ca
-7198,,Garm,norway,ca
-7199,,Berserker,norway,ca
-7200,,Hrym,norway,ca
-7201,,Fenrir,norway,ca
-7202,,Thrud,norway,ca
-7203,,Sif,norway,ca
-7204,,Einherjar,norway,ca
-7205,,Vidar,norway,ca
-7206,,Ullr,norway,ca
-7207,,Heimdall,norway,ca
-7208,,Aegir,norway,ca
-7209,,Ran,norway,cl
-7210,,Ymer,norway,cl
-7211,,Embla,norway,cl
-7212,,Hod,norway,cl
-7213,,Forseti,norway,cl
-7214,,Snotra,norway,cl
-7215,,Dag,norway,cl
-7216,,Dis,norway,cl
-7217,,Elli,norway,cl
-7218,,Sif,norway,cl
-7219,,Modi,norway,cl
-7220,,Delling,norway,cl
-7221,,Jord,norway,cl
-7222,,Forseti,norway,cl
-7223,,Vili,norway,cl
-7224,,Ve,norway,cl
-7225,,Embla,norway,cl
-7226,,Ymer,norway,cl
-7227,,Sol,norway,cl
-7228,,Mani,norway,cl
-7229,,Hati,norway,cl
-7230,,Skoll,norway,cl
-7231,,Tanngrisnir,norway,cl
-7232,,Tanngnjostr,norway,cl
-7233,,Ragnar,norway,cl
-7234,,Sigurd,norway,cl
-7235,,Leif,norway,cl
-7236,,Erik,norway,cl
-7237,,Kari,norway,cl
-7238,,Vidblain,norway,cl
-7239,,Gjallarhorn,norway,cl
-7240,,Nott,norway,cl
-7241,,Andvari,norway,cl
-7242,,Hrungnir,norway,cl
-7243,,Egil,norway,cl
-7244,,Svein,norway,cl
-7245,,Bork,norway,cl
-7246,,Gunnar,norway,cl
-7247,,Freydis,norway,cl
-7248,,Sigurd Ring,norway,cl
-7249,,Bjorn,norway,cl
-7250,,Halfdan,norway,cl
-7251,,Skule,norway,cl
-7252,,Gisli,norway,cl
-7253,,Helga,norway,cl
-7254,,Starkad,norway,cl
-7255,,Alv,norway,cl
-7256,,Vegeir,norway,cl
-7257,,Jofur,norway,cl
-7258,,Ketil,norway,cl
-7259,,Torstein,norway,cl
-7260,,Ulf,norway,cl
-7261,,Ivar,norway,cl
-7262,,Orm,norway,cl
-7263,,Bragi,norway,cl
-7264,,Thorkell,norway,cl
-7265,,Viking,norway,dd
-7266,,Raider,norway,tb
+7126,,Ula,norway,bb
+7127,,Utsira,norway,bb
+7128,,Utstein,norway,bb
+7129,,Utvaer,norway,bb
+7130,,Uthaug,norway,bb
+7131,,Uredd,norway,bb
+7132,,Fridtjof Nansen,norway,bc
+7133,,Roald Amundsen,norway,bc
+7134,,Otto Sverdrup,norway,bc
+7135,,Thor Heyerdahl,norway,bc
+7136,,Skjold,norway,ca
+7137,,Storm,norway,ca
+7138,,Skudd,norway,ca
+7139,,Steil,norway,ca
+7140,,Glimt,norway,ca
+7141,,Gnist,norway,ca
+7142,,Hellen,norway,cl
+7143,,Tangen,norway,cl
+7144,,Møvik,norway,cl
+7145,,Malmøya,norway,cl
+7146,,Osternes,norway,cl
+7147,,Oddane,norway,cl
+7148,,August Naerø,norway,cl
+7149,,Petter B Salen,norway,cl
+7150,,Nordkapp,norway,cl
+7151,,Måløy,norway,cl
+7152,,Hinnøy,norway,cl
+7153,,Otra,norway,cl
+7154,,Rauma,norway,cl
+7155,,D-%,norway,dd
+7156,,T-%,norway,tb
 ###,,,###
-7269,,Svea,denmark,bb
-7270,,Valdemar,denmark,bb
-7271,,Thor,denmark,bb
-7272,,Erik Segersäll,denmark,bb
-7273,,Margrete,denmark,bb
-7274,,Gustav Vasa,denmark,bb
-7275,,Sten Sture,denmark,bb
-7276,,Odin,denmark,bb
-7277,,Daneborg,denmark,bb
-7278,,Harald Fairhair,denmark,bb
-7279,,Sigurd,denmark,bb
-7280,,Magnus Barefoot,denmark,bb
-7281,,Ragnhild,denmark,bb
-7282,,Knut the Great,denmark,bb
-7283,,Astrid,denmark,bb
-7284,,Ingrid,denmark,bb
-7285,,Håkon the Good,denmark,bb
-7286,,Gudrun,denmark,bb
-7287,,Tyr,denmark,bb
-7288,,Njord,denmark,bb
-7289,,Hel,denmark,bb
-7290,,Svea,denmark,bc
-7291,,Valdemar,denmark,bc
-7292,,Thor,denmark,bc
-7293,,Erik Segersäll,denmark,bc
-7294,,Margrete,denmark,bc
-7295,,Gustav Vasa,denmark,bc
-7296,,Sten Sture,denmark,bc
-7297,,Odin,denmark,bc
-7298,,Daneborg,denmark,bc
-7299,,Harald Fairhair,denmark,bc
-7300,,Sigurd,denmark,bc
-7301,,Magnus Barefoot,denmark,bc
-7302,,Ragnhild,denmark,bc
-7303,,Knut the Great,denmark,bc
-7304,,Astrid,denmark,bc
-7305,,Ingrid,denmark,bc
-7306,,Håkon the Good,denmark,bc
-7307,,Gudrun,denmark,bc
-7308,,Tyr,denmark,bc
-7309,,Njord,denmark,bc
-7310,,Hel,denmark,bc
-7311,,Jormungand,denmark,ca
-7312,,Skadi,denmark,ca
-7313,,Hervor,denmark,ca
-7314,,Frigg,denmark,ca
-7315,,Brynhild,denmark,ca
-7316,,Geirskogul,denmark,ca
-7317,,Surt,denmark,ca
-7318,,Loki,denmark,ca
-7319,,Freya,denmark,ca
-7320,,Eir,denmark,ca
-7321,,Alfheim,denmark,ca
-7322,,Valhalla,denmark,ca
-7323,,Baldur,denmark,ca
-7324,,Mimir,denmark,ca
-7325,,Yggdrasil,denmark,ca
-7326,,Mjolnir,denmark,ca
-7327,,Frey,denmark,ca
-7328,,Midgard,denmark,ca
-7329,,Skirnir,denmark,ca
-7330,,Huginn,denmark,ca
-7331,,Muninn,denmark,ca
-7332,,Valkyrie,denmark,ca
-7333,,Garm,denmark,ca
-7334,,Berserker,denmark,ca
-7335,,Hrym,denmark,ca
-7336,,Fenrir,denmark,ca
-7337,,Thrud,denmark,ca
-7338,,Sif,denmark,ca
-7339,,Einherjar,denmark,ca
-7340,,Vidar,denmark,ca
-7341,,Ullr,denmark,ca
-7342,,Heimdall,denmark,ca
-7343,,Aegir,denmark,ca
-7344,,Ran,denmark,cl
-7345,,Ymer,denmark,cl
-7346,,Embla,denmark,cl
-7347,,Hod,denmark,cl
-7348,,Forseti,denmark,cl
-7349,,Snotra,denmark,cl
-7350,,Dag,denmark,cl
-7351,,Dis,denmark,cl
-7352,,Elli,denmark,cl
-7353,,Sif,denmark,cl
-7354,,Modi,denmark,cl
-7355,,Delling,denmark,cl
-7356,,Jord,denmark,cl
-7357,,Forseti,denmark,cl
-7358,,Vili,denmark,cl
-7359,,Ve,denmark,cl
-7360,,Embla,denmark,cl
-7361,,Ymer,denmark,cl
-7362,,Sol,denmark,cl
-7363,,Mani,denmark,cl
-7364,,Hati,denmark,cl
-7365,,Skoll,denmark,cl
-7366,,Tanngrisnir,denmark,cl
-7367,,Tanngnjostr,denmark,cl
-7368,,Ragnar,denmark,cl
-7369,,Sigurd,denmark,cl
-7370,,Leif,denmark,cl
-7371,,Erik,denmark,cl
-7372,,Kari,denmark,cl
-7373,,Vidblain,denmark,cl
-7374,,Gjallarhorn,denmark,cl
-7375,,Nott,denmark,cl
-7376,,Andvari,denmark,cl
-7377,,Hrungnir,denmark,cl
-7378,,Egil,denmark,cl
-7379,,Svein,denmark,cl
-7380,,Bork,denmark,cl
-7381,,Gunnar,denmark,cl
-7382,,Freydis,denmark,cl
-7383,,Sigurd Ring,denmark,cl
-7384,,Bjorn,denmark,cl
-7385,,Halfdan,denmark,cl
-7386,,Skule,denmark,cl
-7387,,Gisli,denmark,cl
-7388,,Helga,denmark,cl
-7389,,Starkad,denmark,cl
-7390,,Alv,denmark,cl
-7391,,Vegeir,denmark,cl
-7392,,Jofur,denmark,cl
-7393,,Ketil,denmark,cl
-7394,,Torstein,denmark,cl
-7395,,Ulf,denmark,cl
-7396,,Ivar,denmark,cl
-7397,,Orm,denmark,cl
-7398,,Bragi,denmark,cl
-7399,,Thorkell,denmark,cl
-7400,,Viking,denmark,dd
-7401,,Raider,denmark,tb
+7158,,Absalon,denmark,bb
+7159,,Esbern Snare,denmark,bb
+7160,,Iver Huitfeldt,denmark,bb
+7161,,Peter Willemoes,denmark,bb
+7162,,Niels Juel,denmark,bb
+7163,,Thetis,denmark,bc
+7164,,Triton,denmark,bc
+7165,,Vaedderen,denmark,bc
+7166,,Hvidbjørnen,denmark,bc
+7167,,Knud Rasmussen,denmark,ca
+7168,,Ejnar Mikkelsen,denmark,ca
+7169,,Lauge Koch,denmark,ca
+7170,,Diana,denmark,ca
+7171,,Freja,denmark,ca
+7172,,Havfruen,denmark,ca
+7173,,Najaden,denmark,ca
+7174,,Nymfen,denmark,ca
+7175,,Rota,denmark,ca
+7176,,Dagmar,denmark,cl
+7177,,Naja,denmark,cl
+7178,,Hirsholm,denmark,cl
+7179,,Saltholm,denmark,cl
+7180,,Prøvesteenen,denmark,cl
+7181,,Wagrien,denmark,cl
+7182,,Jylland,denmark,cl
+7183,,Dannebrog,denmark,cl
+7184,,Holsteen,denmark,cl
+7185,,Indfødsretten,denmark,cl
+7186,,Rendsborg,denmark,cl
+7187,,Daneborg,denmark,cl
+7188,,Nyborg,denmark,cl
+7189,,Svaerdfisken,denmark,cl
+7190,,Kronborg,denmark,cl
+7191,,Hajen,denmark,cl
+7192,,Elven,denmark,cl
+7193,,Flådebatteri,denmark,cl
+7194,,Aggershus,denmark,cl
+7195,,Charlotte Amalia,denmark,cl
+7196,,Søehesten,denmark,cl
+7197,,Hielperen,denmark,cl
+7198,,D-%,denmark,dd
+7199,,T-%,denmark,tb
 ###,,,###
-7404,,De Zeven Provinciën,belgium,bb
-7405,,Admiraal Tjerk Hiddes De Vries,belgium,bb
-7406,,Aemilia,belgium,bb
-7407,,Batavier,belgium,bb
-7408,,Beschermer,belgium,bb
-7409,,Brederode,belgium,bb
-7410,,Delft,belgium,bb
-7411,,Eendracht,belgium,bb
-7412,,Gelijkheid,belgium,bb
-7413,,Gouden Leeuw,belgium,bb
-7414,,Hercules,belgium,bb
-7415,,Staaten Generaal,belgium,bb
-7416,,Vrijheid,belgium,bb
-7417,,Wassenaar,belgium,bb
-7418,,Willem de Eerste,belgium,bb
-7419,,Zwanenburg,belgium,bb
-7420,,Oudshoorn,belgium,bb
-7421,,Luipaard,belgium,bb
-7422,,Nairana,belgium,bb
-7423,,Karel Doorman,belgium,bb
-7424,,De Zeven Provinciën,belgium,bc
-7425,,Admiraal Tjerk Hiddes De Vries,belgium,bc
-7426,,Aemilia,belgium,bc
-7427,,Batavier,belgium,bc
-7428,,Beschermer,belgium,bc
-7429,,Brederode,belgium,bc
-7430,,Delft,belgium,bc
-7431,,Eendracht,belgium,bc
-7432,,Gelijkheid,belgium,bc
-7433,,Gouden Leeuw,belgium,bc
-7434,,Hercules,belgium,bc
-7435,,Staaten Generaal,belgium,bc
-7436,,Vrijheid,belgium,bc
-7437,,Wassenaar,belgium,bc
-7438,,Willem de Eerste,belgium,bc
-7439,,Zwanenburg,belgium,bc
-7440,,Oudshoorn,belgium,bc
-7441,,Luipaard,belgium,bc
-7442,,Nairana,belgium,bc
-7443,,Karel Doorman,belgium,bc
-7444,,Holland,belgium,ca
-7445,,Rotterdam,belgium,ca
-7446,,Alkmaar,belgium,ca
-7447,,Noordzee,belgium,ca
-7448,,Noorderhaaks,belgium,ca
-7449,,Linge,belgium,ca
-7450,,Breezand,belgium,ca
-7451,,Pontianak,belgium,ca
-7452,,Riouw,belgium,ca
-7453,,Batavia ,belgium,ca
-7454,,Samarang,belgium,ca
-7455,,Makassar,belgium,ca
-7456,,Haarlemmermeer,belgium,ca
-7457,,Hector,belgium,ca
-7458,,Soembing,belgium,ca
-7459,,Soestdijk,belgium,ca
-7460,,Vulkaan,belgium,ca
-7461,,Van Amstel,belgium,ca
-7462,,Van Ewijk,belgium,ca
-7463,,Van Zijll,belgium,ca
-7464,,De Zeeuw,belgium,ca
-7465,,De Bitter,belgium,ca
-7466,,Soemba ,belgium,ca
-7467,,Lynx,belgium,ca
-7468,,Sperwer,belgium,ca
-7469,,Thor,belgium,ca
-7470,,Schorpioen,belgium,ca
-7471,,Stier,belgium,ca
-7472,,Holland,belgium,cl
-7473,,Rotterdam,belgium,cl
-7474,,Alkmaar,belgium,cl
-7475,,Noordzee,belgium,cl
-7476,,Noorderhaaks,belgium,cl
-7477,,Linge,belgium,cl
-7478,,Breezand,belgium,cl
-7479,,Pontianak,belgium,cl
-7480,,Riouw,belgium,cl
-7481,,Batavia ,belgium,cl
-7482,,Samarang,belgium,cl
-7483,,Makassar,belgium,cl
-7484,,Haarlemmermeer,belgium,cl
-7485,,Hector,belgium,cl
-7486,,Soembing,belgium,cl
-7487,,Soestdijk,belgium,cl
-7488,,Vulkaan,belgium,cl
-7489,,Van Amstel,belgium,cl
-7490,,Van Ewijk,belgium,cl
-7491,,Van Zijll,belgium,cl
-7492,,De Zeeuw,belgium,cl
-7493,,De Bitter,belgium,cl
-7494,,Soemba ,belgium,cl
-7495,,Lynx,belgium,cl
-7496,,Sperwer,belgium,cl
-7497,,Thor,belgium,cl
-7498,,Schorpioen,belgium,cl
-7499,,Stier,belgium,cl
-7500,,N-%,belgium,dd
-7501,,Z-%,belgium,tb
+7201,,Wielingen,belgium,bb
+7202,,Westdiep,belgium,bb
+7203,,Wandelaar,belgium,bb
+7204,,Westhinder,belgium,bb
+7205,,Leopold I,belgium,bb
+7206,,Louise-Marie,belgium,bb
+7207,,Castor,belgium,bc
+7208,,Pollox,belgium,bc
+7209,,Vega,belgium,bc
+7210,,Bellis,belgium,ca
+7211,,Crocus,belgium,ca
+7212,,Lobelia,belgium,ca
+7213,,Primula,belgium,ca
+7214,,Oostende,belgium,cl
+7215,,Tournai,belgium,cl
+7216,,Brugge,belgium,cl
+7217,,Liege,belgium,cl
+7218,,Antwerpen,belgium,cl
+7219,,Rochefort,belgium,cl
+7220,,Victor Billet,belgium,bb
+7221,,Aster,belgium,bc
+7222,,Dainthus,belgium,bc
+7223,,Fuchsia,belgium,bc
+7224,,Iris,belgium,bc
+7225,,Myosotis,belgium,bc
+7226,,Adrein de Gerlache,belgium,ca
+7227,,Georges Lecointe,belgium,ca
+7228,,Van Haverbeke,belgium,ca
+7229,,Dufour,belgium,ca
+7230,,De Moor,belgium,ca
+7231,,Debrouwer,belgium,ca
+7232,,Breydel,belgium,ca
+7233,,Artevelde,belgium,ca
+7234,,Truffaut,belgium,ca
+7235,,Bovesse,belgium,ca
+7236,,Pico,belgium,ca
+7237,,Diest,belgium,cl
+7238,,Eeklo,belgium,cl
+7239,,Lier,belgium,cl
+7240,,Maaseik,belgium,cl
+7241,,Roeselare,belgium,cl
+7242,,Arlon,belgium,cl
+7243,,Bastogne,belgium,cl
+7244,,Charleroi,belgium,cl
+7245,,Sint-Niklaas,belgium,cl
+7246,,Sint-Truiden,belgium,cl
+7247,,Diksmuide,belgium,cl
+7248,,Herve,belgium,cl
+7249,,Malmedy,belgium,cl
+7250,,Blankenberge,belgium,cl
+7251,,Laroche,belgium,cl
+7252,,De Panne,belgium,cl
+7253,,Mechelen,belgium,cl
+7254,,Spa,belgium,cl
+7255,,Stavelot,belgium,cl
+7256,,Heist,belgium,cl
+7257,,Knokke,belgium,cl
+7258,,Nieuwpoort,belgium,cl
+7259,,Koksijde,belgium,cl
+7260,,Verviers,belgium,cl
+7261,,Veurne,belgium,cl
+7262,,Temse,belgium,cl
+7263,,Hasselt ,belgium,cl
+7264,,Kortrijk,belgium,cl
+7265,,Lokeren,belgium,cl
+7266,,Merksem,belgium,cl
+7267,,Oudenaarde,belgium,cl
+7268,,Herstal,belgium,cl
+7269,,Huy,belgium,cl
+7270,,Seraing,belgium,cl
+7271,,Tournai,belgium,cl
+7272,,Visé,belgium,cl
+7273,,Ougrée,belgium,cl
+7274,,Dinant,belgium,cl
+7275,,Andenne,belgium,cl
+7276,,B-%,belgium,bb
+7277,,C-%,belgium,bc
+7278,,A-%,belgium,ca
+7279,,L-%,belgium,cl
+7280,,D-%,belgium,dd
+7281,,T-%,belgium,tb
 ###,,,###
 
