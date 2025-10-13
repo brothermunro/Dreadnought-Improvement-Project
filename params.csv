@@ -931,7 +931,7 @@ taf_disable_fleet_tension,1, Fleet tension is caused by the presence of any nati
 taf_disable_battle_simulation_speed_restrictions,1,"Allow for 30x speed regardless of how close you are to enemy ships. Simulation speed will still be reduced after you enter a certain range; however, the player can still set to a higher simulation speed.",,,,,,,
 taf_disable_minor_and_medium_nation_land_invasions,1, Minor and medium nations can cause game crashes when they initiate land invasions.,,,,,,,
 taf_politics_window_relation_matrix_rotate_flags,1,"Should rotate flags in politics screen relationship matrix by 90*. Helpful for fitting more countries into the matrix.",,,,,,,
-taf_politics_window_relation_matrix_spacing,30,"Spacing of flags in matrix. 30 = default. 20 = minimum for no overlaps.",,,,,,,
+taf_politics_window_relation_matrix_spacing,20,"Spacing of flags in matrix. 30 = default. 20 = minimum for no overlaps.",,,,,,,
 taf_bailout_event_number,81,"Requires a # and #_a entry in events.csv. Used for when player cash drops below 0.",,,,,,,
 #,,,,,,,,,
 # Torpedoes,,,,,,,,,
