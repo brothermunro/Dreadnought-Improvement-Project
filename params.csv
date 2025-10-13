@@ -935,7 +935,7 @@ taf_politics_window_relation_matrix_spacing,30,"Spacing of flags in matrix. 30 =
 taf_bailout_event_number,81,"Requires a # and #_a entry in events.csv. Used for when player cash drops below 0.",,,,,,,
 #,,,,,,,,,
 # Torpedoes,,,,,,,,,
-taf_torpedo_max_launch_range_percent,0.8,"Multiplied with torpedo range. Max range that torpedoes will be fired from. Helps prevent premature launches that will explode before reaching the target.",,,,,,,
+taf_torpedo_max_launch_range_percent,0.9,"Multiplied with torpedo range. Max range that torpedoes will be fired from. Helps prevent premature launches that will explode before reaching the target.",,,,,,,
 taf_torpedo_duration_variation,0.1,"Torpedo lifetime will vary randomly by this percent. 0.1 = 10%.",,,,,,,
 taf_torpedo_speed_variation,0.1,"Torpedo speed will vary randomly by this percent. 0.1 = 10%.",,,,,,,
 #,,,,,,,,,
