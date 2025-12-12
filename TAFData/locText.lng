@@ -38,15 +38,46 @@ $TAF_Ui_Retirement_Body;After {0} long years of service to your country, perhaps
 $TAF_Ui_Dockyard_Confirm_Action_Save;Are you sure you want to save this ship?
 $TAF_Ui_Dockyard_Confirm_Action_RandomShip;Are you sure you want to generate a random ship on this hull?
 $TAF_Ui_Dockyard_Confirm_Action_ClearShip;Are you sure you want to clear all parts?
-$TAF_Ui_Dockyard_Confirm_Action_DeleteShip;Are you sure you want to delete this ship permanantly?
+$TAF_Ui_Dockyard_Confirm_Action_DeleteShip;Are you sure you want to delete this ship permanently?
 $TAF_Ui_Dockyard_Confirm_Action_CloneShip;Are you sure you want to clone this ship?
 $TAF_Ui_Dockyard_Confirm_Action_Exit;Are you sure you want to leave the Dockyard?
 $TAF_Ui_Dockyard_Confirm_Action_RandomShipSimpleRefit;Are you sure you want to refit ship components automatically?
 $TAF_Ui_Dockyard_Confirm_Action_RefitShip;Are you sure you want to enter Refit Mode?
 $TAF_Ui_Dockyard_Confirm_Action_SwitchPlayerType;Are you sure you want to switch player type?
-$TAF_Ui_Dockyard_TopBar_RotationIncrementControl;Increment | Key:  [G]\n{0}
-$TAF_Ui_Dockyard_TopBar_RotationValueControl;Rotation | Reset: [F]\n{0}
+$TAF_Ui_Dockyard_YearInput_PlaceHolderText;Input Year
+$TAF_Ui_Settings_Confirm_Reset;Are you sure you want to reset all settings and configurations?
+$TAF_Ui_Dockyard_TopBar_RotationIncrementControl;Increment\n{0}
+$TAF_tooltip_rotation_increment_control;Curent part rotation increment. Click or press [G] to change incrament.
+$TAF_Ui_Dockyard_TopBar_RotationValueControl;Rotation\n{0}
+$TAF_tooltip_rotation_value_control;Curent part rotation plus default mount rotation. Click or press [F] to auto-orient the part.
 $TAF_Ui_Dockyard_ArmorTab_UpdateArmorQualitySetting;Update Armor Preview Setting
+$TAF_tooltip_update_armor_quality_setting;The armor quality slider does not match this ship's armor quality. Click to update the setting so gun penetration previews show the correct values.
 $TAF_Ui_Predef_Error_MalformedPredefFile;Malformed predefs. Check log: `..\\steamapps\\common\\Ultimate Admiral Dreadnoughts\\MelonLoader\\Latest.log`.
 $TAF_Ui_FleetWindow_Confirm_Action_Delete;Are you sure you want to delete this design?
 $TAF_Ui_FleetWindow_Confirm_Action_Scrap;Are you sure you want to scrap the selected ship(s)?
+$TAF_Ui_World_FleetDesign_ViewOnMap;View On Map
+$TAF_Ui_World_FleetDesign_SetRole;Set Role
+$TAF_Ui_World_FleetDesign_SoldTo;Sold To\n{0}
+$TAF_tooltip_set_role;Set the role of one or more ships.
+$TAF_tooltip_set_crew;Set the crew level or mothball one or more ships.
+$TAF_tooltip_view_on_map;Center camera on the map location of the selected ship.
+$toolltip_file_converter;*File Converter*\nTool for converting save files between BIN and JSON. Also used for managing shared designs and creating predefined designs files.
+$TAF_Ui_Popup_OptionsWindow_UI_Scale;UI Scale
+$TAF_Ui_World_compactM;M
+$TAF_Ui_Constr_Port;Port
+$TAF_Ui_BatchShipGenerator_Batch;Batch #{0}
+$TAF_Ui_BatchShipGenerator_Progress;Progress {0}
+$TAF_Ui_BatchShipGenerator_Completed;Completed: {0}
+$TAF_Ui_BatchShipGenerator_Requested;Requested: {0}
+$TAF_Ui_BatchShipGenerator_Performance;Performance {0}
+$TAF_Ui_BatchShipGenerator_Total_Tries;Total Tries: {0}
+$TAF_Ui_BatchShipGenerator_Total_Time;Total Time: {0}
+$TAF_Ui_BatchShipGenerator_Batch_Time;Batch Time: {0}
+$TAF_Ui_BatchShipGenerator_Total_Batches;Total Batches: {0}
+$TAF_Ui_BatchShipGenerator_Stop_At_Batch_End;Press [ESC] to stop the generator at the end of the batch.
+$TAF_Ui_BatchShipGenerator_Stoping_At_Batch_End;Will stop at the end of this batch!
+$TAF_Ui_BatchShipGenerator_Finished;Finished Batch Ship Generation:
+$TAF_Ui_BatchShipGenerator_See_Log;See log for more details!
+$TAF_Ui_BatchShipGenerator_Count_Tries_Time;Count = {0} | Tries = {1} | Time = {2}
+$TAF_Ui_BatchShipGenerator_Failed;Failed
+$TAF_Ui_BatchShipGenerator_Succeeded;Succeeded
