@@ -75,9 +75,13 @@ $TAF_Ui_BatchShipGenerator_Total_Time;Total Time: {0}
 $TAF_Ui_BatchShipGenerator_Batch_Time;Batch Time: {0}
 $TAF_Ui_BatchShipGenerator_Total_Batches;Total Batches: {0}
 $TAF_Ui_BatchShipGenerator_Stop_At_Batch_End;Press [ESC] to stop the generator at the end of the batch.
+$TAF_Ui_BatchShipGenerator_Stop_Imediate;Press [Shift + ESC] to force quit the game.
 $TAF_Ui_BatchShipGenerator_Stoping_At_Batch_End;Will stop at the end of this batch!
 $TAF_Ui_BatchShipGenerator_Finished;Finished Batch Ship Generation:
 $TAF_Ui_BatchShipGenerator_See_Log;See log for more details!
 $TAF_Ui_BatchShipGenerator_Count_Tries_Time;Count = {0} | Tries = {1} | Time = {2}
 $TAF_Ui_BatchShipGenerator_Failed;Failed
 $TAF_Ui_BatchShipGenerator_Succeeded;Succeeded
+$TAF_Ui_ReportShipScuttled;{0} was ordered to set scuttling charges due to high casualties!
+$TAF_Ui_ReportShipSurrendered;{0} has surrendered due to high casualties!
+$TAF_Ui_ReportShipScuttling;{0} is setting off it's scuttling charges!
