@@ -21,7 +21,7 @@ taf_shareddesign_okTechValue,0.75,"If there are no `best` ships, any ships with 
 taf_shareddesign_minTechValue,0.5,"If no better ships are available, any ships with greater tech commonality than this will be the final selection group. If no ships make even this level of commonality, no shared design is returned.",,,,,,,
 #,,,,,,,,,
 # UI Changes,,,,,,,,,
-taf_versiontext,2,Version text in the lower right corner of the screen will be replaced. Set to 0 for default version text. Set text in the str column (move 4 columns to the right).,,,,DIP Extended 1.3.4,,,
+taf_versiontext,3,Version text in the lower right corner of the screen will be replaced. Set to 0 for default version text. Set text in the str column (move 4 columns to the right).,,,,DIP Extended 1.3.4,,,
 #,,    1. Append the supplied text to the existing version string.,,,,,,,
 #,,    2. Replace the text part of the version with the text in the str column but keep the base version number.,,,,,,,
 #,,    3. Entirely replace.,,,,,,,
