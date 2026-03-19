@@ -44,7 +44,7 @@ taf_large_gun_ignore_torpedo_tubes,4,A gun of this size or larger will ignore al
 taf_torpedo_tubes_ignore_large_gun,5,A gun of this size or larger be ignored by all torpedo tubes.,,,,,,,
 taf_mounts_sticky_disable,1,"Disable ""sticky"" barbette, si_barbette, tower_sec, and tower_main mount points for towers and barbettes. (does not apply to mounts created with mounts.csv)",,,,,,,
 taf_shipgen_tweaks,1,"Enable changes and improvements to ship generation, including armor, caliber counts, improved weight reduction logic, and more.",,,,,,,
-taf_genarmor_use_defaults,0,Use the genArmorDefault.csv file in the TAFData folder.,,,,,,,
+taf_genarmor_use_defaults,1,Use the genArmorDefault.csv file in the TAFData folder.,,,,,,,
 taf_shipgen_limit_calibercounts_main,999,Limit the number of main caliber guns. See Wiki for more info.,,,,,,,
 taf_shipgen_limit_calibercounts_sec,999,Limit the number of secondary caliber guns. See Wiki for more info.,,,,,,,
 taf_shipgen_limit_calibercounts_ter,999,Limit the number of tertiary caliber guns. See Wiki for more info.,,,,,,,
