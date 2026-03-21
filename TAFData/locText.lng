@@ -84,4 +84,4 @@ $TAF_Ui_BatchShipGenerator_Failed;Failed
 $TAF_Ui_BatchShipGenerator_Succeeded;Succeeded
 $TAF_Ui_ReportShipScuttled;{0} was ordered to set scuttling charges due to high casualties!
 $TAF_Ui_ReportShipSurrendered;{0} has surrendered due to high casualties!
-$TAF_Ui_ReportShipScuttling;{0} is setting off it's scuttling charges!
+$TAF_Ui_ReportShipScuttling;{0} is setting off scuttling charges!
