@@ -575,7 +575,7 @@ ammo_detonation_armor_mod,0.1,multipier to increase armor for ammo storage from 
 ammo_detonation_torp_dam_to_pen,1.75,"convertion of torpedo damage to penetration (multiplier), for ammo detonation",1,,,,,,
 ammo_detonation_chance,155,ammo detonation chance (if penetrated),20,33,,,,,
 ammo_detonation_chance_torp,55,ammo detonation chance for torpedo hits (if penetrated),35,,,,,,
-torpedo_detonation_chance_mod,100,torpedo launcher detonation chance if destroyed,50,,,,,,
+torpedo_detonation_chance_mod,10,torpedo launcher detonation chance if destroyed,50,,,,,,
 ammo_detonation_big_cal,24,below this inch caliber size ammo storage is much more smaller,12,10,,,,,
 flashfire_big_cal,24,below this inch flash fire chance is much smaller,12,,,,,,
 ammo_detonation_maxdamage,25000,damage that totally depletes the exploded ammo,,,,,,,
