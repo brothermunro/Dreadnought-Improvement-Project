@@ -1,7 +1,9 @@
-﻿$TAF_LoadError_HarmonyFail_Title;Version Mismatch
+$TAF_LoadError_HarmonyFail_Title;Version Mismatch
 $TAF_LoadError_HarmonyFail_Text;The installed version of <b>Tweaks and Fixes</b> doesn't match the installed version of Ultimate Admiral: Dreadnoughts. Patching has failed and your game will not funciton. Please either downgrade UAD to the correct version for your version of TAF, or download the correct version of TAF if available.
 $TAF_LoadError_DataFail_Title;TAF Installation Error
 $TAF_LoadError_DataFail_Text;<b>Tweaks and Fixes</b> was not installed properly and your game will not function. Please make sure you unzip the correct release of TAF to your Ultimate Admiral: Dreadnoughts folder and overwrite files if prompted. It is not enough to just copy the DLL.
+$TAF_LoadError_SteamFail_Title;Steam API Error
+$TAF_LoadError_SteamFail_Text;Failed to connect to the Steam API! Restart your computer and try again.
 $TAF_Ui_Constr_UpgradeMark;Upgrade Mark
 $TAF_Ui_Constr_UpgradeTorpMark;Upgrade\nTorpedo\nMark
 $TAF_Ui_Convert_ConvertedToJSON;Designs to JSON
@@ -85,3 +87,23 @@ $TAF_Ui_BatchShipGenerator_Succeeded;Succeeded
 $TAF_Ui_ReportShipScuttled;{0} was ordered to set scuttling charges due to high casualties!
 $TAF_Ui_ReportShipSurrendered;{0} has surrendered due to high casualties!
 $TAF_Ui_ReportShipScuttling;{0} is setting off scuttling charges!
+$TAF_Ui_Settings_ShowMapImage;Show Map Image
+$TAF_Ui_Settings_DeckPropCoverage;Deck Prop Coverage
+$TAF_UI_CheatMod_CheatMenu;Cheat Menu
+$TAF_UI_CheatMod_Give100Million;Give 100 Million
+$TAF_UI_CheatMod_Give1Billion;Give 1 Billion
+$TAF_UI_CheatMod_InstantBuildShips;Instant Build Ships
+$TAF_UI_CheatMod_InstantRepair; Instant Repair
+$TAF_UI_CheatMod_InstantResearch;Instant Research
+$TAF_UI_CheatMod_Close;Close
+$TAF_UI_CheatMod_CheatMenu_Tooltip;Cheater
+$TAF_UI_CheatMod_Give100Million_Tooltip;Give yourself 100 million in cash.
+$TAF_UI_CheatMod_Give1Billion_Tooltip;Give yourself 1 Billion in cash.
+$TAF_UI_CheatMod_InstantBuildShips_Tooltip;Sets any ship that is building to be 100% progress and will start commissioning next turn.
+$TAF_UI_CheatMod_InstantRepair_Tooltip;Sets any ship that is repairing to be 100% repaired and will clear the next turn. 
+$TAF_UI_CheatMod_InstantResearch_Tooltip;Sets the technologies you have tagged as "priority" or "focused" to 100% 
+$TAF_UI_CheatMod_Close_Tooltip;Closes the UI
+$TAF_Ui_MainMenu_ModUpdates;Mod Updates
+$TAF_Ui_MainMenu_ModUpdates_Tooltip;Check for mod updates.
+$TAF_Ui_MainMenu_TAFUpdates;TAF Updates
+$TAF_Ui_MainMenu_TAFUpdates_Tooltip;Check for Tweaks and Fixes updates.
