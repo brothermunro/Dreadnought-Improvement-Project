@@ -327,7 +327,7 @@ western_sicily,Western Sicily,medit2,italy,italy,italy,italy,italy,italy,italy,i
 western_spain,Western Spain,n_atlantic,spain,spain,spain,spain,spain,spain,spain,spain,1,home,8,65000,-1,-1,0,0,0,7,0.0299999993,2,"northern_spain, portugal, southern_spain"
 western_sweden,Western Sweden,n_sea,scandinavia,scandinavia,scandinavia,scandinavia,scandinavia,scandinavia,scandinavia,sweden,0,home,6,75000,-1,-1,0,0,0,7,0.0390000008,3,"eastern_sweden, southern_norway"
 western_turkey,Western Turkey,aegean,greece,greece,greece,greece,greece,greece,greece,greece,1,home,6,80000,-1,1930,1,150,100,6,0.119999997,2,"dardanelles, southern_turkey, northern_turkey, bosporus"
-western_usa,Western USA,n_am_west,usa,usa,usa,usa,usa,usa,usa,usa,1,home,30,120000,-1,1930,5,1250,5000,2.5,0.0125000002,2,"western_mexico, gulf_coast, central_usa, british_columbia"
+western_usa,Western USA,n_am_west,usa,usa,usa,usa,usa,usa,usa,usa,1,home,30,120000,-1,1930,5,1250,500,2.5,0.0125000002,2,"western_mexico, gulf_coast, central_usa, british_columbia"
 xinjiang,Xinjiang,benghal_sea,china,china,china,china,china,china,china,xinjiang,1,home,9,0,-1,1920,5,3500,500,12,0.0149999997,3,"afghanistan, tajikistan, kazakhstan, kyrgyzstan, kashmir, central_china, mongolia, siberian_russia, northern_china, tibet"
 yemen,Yemen,arabian_sea,greece,greece,greece,greece,greece,greece,greece,yemen,0,colony,3,1000,-1,1930,4,400,100,2.5,0.0350000001,2,"arabia, oman, hejaz"
 zanzibar,Zanzibar,indian_west,britain,britain,britain,britain,britain,britain,britain,zanzibar,0,colony,1.5,1000,-1,1930,10,90,100,2.5,0.0125000002,2,
