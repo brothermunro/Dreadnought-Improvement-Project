@@ -51,6 +51,9 @@ $TAF_Ui_Settings_Confirm_Reset;Are you sure you want to reset all settings and c
 $TAF_Ui_Dockyard_TopBar_RotationIncrementControl;Increment\n{0}
 $TAF_tooltip_rotation_increment_control;Curent part rotation increment. Click or press [G] to change incrament.
 $TAF_Ui_Dockyard_TopBar_RotationValueControl;Rotation\n{0}
+$TAF_Ui_Dockyard_TopBar_SkirmishShipType;{0}\n{1}x {2} #{3}
+$TAF_tooltip_skirmish_ship_type_dropdown;Click to change the current shiptype.
+$TAF_Ui_Dockyard_Launch;Launch
 $TAF_tooltip_rotation_value_control;Curent part rotation plus default mount rotation. Click or press [F] to auto-orient the part.
 $TAF_Ui_Dockyard_ArmorTab_UpdateArmorQualitySetting;Update Armor Preview Setting
 $TAF_tooltip_update_armor_quality_setting;The armor quality slider does not match this ship's armor quality. Click to update the setting so gun penetration previews show the correct values.
@@ -86,9 +89,16 @@ $TAF_Ui_BatchShipGenerator_Failed;Failed
 $TAF_Ui_BatchShipGenerator_Succeeded;Succeeded
 $TAF_Ui_ReportShipScuttled;{0} was ordered to set scuttling charges due to high casualties!
 $TAF_Ui_ReportShipSurrendered;{0} has surrendered due to high casualties!
-$TAF_Ui_ReportShipScuttling;{0} is setting off scuttling charges!
+$TAF_Ui_ReportShipScuttling;{0} is setting off its scuttling charges!
 $TAF_Ui_Settings_ShowMapImage;Show Map Image
 $TAF_Ui_Settings_DeckPropCoverage;Deck Prop Coverage
+$TAF_Ui_SkirmishSettup_SharedDesignToggle_On;Shared Designs: On
+$TAF_Ui_SkirmishSettup_SharedDesignToggle_Off;Shared Designs: Off
+$TAF_Ui_SkirmishSettup_PredefDesignToggle_On;Pregenerated: On
+$TAF_Ui_SkirmishSettup_PredefDesignToggle_Off;Pregenerated: Off
+$TAF_tooltip_skirmish_shared_design_toggle;<b>On</b>: Will pick from availible Shared Designs if no design is made or chosen in the constructor.\n\n<b>Off</b>: If no design is made or chosen, a randomly generated or Predefiend Designs ship will be used instead.
+$TAF_tooltip_skirmish_predef_design_toggle;<b>On</b>: Will pick from the Predefined Designs file if no design is made or chosen in the constructor and no Shared Design is availible or if Shared Designs are <b>Off</b>.\n\n<b>Off</b>: If no design or Shared Design is made or chosen, a randomly generated ship will be used instead.
+$TAF_tooltip_launch_to_custom_battle;Begin the custom battle with the designs you selected.
 $TAF_UI_CheatMod_CheatMenu;Cheat Menu
 $TAF_UI_CheatMod_Give100Million;Give 100 Million
 $TAF_UI_CheatMod_Give1Billion;Give 1 Billion
@@ -107,3 +117,21 @@ $TAF_Ui_MainMenu_ModUpdates;Mod Updates
 $TAF_Ui_MainMenu_ModUpdates_Tooltip;Check for mod updates.
 $TAF_Ui_MainMenu_TAFUpdates;TAF Updates
 $TAF_Ui_MainMenu_TAFUpdates_Tooltip;Check for Tweaks and Fixes updates.
+$TAF_Ui_FadeText_GameSaved;Game Saved!
+$TAF_Ui_FadeText_DesignSaved;Design Saved!
+$TAF_Ui_Constructor_UpdateTechs;Update Techs
+$TAF_Ui_Constructor_UpdateTechsBody;Do you want the cloned design to use the latest tech unlocks?
+$TAF_month_short_January;Jan.
+$TAF_month_short_February;Feb.
+$TAF_month_short_March;Mar.
+$TAF_month_short_April;Apr.
+$TAF_month_short_May;May
+$TAF_month_short_June;Jun.
+$TAF_month_short_July;Jul.
+$TAF_month_short_August;Aug.
+$TAF_month_short_September;Sep.
+$TAF_month_short_October;Oct.
+$TAF_month_short_November;Nov.
+$TAF_month_short_December;Dec.
+$TAF_Ui_Settings_RefitDateFormat;Refit Date Format
+$TAF_Ui_Event_GovernmentBailout;Government Bailout
