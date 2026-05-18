@@ -119,3 +119,19 @@ $TAF_Ui_MainMenu_TAFUpdates;TAF Updates
 $TAF_Ui_MainMenu_TAFUpdates_Tooltip;Check for Tweaks and Fixes updates.
 $TAF_Ui_FadeText_GameSaved;Game Saved!
 $TAF_Ui_FadeText_DesignSaved;Design Saved!
+$TAF_Ui_Constructor_UpdateTechs;Update Techs
+$TAF_Ui_Constructor_UpdateTechsBody;Do you want the cloned design to use the latest tech unlocks?
+$TAF_month_short_January;Jan.
+$TAF_month_short_February;Feb.
+$TAF_month_short_March;Mar.
+$TAF_month_short_April;Apr.
+$TAF_month_short_May;May
+$TAF_month_short_June;Jun.
+$TAF_month_short_July;Jul.
+$TAF_month_short_August;Aug.
+$TAF_month_short_September;Sep.
+$TAF_month_short_October;Oct.
+$TAF_month_short_November;Nov.
+$TAF_month_short_December;Dec.
+$TAF_Ui_Settings_RefitDateFormat;Refit Date Format
+$TAF_Ui_Event_GovernmentBailout;Government Bailout
