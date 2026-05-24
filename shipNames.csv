@@ -1,5 +1,5 @@
-#HalfBakedOne Ship Names List       Version 1.00        Feb 22 2026        GREAT GAME
-#Huge shoutout to Discord user MDHansen for their help debugging this file!
+#HalfBakedOne Ship Names List       Version 1.00        Feb 22 2026        GREAT GAME,,,,,,,,,,
+#Huge shoutout to Discord user MDHansen for their help debugging this file!,,,,,,,,,,
 #id,enabled / disabled,"ship's ui name ($ - class, % - number, & - year)",country name,ship's type name,use this name till year,,,,,
 @name,enabled,nameUi,country,shipType,tillYear,#suggested,#problems,#infoLink,#textBackup,#nameBackup
 default,1,,,,-1,,,,,
@@ -379,11 +379,13 @@ default,1,,,,-1,,,,,
 353,,Howe,britain,bb,,,,,,
 354,,Lion,britain,bb,,,,,,
 355,,Munro,britain,bb,,,,,,
-356,,Statwood,britain,bb,,,,,,
-357,,Reference,britain,bb,,,,,,
 358,,Rocket,britain,bc,,,,,,
 359,,Slayed Duke,britain,bb,,,,,,
+356,,MD Hansen,britain,bb,,,,,,
+357,,Sepharin,britain,bb,,,,,,
 360,,Hajas,britain,bb,,,,,,
+8493,,Yumasai,britain,bb,,,,,,
+8494,,Pronto,britain,bb,,,,,,
 361,,Invincible,britain,bb,,,,,,
 362,,Inflexible,britain,bc,,,,,,
 363,,Indomitable,britain,bc,,,,,,
@@ -6883,598 +6885,598 @@ default,1,,,,-1,,,,,
 7897,,Paros,greece,dd,,,,,,
 7898,,Sikinos,greece,dd,,,,,,
 ##,,,###,,,,,,,
-7899,,barði,scandinavia,bb
-7900,,Berserk,scandinavia,bb
-7901,,Björn,scandinavia,bb
-7902,,Brämaren,scandinavia,bb
-7903,,Churprinds,scandinavia,bb
-7904,,Drage,scandinavia,bb
-7905,,Eidsvold,scandinavia,bb
-7906,,Engel,scandinavia,bb
-7907,,Enhörning,scandinavia,bb
-7908,,Enighed,scandinavia,bb
-7909,,Esbern Snare,scandinavia,bb
-7910,,Fenris,scandinavia,bb
-7911,,Finska Svan,scandinavia,bb
-7912,,Folke,scandinavia,bb
-7913,,Förgylta Dufva,scandinavia,bb
-7914,,Garmer,scandinavia,bb
-7915,,Gerda,scandinavia,bb
-7916,,Gustav Vasa,scandinavia,bb
-7917,,Gyldenløve,scandinavia,bb
-7918,,Haakon Haakonsson,scandinavia,bb
-7919,,Harald Fairhair,scandinavia,bb
-7920,,Harald Haarfarge,scandinavia,bb
-7921,,Hildur,scandinavia,bb
-7922,,Hjort,scandinavia,bb
-7923,,Iver Huitfeldt,scandinavia,bb
-7924,,Járnbarðinn,scandinavia,bb
-7925,,Jegermesther,scandinavia,bb
-7926,,Knut the Great,scandinavia,bb
-7927,,København,scandinavia,bb
-7928,,Lindorm,scandinavia,bb
-7929,,Loke,scandinavia,bb
-7930,,Magnus Barefoot,scandinavia,bb
-7931,,Makalös,scandinavia,bb
-7932,,Nelleblad,scandinavia,bb
-7933,,Norske Løve,scandinavia,bb
-7934,,Odin,scandinavia,bb
-7935,,Patienta,scandinavia,bb
-7936,,Röda Hund,scandinavia,bb
-7937,,Sköld,scandinavia,bb
-7938,,Skotske,scandinavia,bb
-7939,,Slesvig,scandinavia,bb
-7940,,Sölve,scandinavia,bb
-7941,,Sorte Rytter,scandinavia,bb
-7942,,Spes,scandinavia,bb
-7943,,Sten Sture,scandinavia,bb
-7944,,Stockholms Hjort,scandinavia,bb
-7945,,Stord,scandinavia,bb
-7946,,Súð,scandinavia,bb
-7947,,Svea,scandinavia,bb
-7948,,Svenner,scandinavia,bb
-7949,,Svenska Hektor,scandinavia,bb
-7950,,Thor,scandinavia,bb
-7951,,Thordön,scandinavia,bb
-7952,,Tirfing,scandinavia,bb
-7953,,Tre Løver,scandinavia,bb
-7954,,Trefoldighed,scandinavia,bb
-7955,,Tyr,scandinavia,bb
-7956,,Ula,scandinavia,bb
-7957,,Uredd,scandinavia,bb
-7958,,Uthaug,scandinavia,bb
-7959,,Utsira,scandinavia,bb
-7960,,Utstein,scandinavia,bb
-7961,,Utvaer,scandinavia,bb
-7962,,Valdemar,scandinavia,bb
-7963,,Vasa,scandinavia,bb
-7964,,Astrid,scandinavia,bc
-7965,,Bävern,scandinavia,bc
-7966,,Bergen,scandinavia,bc
-7967,,Beskjermer,scandinavia,bc
-7968,,Bjørgvin,scandinavia,bc
-7969,,Bruna Lejon,scandinavia,bc
-7970,,Bússa,scandinavia,bc
-7971,,Daneborg,scandinavia,bc
-7972,,Dannebroge,scandinavia,bc
-7973,,Delfinen,scandinavia,bc
-7974,,Desideria,scandinavia,bc
-7975,,Ditmarsken,scandinavia,bc
-7976,,Draken,scandinavia,bc
-7977,,Dreki,scandinavia,bc
-7978,,Erik Segersäll,scandinavia,bc
-7979,,Flyvende Hjort,scandinavia,bc
-7980,,Fridtjof Nansen,scandinavia,bc
-7981,,Fyen,scandinavia,bc
-7982,,Grønland,scandinavia,bc
-7983,,Gudrun,scandinavia,bc
-7984,,Haffru,scandinavia,bc
-7985,,Håkon the Good,scandinavia,bc
-7986,,Halland,scandinavia,bc
-7987,,Hälsingland,scandinavia,bc
-7988,,Hel,scandinavia,bc
-7989,,Herluf Trolle,scandinavia,bc
-7990,,Hvidbjørnen,scandinavia,bc
-7991,,Illern,scandinavia,bc
-7992,,Ingrid,scandinavia,bc
-7993,,Kjøbenhavn,scandinavia,bc
-7994,,Kristsuden,scandinavia,bc
-7995,,Laaland,scandinavia,bc
-7996,,Lilla Hjort,scandinavia,bc
-7997,,Najad,scandinavia,bc
-7998,,Nidaros,scandinavia,bc
-7999,,Njord,scandinavia,bc
-8000,,Nordkaparen,scandinavia,bc
-8001,,Norge,scandinavia,bc
-8002,,Olfert Fischer,scandinavia,bc
-8003,,Øresund,scandinavia,bc
-8004,,Ormen Lange,scandinavia,bc
-8005,,Ormrinn langi,scandinavia,bc
-8006,,Östergötland,scandinavia,bc
-8007,,Otto Sverdrup,scandinavia,bc
-8008,,Ragnhild,scandinavia,bc
-8009,,Roald Amundsen,scandinavia,bc
-8010,,Röda Gripen,scandinavia,bc
-8011,,Sälen,scandinavia,bc
-8012,,Sejeren,scandinavia,bc
-8013,,Senja,scandinavia,bc
-8014,,Sigurd,scandinavia,bc
-8015,,Sjælland,scandinavia,bc
-8016,,Sjöbjörnen,scandinavia,bc
-8017,,Sjöhästen,scandinavia,bc
-8018,,Sjöhunden,scandinavia,bc
-8019,,Sjölejonet,scandinavia,bc
-8020,,Sjöormen,scandinavia,bc
-8021,,Skorpionen,scandinavia,bc
-8022,,Södermanland,scandinavia,bc
-8023,,Stavanger,scandinavia,bc
-8024,,Stormar,scandinavia,bc
-8025,,Thor Heyerdahl,scandinavia,bc
-8026,,Thrudvang,scandinavia,bc
-8027,,Tomler,scandinavia,bc
-8028,,Trondheim,scandinavia,bc
-8029,,Uppland,scandinavia,bc
-8030,,Uttern,scandinavia,bc
-8031,,Vaedderen,scandinavia,bc
-8032,,Valen,scandinavia,bc
-8033,,Vargen,scandinavia,bc
-8034,,Västergötland,scandinavia,bc
-8035,,Waldemar,scandinavia,bc
-8036,,Wenden,scandinavia,bc
-8037,,Aegir,scandinavia,ca
-8038,,Alfheim,scandinavia,ca
-8039,,Allart,scandinavia,ca
-8040,,Alsen,scandinavia,ca
-8041,,Äpplet,scandinavia,ca
-8042,,Äran,scandinavia,ca
-8043,,Baldur,scandinavia,ca
-8044,,Berserker,scandinavia,ca
-8045,,Brynhild,scandinavia,ca
-8046,,Claes Horn,scandinavia,ca
-8047,,Claes Uggla,scandinavia,ca
-8048,,Clas Fleming,scandinavia,ca
-8049,,Danmark,scandinavia,ca
-8050,,Dristigheten,scandinavia,ca
-8051,,Dynekilen,scandinavia,ca
-8052,,Egdene,scandinavia,ca
-8053,,Einherjar,scandinavia,ca
-8054,,Eir,scandinavia,ca
-8055,,Ejnar Mikkelsen,scandinavia,ca
-8056,,Fenrir,scandinavia,ca
-8057,,Firdene,scandinavia,ca
-8058,,Forgyldte Fisk,scandinavia,ca
-8059,,Fredriksværn,scandinavia,ca
-8060,,Freja,scandinavia,ca
-8061,,Frey,scandinavia,ca
-8062,,Frigg,scandinavia,ca
-8063,,Fylgia,scandinavia,ca
-8064,,Garm,scandinavia,ca
-8065,,Geirskogul,scandinavia,ca
-8066,,Glimt,scandinavia,ca
-8067,,Gnist,scandinavia,ca
-8068,,Gorm,scandinavia,ca
-8069,,Göta,scandinavia,ca
-8070,,Göta Lejon,scandinavia,ca
-8071,,Gotland,scandinavia,ca
-8072,,Grenene,scandinavia,ca
-8073,,Gripen,scandinavia,ca
-8074,,Hålogaland,scandinavia,ca
-8075,,Håløygene,scandinavia,ca
-8076,,Havfruen,scandinavia,ca
-8077,,Havmand,scandinavia,ca
-8078,,Heimdall,scandinavia,ca
-8079,,Helgoland,scandinavia,ca
-8080,,Hemnæs,scandinavia,ca
-8081,,Hervor,scandinavia,ca
-8082,,Hessa,scandinavia,ca
-8083,,Hordene,scandinavia,ca
-8084,,Hrym,scandinavia,ca
-8085,,Huginn,scandinavia,ca
-8086,,Hummer,scandinavia,ca
-8087,,Hvide Falk,scandinavia,ca
-8088,,Jægare,scandinavia,ca
-8089,,Jormungand,scandinavia,ca
-8090,,Kalmar Bark,scandinavia,ca
-8091,,Knud Rasmussen,scandinavia,ca
-8092,,Lauge Koch,scandinavia,ca
-8093,,Lindormen,scandinavia,ca
-8094,,Loki,scandinavia,ca
-8095,,Lolland,scandinavia,ca
-8096,,Lougen,scandinavia,ca
-8097,,Manligheten,scandinavia,ca
-8098,,Memnon,scandinavia,ca
-8099,,Midgard,scandinavia,ca
-8100,,Mimir,scandinavia,ca
-8101,,Mjolnir,scandinavia,ca
-8102,,Møre og Romsdal,scandinavia,ca
-8103,,Mørene,scandinavia,ca
-8104,,Najaden,scandinavia,ca
-8105,,Namdølene,scandinavia,ca
-8106,,Nordmøringene,scandinavia,ca
-8107,,Nymfen,scandinavia,ca
-8108,,Oppland,scandinavia,ca
-8109,,Peder Skram,scandinavia,ca
-8110,,Psilander,scandinavia,ca
-8111,,Ranrike,scandinavia,ca
-8112,,Röda Lejon,scandinavia,ca
-8113,,Rolf Krake,scandinavia,ca
-8114,,Romsdølene,scandinavia,ca
-8115,,Rota,scandinavia,ca
-8116,,Rygene,scandinavia,ca
-8117,,Samsøe,scandinavia,ca
-8118,,Sejer,scandinavia,ca
-8119,,Sif,scandinavia,ca
-8120,,Skadi,scandinavia,ca
-8121,,Skirnir,scandinavia,ca
-8122,,Skotska Pincka,scandinavia,ca
-8123,,Skudd,scandinavia,ca
-8124,,Spraglede Falk,scandinavia,ca
-8125,,Statsraad Erichsen,scandinavia,ca
-8126,,Steil,scandinavia,ca
-8127,,stórskip,scandinavia,ca
-8128,,Surt,scandinavia,ca
-8129,,Svenska Morian,scandinavia,ca
-8130,,Sverige,scandinavia,ca
-8131,,Sygnene,scandinavia,ca
-8132,,Tapperheten,scandinavia,ca
-8133,,Thrud,scandinavia,ca
-8134,,Thule,scandinavia,ca
-8135,,Tordenskjold,scandinavia,ca
-8136,,Tranheje,scandinavia,ca
-8137,,Tre Kroner,scandinavia,ca
-8138,,Tre Lejon,scandinavia,ca
-8139,,Trønderne,scandinavia,ca
-8140,,Ullr,scandinavia,ca
-8141,,Valhalla,scandinavia,ca
-8142,,Valkyrie,scandinavia,ca
-8143,,Vidar,scandinavia,ca
-8144,,Viken,scandinavia,ca
-8145,,Vikverjene,scandinavia,ca
-8146,,Vindhund,scandinavia,ca
-8147,,Wasa,scandinavia,ca
-8148,,Yggdrasil,scandinavia,ca
-8149,,Acanthus,scandinavia,cl
-8150,,Æger,scandinavia,cl
-8151,,Aggershus,scandinavia,cl
-8152,,Alv,scandinavia,cl
-8153,,Amarant,scandinavia,cl
-8154,,Andvari,scandinavia,cl
-8155,,Arendal,scandinavia,cl
-8156,,August Naerø,scandinavia,cl
-8157,,Axel Thorsen,scandinavia,cl
-8158,,Bergholm,scandinavia,cl
-8159,,Bjerk,scandinavia,cl
-8160,,Blåsel,scandinavia,cl
-8161,,Bodø,scandinavia,cl
-8162,,Borgersamfundet,scandinavia,cl
-8163,,Bork,scandinavia,cl
-8164,,Bragi,scandinavia,cl
-8165,,Carlskrona,scandinavia,cl
-8166,,Dag,scandinavia,cl
-8167,,Dagmar,scandinavia,cl
-8168,,Dannebrog,scandinavia,cl
-8169,,Delling,scandinavia,cl
-8170,,Delmenhorst,scandinavia,cl
-8171,,Dis,scandinavia,cl
-8172,,Egil,scandinavia,cl
-8173,,Eglantine,scandinavia,cl
-8174,,Elli,scandinavia,cl
-8175,,Elven,scandinavia,cl
-8176,,Embla,scandinavia,cl
-8177,,Erik,scandinavia,cl
-8178,,Eskdale,scandinavia,cl
-8179,,Fenix,scandinavia,cl
-8180,,Flådebatteri,scandinavia,cl
-8181,,Forseti,scandinavia,cl
-8182,,Freya,scandinavia,cl
-8183,,Freydis,scandinavia,cl
-8184,,Gävle,scandinavia,cl
-8185,,Gefle,scandinavia,cl
-8186,,Gisli,scandinavia,cl
-8187,,Gjallarhorn,scandinavia,cl
-8188,,Glaisdale,scandinavia,cl
-8189,,Göteborg,scandinavia,cl
-8190,,Gunnar,scandinavia,cl
-8191,,Halfdan,scandinavia,cl
-8192,,Härnösand,scandinavia,cl
-8193,,Hati,scandinavia,cl
-8194,,Helga,scandinavia,cl
-8195,,Hellen,scandinavia,cl
-8196,,Helsingborg,scandinavia,cl
-8197,,Heyre,scandinavia,cl
-8198,,Hielperen,scandinavia,cl
-8199,,Hinnøy,scandinavia,cl
-8200,,Hirsholm,scandinavia,cl
-8201,,Hitra,scandinavia,cl
-8202,,Hod,scandinavia,cl
-8203,,Højenhald,scandinavia,cl
-8204,,Holsteen,scandinavia,cl
-8205,,Honningsvåg,scandinavia,cl
-8206,,Hrungnir,scandinavia,cl
-8207,,Hvide Ørn,scandinavia,cl
-8208,,Indfødsretten,scandinavia,cl
-8209,,Ivar,scandinavia,cl
-8210,,Jarramas,scandinavia,cl
-8211,,jeløy,scandinavia,cl
-8212,,Jofur,scandinavia,cl
-8213,,Jord,scandinavia,cl
-8214,,Jylland,scandinavia,cl
-8215,,Kalmar,scandinavia,cl
-8216,,Kari,scandinavia,cl
-8217,,Karlstad,scandinavia,cl
-8218,,Ketil,scandinavia,cl
-8219,,Kongens Jagt Krone,scandinavia,cl
-8220,,Kronborg,scandinavia,cl
-8221,,Lagerbielke,scandinavia,cl
-8222,,Langskip,scandinavia,cl
-8223,,Leif,scandinavia,cl
-8224,,Leopard,scandinavia,cl
-8225,,Løvendals Galei,scandinavia,cl
-8226,,Malmö,scandinavia,cl
-8227,,Malmøya,scandinavia,cl
-8228,,Måløy,scandinavia,cl
-8229,,Mane,scandinavia,cl
-8230,,Mani,scandinavia,cl
-8231,,Merkurius,scandinavia,cl
-8232,,Modi,scandinavia,cl
-8233,,Monikendam,scandinavia,cl
-8234,,Montbretia,scandinavia,cl
-8235,,Møvik,scandinavia,cl
-8236,,Naja,scandinavia,cl
-8237,,Najaden,scandinavia,cl
-8238,,Nordkapp,scandinavia,cl
-8239,,Nordstjernen,scandinavia,cl
-8240,,Nordyn,scandinavia,cl
-8241,,Nornen,scandinavia,cl
-8242,,Nott,scandinavia,cl
-8243,,Nyborg,scandinavia,cl
-8244,,Nyckeln,scandinavia,cl
-8245,,Nyköping,scandinavia,cl
-8246,,Oddane,scandinavia,cl
-8247,,Oksøy,scandinavia,cl
-8248,,Orädd,scandinavia,cl
-8249,,Orkla,scandinavia,cl
-8250,,Orm,scandinavia,cl
-8251,,Ormen,scandinavia,cl
-8252,,Ørnen,scandinavia,cl
-8253,,Osternes,scandinavia,cl
-8254,,Otra,scandinavia,cl
-8255,,Pelikan,scandinavia,cl
-8256,,Petter B Salen,scandinavia,cl
-8257,,Postillion,scandinavia,cl
-8258,,Potentilla,scandinavia,cl
-8259,,Prøvesteenen,scandinavia,cl
-8260,,Raae,scandinavia,cl
-8261,,Ragnar,scandinavia,cl
-8262,,Ran,scandinavia,cl
-8263,,Rauma,scandinavia,cl
-8264,,Rendsborg,scandinavia,cl
-8265,,Saga,scandinavia,cl
-8266,,Saltholm,scandinavia,cl
-8267,,Saturnus,scandinavia,cl
-8268,,Sigurd Ring,scandinavia,cl
-8269,,skeið,scandinavia,cl
-8270,,Skjøn Valborg,scandinavia,cl
-8271,,Skoll,scandinavia,cl
-8272,,Skule,scandinavia,cl
-8273,,Sleipner,scandinavia,cl
-8274,,Snekkja,scandinavia,cl
-8275,,Snotra,scandinavia,cl
-8276,,Søehesten,scandinavia,cl
-8277,,Sol,scandinavia,cl
-8278,,Solen,scandinavia,cl
-8279,,Søridder,scandinavia,cl
-8280,,Starkad,scandinavia,cl
-8281,,Sundsvall,scandinavia,cl
-8282,,Svaerdfisken,scandinavia,cl
-8283,,Svalan,scandinavia,cl
-8284,,Svärdet,scandinavia,cl
-8285,,Svein,scandinavia,cl
-8286,,Svenska Lejonet,scandinavia,cl
-8287,,Svolder,scandinavia,cl
-8288,,Tangen,scandinavia,cl
-8289,,Tanngnjostr,scandinavia,cl
-8290,,Tanngrisnir,scandinavia,cl
-8291,,Thorkell,scandinavia,cl
-8292,,Thorodd,scandinavia,cl
-8293,,Torstein,scandinavia,cl
-8294,,Tromøy,scandinavia,cl
-8295,,Ulf,scandinavia,cl
-8296,,Ulven,scandinavia,cl
-8297,,Valkyrian,scandinavia,cl
-8298,,Ve,scandinavia,cl
-8299,,Vefsna,scandinavia,cl
-8300,,Vegeir,scandinavia,cl
-8301,,Vestervik,scandinavia,cl
-8302,,Vidblain,scandinavia,cl
-8303,,Vili,scandinavia,cl
-8304,,Visby,scandinavia,cl
-8305,,Wagrien,scandinavia,cl
-8306,,Wismar,scandinavia,cl
-8307,,Wrangels Palats,scandinavia,cl
-8308,,Ymer,scandinavia,cl
-8309,,Aarösund,scandinavia,dd
-8310,,Agder,scandinavia,dd
-8311,,Ålesund,scandinavia,dd
-8312,,Alssund,scandinavia,dd
-8313,,Andenes,scandinavia,dd
-8314,,Arholma,scandinavia,dd
-8315,,Asvig,scandinavia,dd
-8316,,Beskytteren,scandinavia,dd
-8317,,Bille,scandinavia,dd
-8318,,Blekinge,scandinavia,dd
-8319,,Borgsund,scandinavia,dd
-8320,,Brage,scandinavia,dd
-8321,,Bredal,scandinavia,dd
-8322,,Daphne,scandinavia,dd
-8323,,Draug,scandinavia,dd
-8324,,Drottningholm,scandinavia,dd
-8325,,Dryaden,scandinavia,dd
-8326,,Dygden,scandinavia,dd
-8327,,Egernsund,scandinavia,dd
-8328,,Ehrensköld,scandinavia,dd
-8329,,Eigun,scandinavia,dd
-8330,,Elfsborg,scandinavia,dd
-8331,,Enigheten,scandinavia,dd
-8332,,Estland,scandinavia,dd
-8333,,Fäderneslandet,scandinavia,dd
-8334,,Falken,scandinavia,dd
-8335,,Falster,scandinavia,dd
-8336,,Flyvefisken,scandinavia,dd
-8337,,Försiktigheten,scandinavia,dd
-8338,,Friheten,scandinavia,dd
-8339,,Frøya,scandinavia,dd
-8340,,Fylla,scandinavia,dd
-8341,,Garsøy,scandinavia,dd
-8342,,Glenten,scandinavia,dd
-8343,,Glommen,scandinavia,dd
-8344,,Gor,scandinavia,dd
-8345,,Gotha,scandinavia,dd
-8346,,Gribben,scandinavia,dd
-8347,,Grönsund,scandinavia,dd
-8348,,Guldborgsund,scandinavia,dd
-8349,,Gustav den Store,scandinavia,dd
-8350,,Gustav IV Adolf,scandinavia,dd
-8351,,Haien,scandinavia,dd
-8352,,Halmstad,scandinavia,dd
-8353,,Haugesund,scandinavia,dd
-8354,,Havkatten,scandinavia,dd
-8355,,Havmanden,scandinavia,dd
-8356,,Hugin,scandinavia,dd
-8357,,Hvidbornen,scandinavia,dd
-8358,,Ingolf,scandinavia,dd
-8359,,Jönköping,scandinavia,dd
-8360,,Klas Horn,scandinavia,dd
-8361,,Klas Uggla,scandinavia,dd
-8362,,Koster,scandinavia,dd
-8363,,Krieger,scandinavia,dd
-8364,,Kronoberg,scandinavia,dd
-8365,,Kronskepp,scandinavia,dd
-8366,,Kullen,scandinavia,dd
-8367,,Lafjord,scandinavia,dd
-8368,,Landsort,scandinavia,dd
-8369,,Langeland,scandinavia,dd
-8370,,Laugen,scandinavia,dd
-8371,,Laxen,scandinavia,dd
-8372,,Livland,scandinavia,dd
-8373,,Lommen,scandinavia,dd
-8374,,Lossen,scandinavia,dd
-8375,,Luleå,scandinavia,dd
-8376,,Magne,scandinavia,dd
-8377,,Makrelen,scandinavia,dd
-8378,,Maursund,scandinavia,dd
-8379,,Mode,scandinavia,dd
-8380,,Moen,scandinavia,dd
-8381,,Mosvig,scandinavia,dd
-8382,,Munin,scandinavia,dd
-8383,,Narhvalen,scandinavia,dd
-8384,,Niels Ebbesen,scandinavia,dd
-8385,,Nor,scandinavia,dd
-8386,,Norby,scandinavia,dd
-8387,,Nordenskjöld,scandinavia,dd
-8388,,Norrköping,scandinavia,dd
-8389,,Nya Riga,scandinavia,dd
-8390,,Öland,scandinavia,dd
-8391,,Olav Tryggvason,scandinavia,dd
-8392,,Ömheten,scandinavia,dd
-8393,,Oösund,scandinavia,dd
-8394,,Örebro,scandinavia,dd
-8395,,Ösel,scandinavia,dd
-8396,,Patrioten Georg,scandinavia,dd
-8397,,Peter Tordenskjold,scandinavia,dd
-8398,,Puke,scandinavia,dd
-8399,,Ran,scandinavia,dd
-8400,,Rättvisan,scandinavia,dd
-8401,,Ravnen,scandinavia,dd
-8402,,Reinøysund,scandinavia,dd
-8403,,Rodsteen,scandinavia,dd
-8404,,Rotsund,scandinavia,dd
-8405,,Sadvig,scandinavia,dd
-8406,,Sælen,scandinavia,dd
-8407,,Saelvig,scandinavia,dd
-8408,,Sehested,scandinavia,dd
-8409,,Skaden,scandinavia,dd
-8410,,Skaftö,scandinavia,dd
-8411,,Skåne,scandinavia,dd
-8412,,Småland,scandinavia,dd
-8413,,Søbjørnen,scandinavia,dd
-8414,,Søhesten,scandinavia,dd
-8415,,Søhunden,scandinavia,dd
-8416,,Søløven,scandinavia,dd
-8417,,Søridderen,scandinavia,dd
-8418,,Sørøysund,scandinavia,dd
-8419,,Søulven,scandinavia,dd
-8420,,Spårö,scandinavia,dd
-8421,,Sparre,scandinavia,dd
-8422,,Springeren,scandinavia,dd
-8423,,Stettin,scandinavia,dd
-8424,,Støren,scandinavia,dd
-8425,,Stralsund,scandinavia,dd
-8426,,Sturkö,scandinavia,dd
-8427,,Styrsö,scandinavia,dd
-8428,,Suenson,scandinavia,dd
-8429,,Svalbard,scandinavia,dd
-8430,,Svenske Sophia,scandinavia,dd
-8431,,Teist,scandinavia,dd
-8432,,Thorbjorn Hornklove,scandinavia,dd
-8433,,Titran,scandinavia,dd
-8434,,Trelleborg,scandinavia,dd
-8435,,Troll,scandinavia,dd
-8436,,Tromsø,scandinavia,dd
-8437,,Tumleren,scandinavia,dd
-8438,,Uddevalla,scandinavia,dd
-8439,,Ulvön,scandinavia,dd
-8440,,Ulvsund,scandinavia,dd
-8441,,Vale,scandinavia,dd
-8442,,Valkyrien,scandinavia,dd
-8443,,Vanadis,scandinavia,dd
-8444,,Värmland,scandinavia,dd
-8445,,Västmanland,scandinavia,dd
-8446,,Västra Götaland,scandinavia,dd
-8447,,Ven,scandinavia,dd
-8448,,Viben,scandinavia,dd
-8449,,Viking,scandinavia,dd
-8450,,Vilsund,scandinavia,dd
-8451,,Vindhunden,scandinavia,dd
-8452,,Vinga,scandinavia,dd
-8453,,Vladislaff,scandinavia,dd
-8454,,Wachtmeister,scandinavia,dd
-8455,,Wale,scandinavia,dd
-8456,,Warberg,scandinavia,dd
-8457,,Wenden,scandinavia,dd
-8458,,Westmanland,scandinavia,dd
-8459,,Wrangel,scandinavia,dd
-8460,,Wrede,scandinavia,dd
-8461,,Aeger,scandinavia,dd
-8462,,Åhav,scandinavia,dd
-8463,,Alversund,scandinavia,dd
-8464,,Barentshav,scandinavia,dd
-8465,,Brand,scandinavia,dd
-8466,,Delfin,scandinavia,dd
-8467,,Einarr Þambarskelfir,scandinavia,dd
-8468,,Ellida,scandinavia,dd
-8469,,Gyller,scandinavia,dd
-8470,,Hai,scandinavia,dd
-8471,,Harstad,scandinavia,dd
-8472,,Hval,scandinavia,dd
-8473,,knórr,scandinavia,dd
-8474,,Kongsøy,scandinavia,dd
-8475,,Kvalsund,scandinavia,dd
-8476,,Laks,scandinavia,dd
-8477,,Nysleppen,scandinavia,dd
-8478,,Raftsund,scandinavia,dd
-8479,,Raider,scandinavia,dd
-8480,,Raud,scandinavia,dd
-8481,,Sæl,scandinavia,dd
-8482,,Sild,scandinavia,dd
-8483,,Sjøveien,scandinavia,dd
-8484,,Skrei,scandinavia,dd
-8485,,Stålbas,scandinavia,dd
-8486,,Storm,scandinavia,dd
-8487,,Thorsteinson,scandinavia,dd
-8488,,Tjeldsund,scandinavia,dd
-8489,,Torsteinson,scandinavia,dd
-8490,,Trods,scandinavia,dd
-8491,,Uller,scandinavia,dd
-8492,,Narwhal,scandinavia,ss
+7899,,barði,scandinavia,bb,,,,,,
+7900,,Berserk,scandinavia,bb,,,,,,
+7901,,Björn,scandinavia,bb,,,,,,
+7902,,Brämaren,scandinavia,bb,,,,,,
+7903,,Churprinds,scandinavia,bb,,,,,,
+7904,,Drage,scandinavia,bb,,,,,,
+7905,,Eidsvold,scandinavia,bb,,,,,,
+7906,,Engel,scandinavia,bb,,,,,,
+7907,,Enhörning,scandinavia,bb,,,,,,
+7908,,Enighed,scandinavia,bb,,,,,,
+7909,,Esbern Snare,scandinavia,bb,,,,,,
+7910,,Fenris,scandinavia,bb,,,,,,
+7911,,Finska Svan,scandinavia,bb,,,,,,
+7912,,Folke,scandinavia,bb,,,,,,
+7913,,Förgylta Dufva,scandinavia,bb,,,,,,
+7914,,Garmer,scandinavia,bb,,,,,,
+7915,,Gerda,scandinavia,bb,,,,,,
+7916,,Gustav Vasa,scandinavia,bb,,,,,,
+7917,,Gyldenløve,scandinavia,bb,,,,,,
+7918,,Haakon Haakonsson,scandinavia,bb,,,,,,
+7919,,Harald Fairhair,scandinavia,bb,,,,,,
+7920,,Harald Haarfarge,scandinavia,bb,,,,,,
+7921,,Hildur,scandinavia,bb,,,,,,
+7922,,Hjort,scandinavia,bb,,,,,,
+7923,,Iver Huitfeldt,scandinavia,bb,,,,,,
+7924,,Járnbarðinn,scandinavia,bb,,,,,,
+7925,,Jegermesther,scandinavia,bb,,,,,,
+7926,,Knut the Great,scandinavia,bb,,,,,,
+7927,,København,scandinavia,bb,,,,,,
+7928,,Lindorm,scandinavia,bb,,,,,,
+7929,,Loke,scandinavia,bb,,,,,,
+7930,,Magnus Barefoot,scandinavia,bb,,,,,,
+7931,,Makalös,scandinavia,bb,,,,,,
+7932,,Nelleblad,scandinavia,bb,,,,,,
+7933,,Norske Løve,scandinavia,bb,,,,,,
+7934,,Odin,scandinavia,bb,,,,,,
+7935,,Patienta,scandinavia,bb,,,,,,
+7936,,Röda Hund,scandinavia,bb,,,,,,
+7937,,Sköld,scandinavia,bb,,,,,,
+7938,,Skotske,scandinavia,bb,,,,,,
+7939,,Slesvig,scandinavia,bb,,,,,,
+7940,,Sölve,scandinavia,bb,,,,,,
+7941,,Sorte Rytter,scandinavia,bb,,,,,,
+7942,,Spes,scandinavia,bb,,,,,,
+7943,,Sten Sture,scandinavia,bb,,,,,,
+7944,,Stockholms Hjort,scandinavia,bb,,,,,,
+7945,,Stord,scandinavia,bb,,,,,,
+7946,,Súð,scandinavia,bb,,,,,,
+7947,,Svea,scandinavia,bb,,,,,,
+7948,,Svenner,scandinavia,bb,,,,,,
+7949,,Svenska Hektor,scandinavia,bb,,,,,,
+7950,,Thor,scandinavia,bb,,,,,,
+7951,,Thordön,scandinavia,bb,,,,,,
+7952,,Tirfing,scandinavia,bb,,,,,,
+7953,,Tre Løver,scandinavia,bb,,,,,,
+7954,,Trefoldighed,scandinavia,bb,,,,,,
+7955,,Tyr,scandinavia,bb,,,,,,
+7956,,Ula,scandinavia,bb,,,,,,
+7957,,Uredd,scandinavia,bb,,,,,,
+7958,,Uthaug,scandinavia,bb,,,,,,
+7959,,Utsira,scandinavia,bb,,,,,,
+7960,,Utstein,scandinavia,bb,,,,,,
+7961,,Utvaer,scandinavia,bb,,,,,,
+7962,,Valdemar,scandinavia,bb,,,,,,
+7963,,Vasa,scandinavia,bb,,,,,,
+7964,,Astrid,scandinavia,bc,,,,,,
+7965,,Bävern,scandinavia,bc,,,,,,
+7966,,Bergen,scandinavia,bc,,,,,,
+7967,,Beskjermer,scandinavia,bc,,,,,,
+7968,,Bjørgvin,scandinavia,bc,,,,,,
+7969,,Bruna Lejon,scandinavia,bc,,,,,,
+7970,,Bússa,scandinavia,bc,,,,,,
+7971,,Daneborg,scandinavia,bc,,,,,,
+7972,,Dannebroge,scandinavia,bc,,,,,,
+7973,,Delfinen,scandinavia,bc,,,,,,
+7974,,Desideria,scandinavia,bc,,,,,,
+7975,,Ditmarsken,scandinavia,bc,,,,,,
+7976,,Draken,scandinavia,bc,,,,,,
+7977,,Dreki,scandinavia,bc,,,,,,
+7978,,Erik Segersäll,scandinavia,bc,,,,,,
+7979,,Flyvende Hjort,scandinavia,bc,,,,,,
+7980,,Fridtjof Nansen,scandinavia,bc,,,,,,
+7981,,Fyen,scandinavia,bc,,,,,,
+7982,,Grønland,scandinavia,bc,,,,,,
+7983,,Gudrun,scandinavia,bc,,,,,,
+7984,,Haffru,scandinavia,bc,,,,,,
+7985,,Håkon the Good,scandinavia,bc,,,,,,
+7986,,Halland,scandinavia,bc,,,,,,
+7987,,Hälsingland,scandinavia,bc,,,,,,
+7988,,Hel,scandinavia,bc,,,,,,
+7989,,Herluf Trolle,scandinavia,bc,,,,,,
+7990,,Hvidbjørnen,scandinavia,bc,,,,,,
+7991,,Illern,scandinavia,bc,,,,,,
+7992,,Ingrid,scandinavia,bc,,,,,,
+7993,,Kjøbenhavn,scandinavia,bc,,,,,,
+7994,,Kristsuden,scandinavia,bc,,,,,,
+7995,,Laaland,scandinavia,bc,,,,,,
+7996,,Lilla Hjort,scandinavia,bc,,,,,,
+7997,,Najad,scandinavia,bc,,,,,,
+7998,,Nidaros,scandinavia,bc,,,,,,
+7999,,Njord,scandinavia,bc,,,,,,
+8000,,Nordkaparen,scandinavia,bc,,,,,,
+8001,,Norge,scandinavia,bc,,,,,,
+8002,,Olfert Fischer,scandinavia,bc,,,,,,
+8003,,Øresund,scandinavia,bc,,,,,,
+8004,,Ormen Lange,scandinavia,bc,,,,,,
+8005,,Ormrinn langi,scandinavia,bc,,,,,,
+8006,,Östergötland,scandinavia,bc,,,,,,
+8007,,Otto Sverdrup,scandinavia,bc,,,,,,
+8008,,Ragnhild,scandinavia,bc,,,,,,
+8009,,Roald Amundsen,scandinavia,bc,,,,,,
+8010,,Röda Gripen,scandinavia,bc,,,,,,
+8011,,Sälen,scandinavia,bc,,,,,,
+8012,,Sejeren,scandinavia,bc,,,,,,
+8013,,Senja,scandinavia,bc,,,,,,
+8014,,Sigurd,scandinavia,bc,,,,,,
+8015,,Sjælland,scandinavia,bc,,,,,,
+8016,,Sjöbjörnen,scandinavia,bc,,,,,,
+8017,,Sjöhästen,scandinavia,bc,,,,,,
+8018,,Sjöhunden,scandinavia,bc,,,,,,
+8019,,Sjölejonet,scandinavia,bc,,,,,,
+8020,,Sjöormen,scandinavia,bc,,,,,,
+8021,,Skorpionen,scandinavia,bc,,,,,,
+8022,,Södermanland,scandinavia,bc,,,,,,
+8023,,Stavanger,scandinavia,bc,,,,,,
+8024,,Stormar,scandinavia,bc,,,,,,
+8025,,Thor Heyerdahl,scandinavia,bc,,,,,,
+8026,,Thrudvang,scandinavia,bc,,,,,,
+8027,,Tomler,scandinavia,bc,,,,,,
+8028,,Trondheim,scandinavia,bc,,,,,,
+8029,,Uppland,scandinavia,bc,,,,,,
+8030,,Uttern,scandinavia,bc,,,,,,
+8031,,Vaedderen,scandinavia,bc,,,,,,
+8032,,Valen,scandinavia,bc,,,,,,
+8033,,Vargen,scandinavia,bc,,,,,,
+8034,,Västergötland,scandinavia,bc,,,,,,
+8035,,Waldemar,scandinavia,bc,,,,,,
+8036,,Wenden,scandinavia,bc,,,,,,
+8037,,Aegir,scandinavia,ca,,,,,,
+8038,,Alfheim,scandinavia,ca,,,,,,
+8039,,Allart,scandinavia,ca,,,,,,
+8040,,Alsen,scandinavia,ca,,,,,,
+8041,,Äpplet,scandinavia,ca,,,,,,
+8042,,Äran,scandinavia,ca,,,,,,
+8043,,Baldur,scandinavia,ca,,,,,,
+8044,,Berserker,scandinavia,ca,,,,,,
+8045,,Brynhild,scandinavia,ca,,,,,,
+8046,,Claes Horn,scandinavia,ca,,,,,,
+8047,,Claes Uggla,scandinavia,ca,,,,,,
+8048,,Clas Fleming,scandinavia,ca,,,,,,
+8049,,Danmark,scandinavia,ca,,,,,,
+8050,,Dristigheten,scandinavia,ca,,,,,,
+8051,,Dynekilen,scandinavia,ca,,,,,,
+8052,,Egdene,scandinavia,ca,,,,,,
+8053,,Einherjar,scandinavia,ca,,,,,,
+8054,,Eir,scandinavia,ca,,,,,,
+8055,,Ejnar Mikkelsen,scandinavia,ca,,,,,,
+8056,,Fenrir,scandinavia,ca,,,,,,
+8057,,Firdene,scandinavia,ca,,,,,,
+8058,,Forgyldte Fisk,scandinavia,ca,,,,,,
+8059,,Fredriksværn,scandinavia,ca,,,,,,
+8060,,Freja,scandinavia,ca,,,,,,
+8061,,Frey,scandinavia,ca,,,,,,
+8062,,Frigg,scandinavia,ca,,,,,,
+8063,,Fylgia,scandinavia,ca,,,,,,
+8064,,Garm,scandinavia,ca,,,,,,
+8065,,Geirskogul,scandinavia,ca,,,,,,
+8066,,Glimt,scandinavia,ca,,,,,,
+8067,,Gnist,scandinavia,ca,,,,,,
+8068,,Gorm,scandinavia,ca,,,,,,
+8069,,Göta,scandinavia,ca,,,,,,
+8070,,Göta Lejon,scandinavia,ca,,,,,,
+8071,,Gotland,scandinavia,ca,,,,,,
+8072,,Grenene,scandinavia,ca,,,,,,
+8073,,Gripen,scandinavia,ca,,,,,,
+8074,,Hålogaland,scandinavia,ca,,,,,,
+8075,,Håløygene,scandinavia,ca,,,,,,
+8076,,Havfruen,scandinavia,ca,,,,,,
+8077,,Havmand,scandinavia,ca,,,,,,
+8078,,Heimdall,scandinavia,ca,,,,,,
+8079,,Helgoland,scandinavia,ca,,,,,,
+8080,,Hemnæs,scandinavia,ca,,,,,,
+8081,,Hervor,scandinavia,ca,,,,,,
+8082,,Hessa,scandinavia,ca,,,,,,
+8083,,Hordene,scandinavia,ca,,,,,,
+8084,,Hrym,scandinavia,ca,,,,,,
+8085,,Huginn,scandinavia,ca,,,,,,
+8086,,Hummer,scandinavia,ca,,,,,,
+8087,,Hvide Falk,scandinavia,ca,,,,,,
+8088,,Jægare,scandinavia,ca,,,,,,
+8089,,Jormungand,scandinavia,ca,,,,,,
+8090,,Kalmar Bark,scandinavia,ca,,,,,,
+8091,,Knud Rasmussen,scandinavia,ca,,,,,,
+8092,,Lauge Koch,scandinavia,ca,,,,,,
+8093,,Lindormen,scandinavia,ca,,,,,,
+8094,,Loki,scandinavia,ca,,,,,,
+8095,,Lolland,scandinavia,ca,,,,,,
+8096,,Lougen,scandinavia,ca,,,,,,
+8097,,Manligheten,scandinavia,ca,,,,,,
+8098,,Memnon,scandinavia,ca,,,,,,
+8099,,Midgard,scandinavia,ca,,,,,,
+8100,,Mimir,scandinavia,ca,,,,,,
+8101,,Mjolnir,scandinavia,ca,,,,,,
+8102,,Møre og Romsdal,scandinavia,ca,,,,,,
+8103,,Mørene,scandinavia,ca,,,,,,
+8104,,Najaden,scandinavia,ca,,,,,,
+8105,,Namdølene,scandinavia,ca,,,,,,
+8106,,Nordmøringene,scandinavia,ca,,,,,,
+8107,,Nymfen,scandinavia,ca,,,,,,
+8108,,Oppland,scandinavia,ca,,,,,,
+8109,,Peder Skram,scandinavia,ca,,,,,,
+8110,,Psilander,scandinavia,ca,,,,,,
+8111,,Ranrike,scandinavia,ca,,,,,,
+8112,,Röda Lejon,scandinavia,ca,,,,,,
+8113,,Rolf Krake,scandinavia,ca,,,,,,
+8114,,Romsdølene,scandinavia,ca,,,,,,
+8115,,Rota,scandinavia,ca,,,,,,
+8116,,Rygene,scandinavia,ca,,,,,,
+8117,,Samsøe,scandinavia,ca,,,,,,
+8118,,Sejer,scandinavia,ca,,,,,,
+8119,,Sif,scandinavia,ca,,,,,,
+8120,,Skadi,scandinavia,ca,,,,,,
+8121,,Skirnir,scandinavia,ca,,,,,,
+8122,,Skotska Pincka,scandinavia,ca,,,,,,
+8123,,Skudd,scandinavia,ca,,,,,,
+8124,,Spraglede Falk,scandinavia,ca,,,,,,
+8125,,Statsraad Erichsen,scandinavia,ca,,,,,,
+8126,,Steil,scandinavia,ca,,,,,,
+8127,,stórskip,scandinavia,ca,,,,,,
+8128,,Surt,scandinavia,ca,,,,,,
+8129,,Svenska Morian,scandinavia,ca,,,,,,
+8130,,Sverige,scandinavia,ca,,,,,,
+8131,,Sygnene,scandinavia,ca,,,,,,
+8132,,Tapperheten,scandinavia,ca,,,,,,
+8133,,Thrud,scandinavia,ca,,,,,,
+8134,,Thule,scandinavia,ca,,,,,,
+8135,,Tordenskjold,scandinavia,ca,,,,,,
+8136,,Tranheje,scandinavia,ca,,,,,,
+8137,,Tre Kroner,scandinavia,ca,,,,,,
+8138,,Tre Lejon,scandinavia,ca,,,,,,
+8139,,Trønderne,scandinavia,ca,,,,,,
+8140,,Ullr,scandinavia,ca,,,,,,
+8141,,Valhalla,scandinavia,ca,,,,,,
+8142,,Valkyrie,scandinavia,ca,,,,,,
+8143,,Vidar,scandinavia,ca,,,,,,
+8144,,Viken,scandinavia,ca,,,,,,
+8145,,Vikverjene,scandinavia,ca,,,,,,
+8146,,Vindhund,scandinavia,ca,,,,,,
+8147,,Wasa,scandinavia,ca,,,,,,
+8148,,Yggdrasil,scandinavia,ca,,,,,,
+8149,,Acanthus,scandinavia,cl,,,,,,
+8150,,Æger,scandinavia,cl,,,,,,
+8151,,Aggershus,scandinavia,cl,,,,,,
+8152,,Alv,scandinavia,cl,,,,,,
+8153,,Amarant,scandinavia,cl,,,,,,
+8154,,Andvari,scandinavia,cl,,,,,,
+8155,,Arendal,scandinavia,cl,,,,,,
+8156,,August Naerø,scandinavia,cl,,,,,,
+8157,,Axel Thorsen,scandinavia,cl,,,,,,
+8158,,Bergholm,scandinavia,cl,,,,,,
+8159,,Bjerk,scandinavia,cl,,,,,,
+8160,,Blåsel,scandinavia,cl,,,,,,
+8161,,Bodø,scandinavia,cl,,,,,,
+8162,,Borgersamfundet,scandinavia,cl,,,,,,
+8163,,Bork,scandinavia,cl,,,,,,
+8164,,Bragi,scandinavia,cl,,,,,,
+8165,,Carlskrona,scandinavia,cl,,,,,,
+8166,,Dag,scandinavia,cl,,,,,,
+8167,,Dagmar,scandinavia,cl,,,,,,
+8168,,Dannebrog,scandinavia,cl,,,,,,
+8169,,Delling,scandinavia,cl,,,,,,
+8170,,Delmenhorst,scandinavia,cl,,,,,,
+8171,,Dis,scandinavia,cl,,,,,,
+8172,,Egil,scandinavia,cl,,,,,,
+8173,,Eglantine,scandinavia,cl,,,,,,
+8174,,Elli,scandinavia,cl,,,,,,
+8175,,Elven,scandinavia,cl,,,,,,
+8176,,Embla,scandinavia,cl,,,,,,
+8177,,Erik,scandinavia,cl,,,,,,
+8178,,Eskdale,scandinavia,cl,,,,,,
+8179,,Fenix,scandinavia,cl,,,,,,
+8180,,Flådebatteri,scandinavia,cl,,,,,,
+8181,,Forseti,scandinavia,cl,,,,,,
+8182,,Freya,scandinavia,cl,,,,,,
+8183,,Freydis,scandinavia,cl,,,,,,
+8184,,Gävle,scandinavia,cl,,,,,,
+8185,,Gefle,scandinavia,cl,,,,,,
+8186,,Gisli,scandinavia,cl,,,,,,
+8187,,Gjallarhorn,scandinavia,cl,,,,,,
+8188,,Glaisdale,scandinavia,cl,,,,,,
+8189,,Göteborg,scandinavia,cl,,,,,,
+8190,,Gunnar,scandinavia,cl,,,,,,
+8191,,Halfdan,scandinavia,cl,,,,,,
+8192,,Härnösand,scandinavia,cl,,,,,,
+8193,,Hati,scandinavia,cl,,,,,,
+8194,,Helga,scandinavia,cl,,,,,,
+8195,,Hellen,scandinavia,cl,,,,,,
+8196,,Helsingborg,scandinavia,cl,,,,,,
+8197,,Heyre,scandinavia,cl,,,,,,
+8198,,Hielperen,scandinavia,cl,,,,,,
+8199,,Hinnøy,scandinavia,cl,,,,,,
+8200,,Hirsholm,scandinavia,cl,,,,,,
+8201,,Hitra,scandinavia,cl,,,,,,
+8202,,Hod,scandinavia,cl,,,,,,
+8203,,Højenhald,scandinavia,cl,,,,,,
+8204,,Holsteen,scandinavia,cl,,,,,,
+8205,,Honningsvåg,scandinavia,cl,,,,,,
+8206,,Hrungnir,scandinavia,cl,,,,,,
+8207,,Hvide Ørn,scandinavia,cl,,,,,,
+8208,,Indfødsretten,scandinavia,cl,,,,,,
+8209,,Ivar,scandinavia,cl,,,,,,
+8210,,Jarramas,scandinavia,cl,,,,,,
+8211,,jeløy,scandinavia,cl,,,,,,
+8212,,Jofur,scandinavia,cl,,,,,,
+8213,,Jord,scandinavia,cl,,,,,,
+8214,,Jylland,scandinavia,cl,,,,,,
+8215,,Kalmar,scandinavia,cl,,,,,,
+8216,,Kari,scandinavia,cl,,,,,,
+8217,,Karlstad,scandinavia,cl,,,,,,
+8218,,Ketil,scandinavia,cl,,,,,,
+8219,,Kongens Jagt Krone,scandinavia,cl,,,,,,
+8220,,Kronborg,scandinavia,cl,,,,,,
+8221,,Lagerbielke,scandinavia,cl,,,,,,
+8222,,Langskip,scandinavia,cl,,,,,,
+8223,,Leif,scandinavia,cl,,,,,,
+8224,,Leopard,scandinavia,cl,,,,,,
+8225,,Løvendals Galei,scandinavia,cl,,,,,,
+8226,,Malmö,scandinavia,cl,,,,,,
+8227,,Malmøya,scandinavia,cl,,,,,,
+8228,,Måløy,scandinavia,cl,,,,,,
+8229,,Mane,scandinavia,cl,,,,,,
+8230,,Mani,scandinavia,cl,,,,,,
+8231,,Merkurius,scandinavia,cl,,,,,,
+8232,,Modi,scandinavia,cl,,,,,,
+8233,,Monikendam,scandinavia,cl,,,,,,
+8234,,Montbretia,scandinavia,cl,,,,,,
+8235,,Møvik,scandinavia,cl,,,,,,
+8236,,Naja,scandinavia,cl,,,,,,
+8237,,Najaden,scandinavia,cl,,,,,,
+8238,,Nordkapp,scandinavia,cl,,,,,,
+8239,,Nordstjernen,scandinavia,cl,,,,,,
+8240,,Nordyn,scandinavia,cl,,,,,,
+8241,,Nornen,scandinavia,cl,,,,,,
+8242,,Nott,scandinavia,cl,,,,,,
+8243,,Nyborg,scandinavia,cl,,,,,,
+8244,,Nyckeln,scandinavia,cl,,,,,,
+8245,,Nyköping,scandinavia,cl,,,,,,
+8246,,Oddane,scandinavia,cl,,,,,,
+8247,,Oksøy,scandinavia,cl,,,,,,
+8248,,Orädd,scandinavia,cl,,,,,,
+8249,,Orkla,scandinavia,cl,,,,,,
+8250,,Orm,scandinavia,cl,,,,,,
+8251,,Ormen,scandinavia,cl,,,,,,
+8252,,Ørnen,scandinavia,cl,,,,,,
+8253,,Osternes,scandinavia,cl,,,,,,
+8254,,Otra,scandinavia,cl,,,,,,
+8255,,Pelikan,scandinavia,cl,,,,,,
+8256,,Petter B Salen,scandinavia,cl,,,,,,
+8257,,Postillion,scandinavia,cl,,,,,,
+8258,,Potentilla,scandinavia,cl,,,,,,
+8259,,Prøvesteenen,scandinavia,cl,,,,,,
+8260,,Raae,scandinavia,cl,,,,,,
+8261,,Ragnar,scandinavia,cl,,,,,,
+8262,,Ran,scandinavia,cl,,,,,,
+8263,,Rauma,scandinavia,cl,,,,,,
+8264,,Rendsborg,scandinavia,cl,,,,,,
+8265,,Saga,scandinavia,cl,,,,,,
+8266,,Saltholm,scandinavia,cl,,,,,,
+8267,,Saturnus,scandinavia,cl,,,,,,
+8268,,Sigurd Ring,scandinavia,cl,,,,,,
+8269,,skeið,scandinavia,cl,,,,,,
+8270,,Skjøn Valborg,scandinavia,cl,,,,,,
+8271,,Skoll,scandinavia,cl,,,,,,
+8272,,Skule,scandinavia,cl,,,,,,
+8273,,Sleipner,scandinavia,cl,,,,,,
+8274,,Snekkja,scandinavia,cl,,,,,,
+8275,,Snotra,scandinavia,cl,,,,,,
+8276,,Søehesten,scandinavia,cl,,,,,,
+8277,,Sol,scandinavia,cl,,,,,,
+8278,,Solen,scandinavia,cl,,,,,,
+8279,,Søridder,scandinavia,cl,,,,,,
+8280,,Starkad,scandinavia,cl,,,,,,
+8281,,Sundsvall,scandinavia,cl,,,,,,
+8282,,Svaerdfisken,scandinavia,cl,,,,,,
+8283,,Svalan,scandinavia,cl,,,,,,
+8284,,Svärdet,scandinavia,cl,,,,,,
+8285,,Svein,scandinavia,cl,,,,,,
+8286,,Svenska Lejonet,scandinavia,cl,,,,,,
+8287,,Svolder,scandinavia,cl,,,,,,
+8288,,Tangen,scandinavia,cl,,,,,,
+8289,,Tanngnjostr,scandinavia,cl,,,,,,
+8290,,Tanngrisnir,scandinavia,cl,,,,,,
+8291,,Thorkell,scandinavia,cl,,,,,,
+8292,,Thorodd,scandinavia,cl,,,,,,
+8293,,Torstein,scandinavia,cl,,,,,,
+8294,,Tromøy,scandinavia,cl,,,,,,
+8295,,Ulf,scandinavia,cl,,,,,,
+8296,,Ulven,scandinavia,cl,,,,,,
+8297,,Valkyrian,scandinavia,cl,,,,,,
+8298,,Ve,scandinavia,cl,,,,,,
+8299,,Vefsna,scandinavia,cl,,,,,,
+8300,,Vegeir,scandinavia,cl,,,,,,
+8301,,Vestervik,scandinavia,cl,,,,,,
+8302,,Vidblain,scandinavia,cl,,,,,,
+8303,,Vili,scandinavia,cl,,,,,,
+8304,,Visby,scandinavia,cl,,,,,,
+8305,,Wagrien,scandinavia,cl,,,,,,
+8306,,Wismar,scandinavia,cl,,,,,,
+8307,,Wrangels Palats,scandinavia,cl,,,,,,
+8308,,Ymer,scandinavia,cl,,,,,,
+8309,,Aarösund,scandinavia,dd,,,,,,
+8310,,Agder,scandinavia,dd,,,,,,
+8311,,Ålesund,scandinavia,dd,,,,,,
+8312,,Alssund,scandinavia,dd,,,,,,
+8313,,Andenes,scandinavia,dd,,,,,,
+8314,,Arholma,scandinavia,dd,,,,,,
+8315,,Asvig,scandinavia,dd,,,,,,
+8316,,Beskytteren,scandinavia,dd,,,,,,
+8317,,Bille,scandinavia,dd,,,,,,
+8318,,Blekinge,scandinavia,dd,,,,,,
+8319,,Borgsund,scandinavia,dd,,,,,,
+8320,,Brage,scandinavia,dd,,,,,,
+8321,,Bredal,scandinavia,dd,,,,,,
+8322,,Daphne,scandinavia,dd,,,,,,
+8323,,Draug,scandinavia,dd,,,,,,
+8324,,Drottningholm,scandinavia,dd,,,,,,
+8325,,Dryaden,scandinavia,dd,,,,,,
+8326,,Dygden,scandinavia,dd,,,,,,
+8327,,Egernsund,scandinavia,dd,,,,,,
+8328,,Ehrensköld,scandinavia,dd,,,,,,
+8329,,Eigun,scandinavia,dd,,,,,,
+8330,,Elfsborg,scandinavia,dd,,,,,,
+8331,,Enigheten,scandinavia,dd,,,,,,
+8332,,Estland,scandinavia,dd,,,,,,
+8333,,Fäderneslandet,scandinavia,dd,,,,,,
+8334,,Falken,scandinavia,dd,,,,,,
+8335,,Falster,scandinavia,dd,,,,,,
+8336,,Flyvefisken,scandinavia,dd,,,,,,
+8337,,Försiktigheten,scandinavia,dd,,,,,,
+8338,,Friheten,scandinavia,dd,,,,,,
+8339,,Frøya,scandinavia,dd,,,,,,
+8340,,Fylla,scandinavia,dd,,,,,,
+8341,,Garsøy,scandinavia,dd,,,,,,
+8342,,Glenten,scandinavia,dd,,,,,,
+8343,,Glommen,scandinavia,dd,,,,,,
+8344,,Gor,scandinavia,dd,,,,,,
+8345,,Gotha,scandinavia,dd,,,,,,
+8346,,Gribben,scandinavia,dd,,,,,,
+8347,,Grönsund,scandinavia,dd,,,,,,
+8348,,Guldborgsund,scandinavia,dd,,,,,,
+8349,,Gustav den Store,scandinavia,dd,,,,,,
+8350,,Gustav IV Adolf,scandinavia,dd,,,,,,
+8351,,Haien,scandinavia,dd,,,,,,
+8352,,Halmstad,scandinavia,dd,,,,,,
+8353,,Haugesund,scandinavia,dd,,,,,,
+8354,,Havkatten,scandinavia,dd,,,,,,
+8355,,Havmanden,scandinavia,dd,,,,,,
+8356,,Hugin,scandinavia,dd,,,,,,
+8357,,Hvidbornen,scandinavia,dd,,,,,,
+8358,,Ingolf,scandinavia,dd,,,,,,
+8359,,Jönköping,scandinavia,dd,,,,,,
+8360,,Klas Horn,scandinavia,dd,,,,,,
+8361,,Klas Uggla,scandinavia,dd,,,,,,
+8362,,Koster,scandinavia,dd,,,,,,
+8363,,Krieger,scandinavia,dd,,,,,,
+8364,,Kronoberg,scandinavia,dd,,,,,,
+8365,,Kronskepp,scandinavia,dd,,,,,,
+8366,,Kullen,scandinavia,dd,,,,,,
+8367,,Lafjord,scandinavia,dd,,,,,,
+8368,,Landsort,scandinavia,dd,,,,,,
+8369,,Langeland,scandinavia,dd,,,,,,
+8370,,Laugen,scandinavia,dd,,,,,,
+8371,,Laxen,scandinavia,dd,,,,,,
+8372,,Livland,scandinavia,dd,,,,,,
+8373,,Lommen,scandinavia,dd,,,,,,
+8374,,Lossen,scandinavia,dd,,,,,,
+8375,,Luleå,scandinavia,dd,,,,,,
+8376,,Magne,scandinavia,dd,,,,,,
+8377,,Makrelen,scandinavia,dd,,,,,,
+8378,,Maursund,scandinavia,dd,,,,,,
+8379,,Mode,scandinavia,dd,,,,,,
+8380,,Moen,scandinavia,dd,,,,,,
+8381,,Mosvig,scandinavia,dd,,,,,,
+8382,,Munin,scandinavia,dd,,,,,,
+8383,,Narhvalen,scandinavia,dd,,,,,,
+8384,,Niels Ebbesen,scandinavia,dd,,,,,,
+8385,,Nor,scandinavia,dd,,,,,,
+8386,,Norby,scandinavia,dd,,,,,,
+8387,,Nordenskjöld,scandinavia,dd,,,,,,
+8388,,Norrköping,scandinavia,dd,,,,,,
+8389,,Nya Riga,scandinavia,dd,,,,,,
+8390,,Öland,scandinavia,dd,,,,,,
+8391,,Olav Tryggvason,scandinavia,dd,,,,,,
+8392,,Ömheten,scandinavia,dd,,,,,,
+8393,,Oösund,scandinavia,dd,,,,,,
+8394,,Örebro,scandinavia,dd,,,,,,
+8395,,Ösel,scandinavia,dd,,,,,,
+8396,,Patrioten Georg,scandinavia,dd,,,,,,
+8397,,Peter Tordenskjold,scandinavia,dd,,,,,,
+8398,,Puke,scandinavia,dd,,,,,,
+8399,,Ran,scandinavia,dd,,,,,,
+8400,,Rättvisan,scandinavia,dd,,,,,,
+8401,,Ravnen,scandinavia,dd,,,,,,
+8402,,Reinøysund,scandinavia,dd,,,,,,
+8403,,Rodsteen,scandinavia,dd,,,,,,
+8404,,Rotsund,scandinavia,dd,,,,,,
+8405,,Sadvig,scandinavia,dd,,,,,,
+8406,,Sælen,scandinavia,dd,,,,,,
+8407,,Saelvig,scandinavia,dd,,,,,,
+8408,,Sehested,scandinavia,dd,,,,,,
+8409,,Skaden,scandinavia,dd,,,,,,
+8410,,Skaftö,scandinavia,dd,,,,,,
+8411,,Skåne,scandinavia,dd,,,,,,
+8412,,Småland,scandinavia,dd,,,,,,
+8413,,Søbjørnen,scandinavia,dd,,,,,,
+8414,,Søhesten,scandinavia,dd,,,,,,
+8415,,Søhunden,scandinavia,dd,,,,,,
+8416,,Søløven,scandinavia,dd,,,,,,
+8417,,Søridderen,scandinavia,dd,,,,,,
+8418,,Sørøysund,scandinavia,dd,,,,,,
+8419,,Søulven,scandinavia,dd,,,,,,
+8420,,Spårö,scandinavia,dd,,,,,,
+8421,,Sparre,scandinavia,dd,,,,,,
+8422,,Springeren,scandinavia,dd,,,,,,
+8423,,Stettin,scandinavia,dd,,,,,,
+8424,,Støren,scandinavia,dd,,,,,,
+8425,,Stralsund,scandinavia,dd,,,,,,
+8426,,Sturkö,scandinavia,dd,,,,,,
+8427,,Styrsö,scandinavia,dd,,,,,,
+8428,,Suenson,scandinavia,dd,,,,,,
+8429,,Svalbard,scandinavia,dd,,,,,,
+8430,,Svenske Sophia,scandinavia,dd,,,,,,
+8431,,Teist,scandinavia,dd,,,,,,
+8432,,Thorbjorn Hornklove,scandinavia,dd,,,,,,
+8433,,Titran,scandinavia,dd,,,,,,
+8434,,Trelleborg,scandinavia,dd,,,,,,
+8435,,Troll,scandinavia,dd,,,,,,
+8436,,Tromsø,scandinavia,dd,,,,,,
+8437,,Tumleren,scandinavia,dd,,,,,,
+8438,,Uddevalla,scandinavia,dd,,,,,,
+8439,,Ulvön,scandinavia,dd,,,,,,
+8440,,Ulvsund,scandinavia,dd,,,,,,
+8441,,Vale,scandinavia,dd,,,,,,
+8442,,Valkyrien,scandinavia,dd,,,,,,
+8443,,Vanadis,scandinavia,dd,,,,,,
+8444,,Värmland,scandinavia,dd,,,,,,
+8445,,Västmanland,scandinavia,dd,,,,,,
+8446,,Västra Götaland,scandinavia,dd,,,,,,
+8447,,Ven,scandinavia,dd,,,,,,
+8448,,Viben,scandinavia,dd,,,,,,
+8449,,Viking,scandinavia,dd,,,,,,
+8450,,Vilsund,scandinavia,dd,,,,,,
+8451,,Vindhunden,scandinavia,dd,,,,,,
+8452,,Vinga,scandinavia,dd,,,,,,
+8453,,Vladislaff,scandinavia,dd,,,,,,
+8454,,Wachtmeister,scandinavia,dd,,,,,,
+8455,,Wale,scandinavia,dd,,,,,,
+8456,,Warberg,scandinavia,dd,,,,,,
+8457,,Wenden,scandinavia,dd,,,,,,
+8458,,Westmanland,scandinavia,dd,,,,,,
+8459,,Wrangel,scandinavia,dd,,,,,,
+8460,,Wrede,scandinavia,dd,,,,,,
+8461,,Aeger,scandinavia,dd,,,,,,
+8462,,Åhav,scandinavia,dd,,,,,,
+8463,,Alversund,scandinavia,dd,,,,,,
+8464,,Barentshav,scandinavia,dd,,,,,,
+8465,,Brand,scandinavia,dd,,,,,,
+8466,,Delfin,scandinavia,dd,,,,,,
+8467,,Einarr Þambarskelfir,scandinavia,dd,,,,,,
+8468,,Ellida,scandinavia,dd,,,,,,
+8469,,Gyller,scandinavia,dd,,,,,,
+8470,,Hai,scandinavia,dd,,,,,,
+8471,,Harstad,scandinavia,dd,,,,,,
+8472,,Hval,scandinavia,dd,,,,,,
+8473,,knórr,scandinavia,dd,,,,,,
+8474,,Kongsøy,scandinavia,dd,,,,,,
+8475,,Kvalsund,scandinavia,dd,,,,,,
+8476,,Laks,scandinavia,dd,,,,,,
+8477,,Nysleppen,scandinavia,dd,,,,,,
+8478,,Raftsund,scandinavia,dd,,,,,,
+8479,,Raider,scandinavia,dd,,,,,,
+8480,,Raud,scandinavia,dd,,,,,,
+8481,,Sæl,scandinavia,dd,,,,,,
+8482,,Sild,scandinavia,dd,,,,,,
+8483,,Sjøveien,scandinavia,dd,,,,,,
+8484,,Skrei,scandinavia,dd,,,,,,
+8485,,Stålbas,scandinavia,dd,,,,,,
+8486,,Storm,scandinavia,dd,,,,,,
+8487,,Thorsteinson,scandinavia,dd,,,,,,
+8488,,Tjeldsund,scandinavia,dd,,,,,,
+8489,,Torsteinson,scandinavia,dd,,,,,,
+8490,,Trods,scandinavia,dd,,,,,,
+8491,,Uller,scandinavia,dd,,,,,,
+8492,,Narwhal,scandinavia,ss,,,,,,
 ###,,,END,,,,,,,
