@@ -1,0 +1,17 @@
+# Player Name,Default Civil Flag Filename,Default Naval Jack Filename, Per-Government Flags for Civil, Per-Government Flags for Naval
+# See Wiki/Resouces for base flag assets,PNG (no alpha channel) or JPG,PNG (no alpha channel) or JPG,"The government types used by the game for civil and naval flags are: Monarchy, Fascists, Communists, and Democracy",
+# EXAMPLE: portugal,portugalCivil.png,portugalJack.png,"Monarchy(portugalMonarchy.png),Fascists(portugalFascist.png),Communists(portugalCommunist.png),Democracy(portugalGov.png)","Monarchy(portugalMonarchyNaval.png),Fascists(portugalGov.png),Communists(portugalGov.png),Democracy(portugalGov.png)"
+@name,civilFlag,navalFlag,civilGovFlags,navalGovFlags
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

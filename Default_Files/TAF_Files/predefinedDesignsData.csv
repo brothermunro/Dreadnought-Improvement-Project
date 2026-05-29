@@ -1,0 +1,3 @@
+@name,filename,skipChance,yearRange
+# Used for debugging,Path relitive to Mods folder,"Loops down list, chooses a RNG value, if it's less than this value it skips to the next one.","Number of years to check from current year for valid designs (e.x. year = 1910, yearRange = 10, will check from 1910 to 1900 for valid designs). -1 = default = 10."
+predefinedDesigns,predefinedDesigns.bin,0,-1
