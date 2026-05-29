@@ -6,7 +6,7 @@ taf_hot_reload,0,TAF supports hot-reloading for quick iteration. Press F9 to hot
 taf_guns_direct_assign_caliber_length_modifier,1,This replaces the existing caliber_length_modifier_X multiplier with direct-designation. This means you can use the actual desired caliber values rather than manipulating an arbitrary multiplier.,,,,,,,
 #,,,,,,,,,
 # Predefined and Shared Designs Controls,,https://github.com/DukeDagor/UADRealismDIP/wiki/New-Params#predefined--shared-designs,,,,,,,
-taf_force_no_predef_designs,1,"Forces ""Bespoke"" mode for campaign creation.",,,,,,,
+taf_force_no_predef_designs,0,"Forces ""Bespoke"" mode for campaign creation.",,,,,,,
 taf_predef_ignore_missing,1,Ignore missing ships in predefined files. Useful for splitting predefs into multiple pieces.,,,,,,,
 taf_predef_debug_enable,0,Campaigns will fail to load if the predefined ship list (from one or more predef files) has a nation-year pair with 0 designs. This will print what nations & years are missing and add extra constraints for low design count. This is printed into the log in CSV format.,,,,,,,
 taf_predef_debug_format,0,1 = Plain text list | 1 = csv tables,,,,,,,
