@@ -1,0 +1,10 @@
+@name,value,# comment
+nation,all,Player nation. 'all' will generate for all nations. Must be lower-case.
+ship_type,all,Ship type. 'all' will generate for all ship types. Must be lower-case.
+generate_count,10,"Number to generate per nation, per type, per year."
+ensure_count,1,Continue generating until the desired number is reached. This could result in an infinate loop if a nation/class/year combo is impossible to generate.
+show_years,1,Default visibility of year selector. This must be set to 1 if year_min/max/list are used.
+year_min,1890,Select from this year...
+year_max,1960,...to this year in the year selector by default. Leave empty to ignore.
+year_list,,Comma separated list of years to select. Leave empty to ignore.
+,,

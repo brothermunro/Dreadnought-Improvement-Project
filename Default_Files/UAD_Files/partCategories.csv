@@ -1,0 +1,14 @@
+#id,type of part,hotkey,short name for ui,name for human,description for ui,various filtering condition (internal code),"params:
+hide - hidden from ui;
+part_name - when damage, show name of part, not category name;",,
+@name,type,key,nameShort,nameUi,desc,condition,param,#comment,#
+hull,hull,z,$Ui_Constr_Hull,$Ui_Constr_Hull,$partcategories_desc_hull,,,,
+tower_main,tower_main,x,$Stats_name_tower_main,$Stats_name_tower_main,$LoadingScreens_Text_51,,,,
+tower_sec,tower_sec,c,$partcategories_name_short_tower_sec,$Stats_name_tower_sec,$LoadingScreens_Text_52,,,,
+funnel,funnel,v,$partcategories_name_short_funnel,$Stats_name_funnel,$Stats_desc_funnel,,,,
+barbette,barbette,b,$Ui_Constr_Barbette,$partcategories_name_barbette,$partcategories_desc_barbette,,,,
+gun_main,gun,n,$partcategories_name_short_gun_main,$Stats_name_gun_main,$Stats_desc_gun_main,"main_cal, !casemate",,,
+gun_sec,gun,m,$partcategories_name_short_gun_sec,$partcategories_name_gun_sec,$partcategories_desc_gun_sec,"sec_cal, !casemate",,,
+gun_casemate,gun,",",$partcategories_name_short_gun_casemate,$partcategories_name_gun_casemate,$partcategories_desc_gun_casemate,"sec_cal, casemate",,,
+torpedo,torpedo,.,$Ui_Battle_Torpedo,$Stats_name_torpedo,$Stats_desc_torpedo,,,,
+special,special,,$comptypes_category_special,$comptypes_category_special,$techEffect_desc_stat,,"hide, part_name",,
