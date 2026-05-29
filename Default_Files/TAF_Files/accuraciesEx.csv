@@ -1,0 +1,56 @@
+#Name,Sub-Name,Enabled / Disabled,Override UI Name,Sub-Name Override,Replacement,Flat multiplier,Flat bonus,Minimum,Maximum,Comments
+#Explanation,For GGs and ranges.,Disable the modifier completely,Override Display Name (supports localization),Override Sub-Name (supports localization),Percent (-100 ~ inf),Multiply final value.,"Percent, add to final value.",Percent (-100 ~ inf),Percent (minimum ~ inf),"-100% = 0, 100% = 2, etc. Set replace/max to -101 to ignore. Min >= -100."
+name,subname,enabled,name_override,subname_override,replace,multiplier,bonus,min,max,Explanation (may not be 100% correct)
+default,,1,,,-101,1,0,-100,-101,
+#,,,,,,,,,,
+# Base accuracy,,,,,,,,,,
+Base,,,,,,,,,,The base accuracy by range.
+Base,range 0.1km,,,Knife-Fighting Range,10000,,,,,EXAMPLE: Base uses sub-names for each 100m range incrament. Remove if you aren't going to use it.
+Base,range 6km,,,$example_localization,,,,,,"EXAMPLE: If the range is a whole number, don't include the decimal. Ranges beyond 10km don't have decimals."
+Out of Range,,,,,,,,,,Forces accuracy to 0 when all guns are out of range.
+Range finding,,,,,,,,,,"Until first salvo is fired, has a constant -100% value. Not sure why this even exists."
+#,,,,,,,,,,
+# Variable Modifiers (Self/Ally),,,,,,,,,,
+Flagship Communications,,,,,,,,,,Being close to the flagship improves coordination.
+Far from Flagship,,,,,,,,,,Distance from flagship reduces shared accuracy and impairs communications.
+Flooding Instability,,,,,,,,,,"Flooding will cause the ship to list at a variable rate, reducing accuracy."
+Damage Instability,,,,,,,,,,Instability from being hit.
+Gun Recoil,,,,,,,,,,Instability from our own guns firing.
+Engine Vibrations,,,,,,,,,,Vibrations from the ship’s engines and machinery.
+Guns of Different Barrels,,,,,,,,,,Number of gun calibers on our ship increases uncertainty when counting splashes.
+Not Centerlined Guns,,,,,,,,,,"Wing guns complicate the firing solution, as each side has different positions and rotations compared to each other and the center line"
+Various Funnel Emissions,,,,,,,,,,"Smoke from funnels, varies with speed/damage."
+Thick Smoke from own Funnel,,,,,,,,,,Might be deprecated.
+Own Guns' Splashes,,,,,,,,,,Splashes from our own guns degrade accuracy.
+Other Guns' Splashes,,,,,,,,,,Splashes from other guns degrade accuracy.
+Own Maneuver,,,,,,,,,,Acceleration/Deceleration from turning or changing speed will reduce the accuracy of our targeting.
+Own Cruise Speed,,,,,,,,,,"Increasing the ship’s speed beyond a certain threshold will introduce vibrations and cavitation that reduce accuracy,"
+Shooting through Smoke,,,,,,,,,,"When firing from within a smoke cloud, visual targeting is impaired."
+Range Found,,,,,,,,,,Firing ranging shots will drastically improve accuracy. Can exceed +1000% when uncapped.
+Conning Tower damaged,,,,,,,,,,Damage to conning tower interferes with the ship’s command structure.
+Fire Control damaged,,,,,,,,,,Damage to the firing control system cripples the ship’s ability to track targets.
+#,,,,,,,,,,
+# Variable Modifiers (Enemy),,,,,,,,,,
+Target Ship Size,,,,,,,,,,Larger targets are easier to hit.
+Target's Maneuver,,,,,,,,,,Acceleration/Deceleration from the enemy turning or changing speed will reduce the accuracy of our targeting.
+Target's Slow Speed,,,,,,,,,,Accuracy buff for slow moving targets.
+Target's Fast Speed,,,,,,,,,,Accuracy buff for fast moving targets.
+Target behind Smoke,,,,,,,,,,"When firing at a target hidden by a smoke cloud, visual targeting is impaired."
+#,,,,,,,,,,
+# Tech & Part (Constant) Modifiers,,,,,,,,,,
+Technologies,,,,,,,,,,Various tech bonuses to accuracy.
+Long-Range Techs & Tower,,,,,,,,,,Long range accuracy bonus from techs and tower parts.
+Hull Stability & Tower,,,,,,,,,,Stability bonus from hull and tower parts.
+1-barrels Turret Tech,,,,,,,,,,Tech for one-gun turrets.
+2-barrels Turret Tech,,,,,,,,,,Tech for two-gun turrets.
+3-barrels Turret Tech,,,,,,,,,,Tech for three-gun turrets.
+4-barrels Turret Tech,,,,,,,,,,Tech for four-gun turrets.
+Casemate Tech,,,,,,,,,,Tech for casemates.
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

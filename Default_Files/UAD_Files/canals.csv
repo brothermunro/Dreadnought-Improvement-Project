@@ -1,0 +1,10 @@
+@name,nameUi,provinceId,availability_year,#latitude,#longitude,#posLink
+kiel_canal,Kiel Canal,western_germany,1895,54.19754472,9.544006536,Kiel Canal
+panama_canal,Panama Canal,panama,1914,9.118504597,-79.73197431,Panama Canal
+suez_canal,Suez Canal,north_egypt,1890,30.55284046,32.34205743,Suez Canal
+bosporus_strait,Bosporus Strait,bosporus,1890,41.08503817,29.05860965,Bosporus Strait
+dardanelles_strait,Dardanelles Strait,dardanelles,1890,40.14383619,26.38630664,Dardanelles Strait
+danish_strait,Danish Straits,eastern_denmark,1890,56.00567518,10.99228189,Danish Straits
+oresund_strait,Øresund,eastern_denmark,1890,55.77467723,12.7238357,Øresund
+singapore_strait,Singapore Strait,singapore,1890,1.190573063,103.2844484,Singapore Strait
+gibraltar_strait,Strait of Gibraltar,gibraltar,1890,35.95570737,-5.504766956,Strait of Gibraltar
