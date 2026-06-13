@@ -107,6 +107,21 @@ $technology_name_hull_cruiser_17;15,000t Light Cruisers
 $technology_name_hull_cruiser_18;16,000t Light Cruisers
 $technology_name_hull_cruiser_19;17,000t Light Cruisers
 $technology_name_hull_cruiser_20;18,000t Light Cruisers
+$technology_name_hull_cruiser_21;6,500t Armoured Cruisers
+$technology_name_hull_cruiser_22;7,000t Armoured Cruisers
+$technology_name_hull_cruiser_23;7,500t Armoured Cruisers
+$technology_name_hull_cruiser_24;8,000t Armoured Cruisers
+$technology_name_hull_cruiser_25;8,500t Armoured Cruisers
+$technology_name_hull_cruiser_26;9,000t Armoured Cruisers
+$technology_name_hull_cruiser_27;10,000t Armoured Cruisers
+$technology_name_hull_cruiser_28;11,000t Armoured Cruisers
+$technology_name_hull_cruiser_29;12,000t Armoured Cruisers
+$technology_name_hull_cruiser_30;12,500t Armoured Cruisers
+$technology_name_hull_cruiser_31;13,000t Armoured Cruisers
+$technology_name_hull_cruiser_32;13,500t Armoured Cruisers
+$technology_name_hull_cruiser_33;14,000t Armoured Cruisers
+$technology_name_hull_cruiser_34;14,500t Armoured Cruisers
+$technology_name_hull_cruiser_35;15,000t Armoured Cruisers
 $technology_name_hull_strength_12_2;Unlock new Hulls
 $technology_name_hull_strength_12_3;Unlock Fast Dreadnoughts
 $technology_name_hull_cruiser_52_2;Unlock the biggest Battlecruisers
@@ -129,6 +144,21 @@ $technology_desc_hull_cruiser_17;Unlocks 15,000t Light Cruisers
 $technology_desc_hull_cruiser_18;Unlocks 16,000t Light Cruisers
 $technology_desc_hull_cruiser_19;Unlocks 17,000t Light Cruisers
 $technology_desc_hull_cruiser_20;Unlocks 18,000t Light Cruisers
+$technology_desc_hull_cruiser_21;Unlocks 6,500t Armoured Cruisers
+$technology_desc_hull_cruiser_22;Unlocks 7,000t Armoured Cruisers
+$technology_desc_hull_cruiser_23;Unlocks 7,500t Armoured Cruisers
+$technology_desc_hull_cruiser_24;Unlocks 8,000t Armoured Cruisers
+$technology_desc_hull_cruiser_25;Unlocks 8,500t Armoured Cruisers
+$technology_desc_hull_cruiser_26;Unlocks 9,000t Armoured Cruisers
+$technology_desc_hull_cruiser_27;Unlocks 10,000t Armoured Cruisers
+$technology_desc_hull_cruiser_28;Unlocks 11,000t Armoured Cruisers
+$technology_desc_hull_cruiser_29;Unlocks 12,000t Armoured Cruisers
+$technology_desc_hull_cruiser_30;Unlocks 12,500t Armoured Cruisers
+$technology_desc_hull_cruiser_31;Unlocks 13,000t Armoured Cruisers
+$technology_desc_hull_cruiser_32;Unlocks 13,500t Armoured Cruisers
+$technology_desc_hull_cruiser_33;Unlocks 14,000t Armoured Cruisers
+$technology_desc_hull_cruiser_34;Unlocks 14,500t Armoured Cruisers
+$technology_desc_hull_cruiser_35;Unlocks 15,000t Armoured Cruisers
 $Ui_NewGame_DesignUsage_Mixed;AI Design Usage: Hybrid
 $Ui_NewGame_DesignUsage_FullGenerated;AI Design Usage: Bespoke
 $Ui_NewGame_DesignUsage_FullPredefined;AI Design Usage: Pregenerated
