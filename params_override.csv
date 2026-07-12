@@ -53,7 +53,7 @@ taf_shipgen_limit_calibercounts_ter,999,Limit the number of tertiary caliber gun
 taf_override_map,1,"Enable the use of ports.csv, provinces.csv, canals.csv, and areas.csv. These require a little extra internal logic to function.",,,,,,,
 taf_alliance_changes,1,Forces alies to join wars together. See Wiki for full description.,,,,,,,
 taf_naval_invasion_tweaks,1,"Enable new naval invasion UI. Custom minimum area tonnage change naval invasion target after you set it, show all possible targets, show ongoing naval invasions.",,,,,,,
-taf_naval_invasion_minimum_area_tonnage,25000,Configure minimum naval tonnage required in a sea region before you can begin a naval invasion.,,,,,,,
+taf_naval_invasion_minimum_area_tonnage,10000,Configure minimum naval tonnage required in a sea region before you can begin a naval invasion.,,,,,,,
 taf_campaign_end_retirement_date,1950,Year that the player will be first asked if they want to retire. They also have the option to decline.,,,,,,,
 taf_campaign_end_retirement_promt_every_x_months,12,"After the player declines, ask the player again after this many months until the end the game.",,,,,,,
 taf_bailout_event_number,81,Requires a # and #_a entry in events.csv. Used for when player cash drops below 0.,,,,,,,
