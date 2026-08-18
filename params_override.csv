@@ -74,7 +74,7 @@ taf_conquest_event_chance_mult_starting_duration,0.01,Controls the displayed cha
 taf_conquest_event_chance_mult_full_duration,0.5,Controls the displayed chance and is the value used at the end of the duration.,,,,,,,
 taf_conquest_event_add_chance,0.66,Added to the chance for non-land rebellions.,,,,,,,
 taf_conquest_event_kill_factor,1,The extent to which soldier kill ratio influences conquest chance.,,,,,,,
-taf_crew_pool_colony_pop_ratio,0,This portion of non-home population will be added to home population when calculation base crew pool and per-turn crew pool income for a nation.,,,,,,,
+taf_crew_pool_colony_pop_ratio,50,This portion of non-home population will be added to home population when calculation base crew pool and per-turn crew pool income for a nation.,,,,,,,
 taf_disable_fleet_tension,1,Fleet tension is caused by the presence of any nation's ships near another nation's coast. Disabling this will negate fleet tension and disable the pop-up.,,,,,,,
 taf_disable_minor_and_medium_nation_land_invasions,1,"Minor and medium nations can launch land invasions as of 1.7.0.0. Not everyone wants this feature, so this will disable these events from occuring.",,,,,,,
 taf_ai_disable_tech_priorities,1,The AI will no longer be able to use the 3 tech priorities. Default behaviour is to randomize the priorities every turn which slows research tremendously.,,,,,,,
