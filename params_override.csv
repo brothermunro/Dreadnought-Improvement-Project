@@ -23,7 +23,7 @@ taf_shareddesign_minTechValue,0.5,"If no better ships are available, any ships w
 #,,,,,,,,,
 # UI Changes,,,,,,,,,
 taf_cheatMenuEnabled,0,Enable cheat menu (Give money,,,,,,,
-taf_versiontext,3,Version text in the lower right corner of the screen will be replaced. Set to 0 for default version text. Set text in the str column (move 4 columns to the right).,,,,DIP Classic 1.3.6,,,
+taf_versiontext,3,Version text in the lower right corner of the screen will be replaced. Set to 0 for default version text. Set text in the str column (move 4 columns to the right).,,,,DIP Classic 1.3.6 HF1,,,
 #,,    1. Append the supplied text to the existing version string.,,,,,,,
 #,,    2. Replace the text part of the version with the text in the str column but keep the base version number.,,,,,,,
 #,,    3. Entirely replace.,,,,,,,
