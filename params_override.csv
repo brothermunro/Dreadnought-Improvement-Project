@@ -114,3 +114,12 @@ taf_shell_deck_hit_percent_min,0,"The minimum deck area percent. 0 means no deck
 taf_shell_deck_hit_percent_max,1.2,"The maximum deck area percent. 0 means no deck area, 1 means the normal (base game) deck area. See wiki for more info.",,,,,,,
 taf_ship_stat_floatability_cap,140,"Floatability cap, min 0, max 150, default 140 (90% flooding reduction)",,,,,,,
 taf_ship_stat_endurance_cap,175,"Endurance cap, min 0, max 200, default 175 (90% damage reduction)",,,,,,,
+#TAF 3.22.0 New Params
+taf_shipgen_min_cal_gap,1,"sets the minimum difference in caliber between main or secondary guns",,,,,,,
+taf_naval_invasion_close_to_port_distance,3, "if you have sufficient tonnage within an area of this radius, you can initiate a naval invasion. A distance of 3 is about the same size as the invasion circles",,,,,,,
+max_torp_tube_count,5,"max Number tubes per launcher",,,,,,,
+min_torp_tube_count,1,"min Number tubes per launcher",,,,,,,
+max_torp_count,6,"Max number of total launchers",,,,,,,
+pref_torp_diameter,3,"Desired diameter, ranges from 0 to 4 (min, small, med, large, max)",,,,,,,
+taf_constructor_reflection_intensity,1.5,"control level of ambient light",,,,,,,
+taf_battle_reflection_intensity,0.5,"control level of ambient light",,,,,,,
